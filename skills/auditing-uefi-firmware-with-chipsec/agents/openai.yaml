@@ -1,0 +1,6 @@
+interface:
+  display_name: "Auditing Uefi Firmware With Chipsec"
+  short_description: "Use Intel CHIPSEC to assess platform firmware configuration..."
+  default_prompt: "Use $auditing-uefi-firmware-with-chipsec for an authorized cybersecurity task."
+policy:
+  allow_implicit_invocation: false

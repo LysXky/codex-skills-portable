@@ -1,0 +1,6 @@
+interface:
+  display_name: "Implementing Data Loss Prevention With Microsoft Purview"
+  short_description: "Implements data loss prevention policies using Microsoft Purv..."
+  default_prompt: "Use $implementing-data-loss-prevention-with-microsoft-purview for an authorized cybersecurity task."
+policy:
+  allow_implicit_invocation: false

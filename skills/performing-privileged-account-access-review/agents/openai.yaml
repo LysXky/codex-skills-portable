@@ -1,0 +1,6 @@
+interface:
+  display_name: "Performing Privileged Account Access Review"
+  short_description: "Conduct systematic reviews of privileged accounts to validate..."
+  default_prompt: "Use $performing-privileged-account-access-review for an authorized cybersecurity task."
+policy:
+  allow_implicit_invocation: false

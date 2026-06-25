@@ -1,0 +1,6 @@
+interface:
+  display_name: "Uspto Database"
+  short_description: "USPTO patent and trademark data workflow for official record..."
+  default_prompt: "Use $uspto-database to help with this task."
+policy:
+  allow_implicit_invocation: true

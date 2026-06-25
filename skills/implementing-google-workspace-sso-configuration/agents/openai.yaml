@@ -1,0 +1,6 @@
+interface:
+  display_name: "Implementing Google Workspace SSO Configuration"
+  short_description: "Configure SAML 2.0 single sign-on for Google Workspace with a..."
+  default_prompt: "Use $implementing-google-workspace-sso-configuration for an authorized cybersecurity task."
+policy:
+  allow_implicit_invocation: false

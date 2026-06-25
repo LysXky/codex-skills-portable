@@ -1,0 +1,6 @@
+interface:
+  display_name: "Auditing Entra Id With Aadinternals"
+  short_description: "Run Microsoft Entra ID tenant reconnaissance, token acquisiti..."
+  default_prompt: "Use $auditing-entra-id-with-aadinternals for an authorized cybersecurity task."
+policy:
+  allow_implicit_invocation: false

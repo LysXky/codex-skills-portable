@@ -1,0 +1,6 @@
+interface:
+  display_name: "Conducting Man In The Middle Attack Simulation"
+  short_description: "Simulates man-in-the-middle attacks using Ettercap, mitmproxy..."
+  default_prompt: "Use $conducting-man-in-the-middle-attack-simulation for an authorized cybersecurity task."
+policy:
+  allow_implicit_invocation: false

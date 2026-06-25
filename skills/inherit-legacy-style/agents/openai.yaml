@@ -1,0 +1,6 @@
+interface:
+  display_name: "Inherit Legacy Style"
+  short_description: "Legacy-project style inheritance skill. Use when the user typ..."
+  default_prompt: "Use $inherit-legacy-style to help with this task."
+policy:
+  allow_implicit_invocation: true

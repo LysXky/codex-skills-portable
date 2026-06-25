@@ -1,0 +1,6 @@
+interface:
+  display_name: "Detecting Arp Poisoning In Network Traffic"
+  short_description: "Detect and prevent ARP spoofing attacks using ARPWatch, Dynam..."
+  default_prompt: "Use $detecting-arp-poisoning-in-network-traffic for an authorized cybersecurity task."
+policy:
+  allow_implicit_invocation: false

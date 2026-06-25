@@ -1,0 +1,6 @@
+interface:
+  display_name: "Implementing Runtime Application Self Protection"
+  short_description: "Deploy Runtime Application Self-Protection (RASP) agents to d..."
+  default_prompt: "Use $implementing-runtime-application-self-protection for an authorized cybersecurity task."
+policy:
+  allow_implicit_invocation: false

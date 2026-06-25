@@ -1,0 +1,6 @@
+interface:
+  display_name: "Performing AWS Account Enumeration With Scout Suite"
+  short_description: "Perform comprehensive security posture assessment of AWS acco..."
+  default_prompt: "Use $performing-aws-account-enumeration-with-scout-suite for an authorized cybersecurity task."
+policy:
+  allow_implicit_invocation: false

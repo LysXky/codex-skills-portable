@@ -1,0 +1,6 @@
+interface:
+  display_name: "Analyzing Mft For Deleted File Recovery"
+  short_description: "Analyze the NTFS Master File Table ($MFT) to recover metadata..."
+  default_prompt: "Use $analyzing-mft-for-deleted-file-recovery for an authorized cybersecurity task."
+policy:
+  allow_implicit_invocation: false

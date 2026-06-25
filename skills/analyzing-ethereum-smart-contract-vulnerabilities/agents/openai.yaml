@@ -1,0 +1,6 @@
+interface:
+  display_name: "Analyzing Ethereum Smart Contract Vulnerabilities"
+  short_description: "Perform static and symbolic analysis of Solidity smart contra..."
+  default_prompt: "Use $analyzing-ethereum-smart-contract-vulnerabilities for an authorized cybersecurity task."
+policy:
+  allow_implicit_invocation: false

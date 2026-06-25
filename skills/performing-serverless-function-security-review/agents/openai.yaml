@@ -1,0 +1,6 @@
+interface:
+  display_name: "Performing Serverless Function Security Review"
+  short_description: "Performing security reviews of serverless functions across AW..."
+  default_prompt: "Use $performing-serverless-function-security-review for an authorized cybersecurity task."
+policy:
+  allow_implicit_invocation: false

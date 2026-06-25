@@ -1,0 +1,6 @@
+interface:
+  display_name: "Flox Environments"
+  short_description: "Create reproducible, cross-platform (macOS/Linux) development..."
+  default_prompt: "Use $flox-environments to help with this task."
+policy:
+  allow_implicit_invocation: true

@@ -1,0 +1,6 @@
+interface:
+  display_name: "Performing Kubernetes Cis Benchmark With Kube Bench"
+  short_description: "Audit Kubernetes cluster security posture against CIS benchma..."
+  default_prompt: "Use $performing-kubernetes-cis-benchmark-with-kube-bench for an authorized cybersecurity task."
+policy:
+  allow_implicit_invocation: false

@@ -1,0 +1,6 @@
+interface:
+  display_name: "Building Incident Timeline With Timesketch"
+  short_description: "Build collaborative forensic incident timelines using Timeske..."
+  default_prompt: "Use $building-incident-timeline-with-timesketch for an authorized cybersecurity task."
+policy:
+  allow_implicit_invocation: false

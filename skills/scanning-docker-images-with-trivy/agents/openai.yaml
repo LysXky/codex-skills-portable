@@ -1,0 +1,6 @@
+interface:
+  display_name: "Scanning Docker Images With Trivy"
+  short_description: "Trivy is a comprehensive open-source vulnerability scanner by..."
+  default_prompt: "Use $scanning-docker-images-with-trivy for an authorized cybersecurity task."
+policy:
+  allow_implicit_invocation: false

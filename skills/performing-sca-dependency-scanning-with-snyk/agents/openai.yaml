@@ -1,0 +1,6 @@
+interface:
+  display_name: "Performing Sca Dependency Scanning With Snyk"
+  short_description: "This skill covers implementing Software Composition Analysis..."
+  default_prompt: "Use $performing-sca-dependency-scanning-with-snyk for an authorized cybersecurity task."
+policy:
+  allow_implicit_invocation: false

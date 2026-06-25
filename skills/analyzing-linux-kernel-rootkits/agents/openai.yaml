@@ -1,0 +1,6 @@
+interface:
+  display_name: "Analyzing Linux Kernel Rootkits"
+  short_description: "Detect kernel-level rootkits in Linux memory dumps using Vola..."
+  default_prompt: "Use $analyzing-linux-kernel-rootkits for an authorized cybersecurity task."
+policy:
+  allow_implicit_invocation: false

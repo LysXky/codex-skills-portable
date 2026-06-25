@@ -1,0 +1,6 @@
+interface:
+  display_name: "Deploying Palo Alto Prisma Access Zero Trust"
+  short_description: "Deploying Palo Alto Networks Prisma Access for SASE-based zer..."
+  default_prompt: "Use $deploying-palo-alto-prisma-access-zero-trust for an authorized cybersecurity task."
+policy:
+  allow_implicit_invocation: false

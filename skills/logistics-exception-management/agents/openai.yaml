@@ -1,0 +1,6 @@
+interface:
+  display_name: "Logistics Exception Management"
+  short_description: "Codified expertise for handling freight exceptions, shipment..."
+  default_prompt: "Use $logistics-exception-management to help with this task."
+policy:
+  allow_implicit_invocation: true

@@ -1,0 +1,6 @@
+interface:
+  display_name: "Detecting Anomalies In Industrial Control Systems"
+  short_description: "This skill covers deploying anomaly detection systems for ind..."
+  default_prompt: "Use $detecting-anomalies-in-industrial-control-systems for an authorized cybersecurity task."
+policy:
+  allow_implicit_invocation: false

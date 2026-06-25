@@ -1,0 +1,6 @@
+interface:
+  display_name: "Detecting T1548 Abuse Elevation Control Mechanism"
+  short_description: "Detect abuse of elevation control mechanisms including UAC by..."
+  default_prompt: "Use $detecting-t1548-abuse-elevation-control-mechanism for an authorized cybersecurity task."
+policy:
+  allow_implicit_invocation: false

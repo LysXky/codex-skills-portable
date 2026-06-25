@@ -1,0 +1,6 @@
+interface:
+  display_name: "Implementing Attack Surface Management"
+  short_description: "Implements external attack surface management (EASM) using Sh..."
+  default_prompt: "Use $implementing-attack-surface-management for an authorized cybersecurity task."
+policy:
+  allow_implicit_invocation: false

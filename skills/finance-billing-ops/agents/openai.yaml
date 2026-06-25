@@ -1,0 +1,6 @@
+interface:
+  display_name: "Finance Billing Ops"
+  short_description: "Evidence-first revenue, pricing, refunds, team-billing, and b..."
+  default_prompt: "Use $finance-billing-ops to help with this task."
+policy:
+  allow_implicit_invocation: true

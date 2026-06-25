@@ -1,0 +1,6 @@
+interface:
+  display_name: "Relaying Ntlm For Adcs Esc8"
+  short_description: "Run ntlmrelayx into ADCS web enrollment to obtain a domain co..."
+  default_prompt: "Use $relaying-ntlm-for-adcs-esc8 for an authorized cybersecurity task."
+policy:
+  allow_implicit_invocation: false

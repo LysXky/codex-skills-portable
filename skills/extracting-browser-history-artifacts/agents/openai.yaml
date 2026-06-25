@@ -1,0 +1,6 @@
+interface:
+  display_name: "Extracting Browser History Artifacts"
+  short_description: "Extract and analyze browser history, cookies, cache, download..."
+  default_prompt: "Use $extracting-browser-history-artifacts for an authorized cybersecurity task."
+policy:
+  allow_implicit_invocation: false

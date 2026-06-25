@@ -1,0 +1,6 @@
+interface:
+  display_name: "Analyzing Cobaltstrike Malleable C2 Profiles"
+  short_description: "Parse and analyze Cobalt Strike Malleable C2 profiles using d..."
+  default_prompt: "Use $analyzing-cobaltstrike-malleable-c2-profiles for an authorized cybersecurity task."
+policy:
+  allow_implicit_invocation: false

@@ -1,0 +1,6 @@
+interface:
+  display_name: "Conducting Pass The Ticket Attack"
+  short_description: "Pass-the-Ticket (PtT) is a lateral movement technique that us..."
+  default_prompt: "Use $conducting-pass-the-ticket-attack for an authorized cybersecurity task."
+policy:
+  allow_implicit_invocation: false

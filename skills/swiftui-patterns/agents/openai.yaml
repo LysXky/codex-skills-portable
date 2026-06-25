@@ -1,0 +1,6 @@
+interface:
+  display_name: "Swiftui Patterns"
+  short_description: "SwiftUI architecture patterns, state management with @Observa..."
+  default_prompt: "Use $swiftui-patterns to help with this task."
+policy:
+  allow_implicit_invocation: true

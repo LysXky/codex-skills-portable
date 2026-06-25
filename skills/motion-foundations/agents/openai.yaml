@@ -1,0 +1,6 @@
+interface:
+  display_name: "Motion Foundations"
+  short_description: "Motion tokens, spring presets, performance rules, device adap..."
+  default_prompt: "Use $motion-foundations to help with this task."
+policy:
+  allow_implicit_invocation: true

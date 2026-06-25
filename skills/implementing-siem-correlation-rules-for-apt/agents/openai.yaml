@@ -1,0 +1,6 @@
+interface:
+  display_name: "Implementing SIEM Correlation Rules For APT"
+  short_description: "Write multi-event correlation rules that detect APT lateral m..."
+  default_prompt: "Use $implementing-siem-correlation-rules-for-apt for an authorized cybersecurity task."
+policy:
+  allow_implicit_invocation: false

@@ -1,0 +1,6 @@
+interface:
+  display_name: "Orch Pipeline"
+  short_description: "Shared orchestration engine for the orch-* skill family. Defi..."
+  default_prompt: "Use $orch-pipeline to help with this task."
+policy:
+  allow_implicit_invocation: true

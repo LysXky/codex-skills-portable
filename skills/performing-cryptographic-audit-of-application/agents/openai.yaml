@@ -1,0 +1,6 @@
+interface:
+  display_name: "Performing Cryptographic Audit Of Application"
+  short_description: "A cryptographic audit systematically reviews an application's..."
+  default_prompt: "Use $performing-cryptographic-audit-of-application for an authorized cybersecurity task."
+policy:
+  allow_implicit_invocation: false

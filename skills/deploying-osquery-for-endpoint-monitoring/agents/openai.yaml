@@ -1,0 +1,6 @@
+interface:
+  display_name: "Deploying Osquery For Endpoint Monitoring"
+  short_description: "Deploys and configures osquery for real-time endpoint monitor..."
+  default_prompt: "Use $deploying-osquery-for-endpoint-monitoring for an authorized cybersecurity task."
+policy:
+  allow_implicit_invocation: false

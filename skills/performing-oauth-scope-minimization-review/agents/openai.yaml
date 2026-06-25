@@ -1,0 +1,6 @@
+interface:
+  display_name: "Performing Oauth Scope Minimization Review"
+  short_description: "Performs OAuth 2.0 scope minimization review to identify over..."
+  default_prompt: "Use $performing-oauth-scope-minimization-review for an authorized cybersecurity task."
+policy:
+  allow_implicit_invocation: false

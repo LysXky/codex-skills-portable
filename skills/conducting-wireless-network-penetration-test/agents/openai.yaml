@@ -1,0 +1,6 @@
+interface:
+  display_name: "Conducting Wireless Network Penetration Test"
+  short_description: "Conducts authorized wireless network penetration tests to ass..."
+  default_prompt: "Use $conducting-wireless-network-penetration-test for an authorized cybersecurity task."
+policy:
+  allow_implicit_invocation: false

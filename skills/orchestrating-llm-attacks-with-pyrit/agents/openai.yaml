@@ -1,0 +1,6 @@
+interface:
+  display_name: "Orchestrating LLM Attacks With Pyrit"
+  short_description: "Build multi-turn, Crescendo, and Tree-of-Attacks-with-Pruning..."
+  default_prompt: "Use $orchestrating-llm-attacks-with-pyrit for an authorized cybersecurity task."
+policy:
+  allow_implicit_invocation: false

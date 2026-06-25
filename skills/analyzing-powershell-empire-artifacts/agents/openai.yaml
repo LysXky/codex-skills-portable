@@ -1,0 +1,6 @@
+interface:
+  display_name: "Analyzing Powershell Empire Artifacts"
+  short_description: "Detect PowerShell Empire framework artifacts in Windows event..."
+  default_prompt: "Use $analyzing-powershell-empire-artifacts for an authorized cybersecurity task."
+policy:
+  allow_implicit_invocation: false

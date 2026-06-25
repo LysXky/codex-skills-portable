@@ -1,0 +1,6 @@
+interface:
+  display_name: "Implementing Secrets Scanning In Ci Cd"
+  short_description: "Integrate gitleaks and trufflehog into CI/CD pipelines to det..."
+  default_prompt: "Use $implementing-secrets-scanning-in-ci-cd for an authorized cybersecurity task."
+policy:
+  allow_implicit_invocation: false

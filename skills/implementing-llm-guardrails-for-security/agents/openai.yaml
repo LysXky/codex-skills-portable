@@ -1,0 +1,6 @@
+interface:
+  display_name: "Implementing LLM Guardrails For Security"
+  short_description: "Implements input and output validation guardrails for LLM-pow..."
+  default_prompt: "Use $implementing-llm-guardrails-for-security for an authorized cybersecurity task."
+policy:
+  allow_implicit_invocation: false

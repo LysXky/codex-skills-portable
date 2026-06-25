@@ -1,0 +1,6 @@
+interface:
+  display_name: "Detecting Golden Ticket Attacks In Kerberos Logs"
+  short_description: "Detect Golden Ticket attacks in Active Directory by analyzing..."
+  default_prompt: "Use $detecting-golden-ticket-attacks-in-kerberos-logs for an authorized cybersecurity task."
+policy:
+  allow_implicit_invocation: false

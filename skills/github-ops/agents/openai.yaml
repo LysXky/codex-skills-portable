@@ -1,0 +1,6 @@
+interface:
+  display_name: "Github Ops"
+  short_description: "GitHub repository operations, automation, and management. Iss..."
+  default_prompt: "Use $github-ops to help with this task."
+policy:
+  allow_implicit_invocation: true

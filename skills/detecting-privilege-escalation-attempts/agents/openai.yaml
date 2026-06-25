@@ -1,0 +1,6 @@
+interface:
+  display_name: "Detecting Privilege Escalation Attempts"
+  short_description: "Detect privilege escalation attempts including token manipula..."
+  default_prompt: "Use $detecting-privilege-escalation-attempts for an authorized cybersecurity task."
+policy:
+  allow_implicit_invocation: false

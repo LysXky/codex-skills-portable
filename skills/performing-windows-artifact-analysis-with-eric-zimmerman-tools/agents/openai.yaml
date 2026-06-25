@@ -1,0 +1,6 @@
+interface:
+  display_name: "Performing Windows Artifact Analysis With Eric Zimmerman Tools"
+  short_description: "Perform comprehensive Windows forensic artifact analysis usin..."
+  default_prompt: "Use $performing-windows-artifact-analysis-with-eric-zimmerman-tools for an authorized cybersecurity task."
+policy:
+  allow_implicit_invocation: false

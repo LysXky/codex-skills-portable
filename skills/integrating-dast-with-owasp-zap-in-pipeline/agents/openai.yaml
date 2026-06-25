@@ -1,0 +1,6 @@
+interface:
+  display_name: "Integrating Dast With Owasp Zap In Pipeline"
+  short_description: "This skill covers integrating OWASP ZAP (Zed Attack Proxy) fo..."
+  default_prompt: "Use $integrating-dast-with-owasp-zap-in-pipeline for an authorized cybersecurity task."
+policy:
+  allow_implicit_invocation: false

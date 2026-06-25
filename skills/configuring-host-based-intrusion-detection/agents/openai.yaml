@@ -1,0 +1,6 @@
+interface:
+  display_name: "Configuring Host Based Intrusion Detection"
+  short_description: "Configures host-based intrusion detection systems (HIDS) to m..."
+  default_prompt: "Use $configuring-host-based-intrusion-detection for an authorized cybersecurity task."
+policy:
+  allow_implicit_invocation: false

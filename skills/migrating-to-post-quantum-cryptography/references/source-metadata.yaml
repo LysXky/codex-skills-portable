@@ -1,0 +1,21 @@
+# Original source metadata preserved during Codex adaptation.
+name: migrating-to-post-quantum-cryptography
+description: Inventory cryptography, deploy hybrid X25519 and ML-KEM, and prioritize harvest-now-decrypt-later data.
+domain: cybersecurity
+subdomain: cryptography
+tags:
+- post-quantum
+- cryptography
+- ml-kem
+- ml-dsa
+- crypto-agility
+- cbom
+- tls
+- quantum-readiness
+version: '1.0'
+author: mahipal
+license: Apache-2.0
+nist_csf:
+- PR.DS-02
+mitre_attack:
+- T1573

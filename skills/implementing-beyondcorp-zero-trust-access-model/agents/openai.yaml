@@ -1,0 +1,6 @@
+interface:
+  display_name: "Implementing Beyondcorp Zero Trust Access Model"
+  short_description: "Implementing Google''s BeyondCorp zero trust access model to..."
+  default_prompt: "Use $implementing-beyondcorp-zero-trust-access-model for an authorized cybersecurity task."
+policy:
+  allow_implicit_invocation: false

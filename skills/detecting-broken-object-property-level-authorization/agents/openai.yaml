@@ -1,0 +1,6 @@
+interface:
+  display_name: "Detecting Broken Object Property Level Authorization"
+  short_description: "Detect and test for OWASP API3:2023 Broken Object Property Le..."
+  default_prompt: "Use $detecting-broken-object-property-level-authorization for an authorized cybersecurity task."
+policy:
+  allow_implicit_invocation: false

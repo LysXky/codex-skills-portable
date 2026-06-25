@@ -1,0 +1,6 @@
+interface:
+  display_name: "Performing API Rate Limiting Bypass"
+  short_description: "Tests API rate limiting implementations for bypass vulnerabil..."
+  default_prompt: "Use $performing-api-rate-limiting-bypass for an authorized cybersecurity task."
+policy:
+  allow_implicit_invocation: false

@@ -1,0 +1,6 @@
+interface:
+  display_name: "Implementing Network Access Control"
+  short_description: "Implements 802.1X port-based network access control using RAD..."
+  default_prompt: "Use $implementing-network-access-control for an authorized cybersecurity task."
+policy:
+  allow_implicit_invocation: false

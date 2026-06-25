@@ -1,0 +1,6 @@
+interface:
+  display_name: "Latency Critical Systems"
+  short_description: "Use for latency-sensitive systems such as realtime dashboards..."
+  default_prompt: "Use $latency-critical-systems to help with this task."
+policy:
+  allow_implicit_invocation: true

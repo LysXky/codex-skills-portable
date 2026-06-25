@@ -1,0 +1,6 @@
+interface:
+  display_name: "Detecting Beaconing Patterns With Zeek"
+  short_description: "Performs statistical analysis of Zeek conn.log connection int..."
+  default_prompt: "Use $detecting-beaconing-patterns-with-zeek for an authorized cybersecurity task."
+policy:
+  allow_implicit_invocation: false

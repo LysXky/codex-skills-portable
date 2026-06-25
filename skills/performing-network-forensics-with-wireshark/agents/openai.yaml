@@ -1,0 +1,6 @@
+interface:
+  display_name: "Performing Network Forensics With Wireshark"
+  short_description: "Capture and analyze network traffic using Wireshark and tshar..."
+  default_prompt: "Use $performing-network-forensics-with-wireshark for an authorized cybersecurity task."
+policy:
+  allow_implicit_invocation: false

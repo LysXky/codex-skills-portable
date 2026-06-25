@@ -1,0 +1,6 @@
+interface:
+  display_name: "Implementing Just In Time Access Provisioning"
+  short_description: "Implement Just-In-Time (JIT) access provisioning to eliminate..."
+  default_prompt: "Use $implementing-just-in-time-access-provisioning for an authorized cybersecurity task."
+policy:
+  allow_implicit_invocation: false

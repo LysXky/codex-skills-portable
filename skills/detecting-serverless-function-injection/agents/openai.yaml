@@ -1,0 +1,6 @@
+interface:
+  display_name: "Detecting Serverless Function Injection"
+  short_description: "Detects and prevents code injection attacks targeting serverl..."
+  default_prompt: "Use $detecting-serverless-function-injection for an authorized cybersecurity task."
+policy:
+  allow_implicit_invocation: false

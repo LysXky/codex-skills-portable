@@ -1,0 +1,6 @@
+interface:
+  display_name: "Configuring Snort Ids For Intrusion Detection"
+  short_description: "Installs, configures, and tunes Snort 3 intrusion detection s..."
+  default_prompt: "Use $configuring-snort-ids-for-intrusion-detection for an authorized cybersecurity task."
+policy:
+  allow_implicit_invocation: false

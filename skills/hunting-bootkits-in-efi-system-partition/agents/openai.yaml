@@ -1,0 +1,6 @@
+interface:
+  display_name: "Hunting Bootkits In Efi System Partition"
+  short_description: "Baseline the EFI System Partition and hunt malicious EFI bina..."
+  default_prompt: "Use $hunting-bootkits-in-efi-system-partition for an authorized cybersecurity task."
+policy:
+  allow_implicit_invocation: false

@@ -1,0 +1,6 @@
+interface:
+  display_name: "Hunting SAAS SSO Token Abuse"
+  short_description: "Detect SSO and OAuth token replay and SaaS lateral movement."
+  default_prompt: "Use $hunting-saas-sso-token-abuse for an authorized cybersecurity task."
+policy:
+  allow_implicit_invocation: false

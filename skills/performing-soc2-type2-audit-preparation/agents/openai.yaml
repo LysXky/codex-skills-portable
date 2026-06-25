@@ -1,0 +1,6 @@
+interface:
+  display_name: "Performing Soc2 Type2 Audit Preparation"
+  short_description: "Automates SOC 2 Type II audit preparation including gap asses..."
+  default_prompt: "Use $performing-soc2-type2-audit-preparation for an authorized cybersecurity task."
+policy:
+  allow_implicit_invocation: false

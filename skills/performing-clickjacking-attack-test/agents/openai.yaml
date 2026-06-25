@@ -1,0 +1,6 @@
+interface:
+  display_name: "Performing Clickjacking Attack Test"
+  short_description: "Testing web applications for clickjacking vulnerabilities by..."
+  default_prompt: "Use $performing-clickjacking-attack-test for an authorized cybersecurity task."
+policy:
+  allow_implicit_invocation: false

@@ -1,0 +1,6 @@
+interface:
+  display_name: "Hunting For Suspicious Scheduled Tasks"
+  short_description: "Hunt for adversary persistence and execution via Windows sche..."
+  default_prompt: "Use $hunting-for-suspicious-scheduled-tasks for an authorized cybersecurity task."
+policy:
+  allow_implicit_invocation: false

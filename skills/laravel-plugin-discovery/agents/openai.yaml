@@ -1,0 +1,6 @@
+interface:
+  display_name: "Laravel Plugin Discovery"
+  short_description: "Discover and evaluate Laravel packages via LaraPlugins.io MCP..."
+  default_prompt: "Use $laravel-plugin-discovery to help with this task."
+policy:
+  allow_implicit_invocation: true

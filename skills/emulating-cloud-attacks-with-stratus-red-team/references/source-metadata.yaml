@@ -1,0 +1,22 @@
+# Original source metadata preserved during Codex adaptation.
+name: emulating-cloud-attacks-with-stratus-red-team
+description: Detonate granular AWS, Azure, GCP, and Kubernetes attack techniques to validate
+  detections with Stratus Red Team.
+domain: cybersecurity
+subdomain: cloud-security
+tags:
+- stratus-red-team
+- adversary-emulation
+- cloud-security
+- detection-validation
+- purple-team
+- aws
+- mitre-attack
+- threat-detection
+version: '1.0'
+author: mahipal
+license: Apache-2.0
+nist_csf:
+- DE.CM-01
+mitre_attack:
+- T1078

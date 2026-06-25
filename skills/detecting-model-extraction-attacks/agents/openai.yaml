@@ -1,0 +1,6 @@
+interface:
+  display_name: "Detecting Model Extraction Attacks"
+  short_description: "Detect model stealing, model inversion, and membership infere..."
+  default_prompt: "Use $detecting-model-extraction-attacks for an authorized cybersecurity task."
+policy:
+  allow_implicit_invocation: false

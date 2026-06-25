@@ -1,0 +1,6 @@
+interface:
+  display_name: "Performing S7comm Protocol Security Analysis"
+  short_description: "Perform security analysis of Siemens S7comm and S7CommPlus pr..."
+  default_prompt: "Use $performing-s7comm-protocol-security-analysis for an authorized cybersecurity task."
+policy:
+  allow_implicit_invocation: false

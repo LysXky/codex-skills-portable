@@ -1,0 +1,6 @@
+interface:
+  display_name: "Hunting For Ntlm Relay Attacks"
+  short_description: "Detect NTLM relay attacks by analyzing Windows Event 4624 log..."
+  default_prompt: "Use $hunting-for-ntlm-relay-attacks for an authorized cybersecurity task."
+policy:
+  allow_implicit_invocation: false

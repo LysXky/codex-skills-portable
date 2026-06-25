@@ -1,0 +1,6 @@
+interface:
+  display_name: "Agent Self Evaluation"
+  short_description: "Use after completing any non-trivial task. The agent self-rat..."
+  default_prompt: "Use $agent-self-evaluation to help with this task."
+policy:
+  allow_implicit_invocation: true

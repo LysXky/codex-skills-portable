@@ -1,0 +1,6 @@
+interface:
+  display_name: "Performing Hardware Security Module Integration"
+  short_description: "Integrate Hardware Security Modules (HSMs) using PKCS#11 inte..."
+  default_prompt: "Use $performing-hardware-security-module-integration for an authorized cybersecurity task."
+policy:
+  allow_implicit_invocation: false

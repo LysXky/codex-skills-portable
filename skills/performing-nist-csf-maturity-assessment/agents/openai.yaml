@@ -1,0 +1,6 @@
+interface:
+  display_name: "Performing NIST Csf Maturity Assessment"
+  short_description: "The NIST Cybersecurity Framework (CSF) 2.0, released in Febru..."
+  default_prompt: "Use $performing-nist-csf-maturity-assessment for an authorized cybersecurity task."
+policy:
+  allow_implicit_invocation: false

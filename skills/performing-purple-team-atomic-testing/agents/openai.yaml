@@ -1,0 +1,6 @@
+interface:
+  display_name: "Performing Purple Team Atomic Testing"
+  short_description: "Executes Atomic Red Team tests mapped to MITRE ATT&CK techniq..."
+  default_prompt: "Use $performing-purple-team-atomic-testing for an authorized cybersecurity task."
+policy:
+  allow_implicit_invocation: false

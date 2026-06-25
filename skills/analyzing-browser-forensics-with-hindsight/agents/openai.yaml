@@ -1,0 +1,6 @@
+interface:
+  display_name: "Analyzing Browser Forensics With Hindsight"
+  short_description: "Analyze Chromium-based browser artifacts using Hindsight to e..."
+  default_prompt: "Use $analyzing-browser-forensics-with-hindsight for an authorized cybersecurity task."
+policy:
+  allow_implicit_invocation: false

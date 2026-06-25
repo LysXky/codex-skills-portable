@@ -1,0 +1,6 @@
+interface:
+  display_name: "Assessing Vector And Embedding Weaknesses"
+  short_description: "Test vector stores for embedding inversion, cross-tenant leak..."
+  default_prompt: "Use $assessing-vector-and-embedding-weaknesses for an authorized cybersecurity task."
+policy:
+  allow_implicit_invocation: false

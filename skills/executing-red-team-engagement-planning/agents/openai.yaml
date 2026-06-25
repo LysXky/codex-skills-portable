@@ -1,0 +1,6 @@
+interface:
+  display_name: "Executing Red Team Engagement Planning"
+  short_description: "Red team engagement planning is the foundational phase that d..."
+  default_prompt: "Use $executing-red-team-engagement-planning for an authorized cybersecurity task."
+policy:
+  allow_implicit_invocation: false

@@ -1,0 +1,6 @@
+interface:
+  display_name: "Analyzing Windows Registry For Artifacts"
+  short_description: "Extract and analyze Windows Registry hives to uncover user ac..."
+  default_prompt: "Use $analyzing-windows-registry-for-artifacts for an authorized cybersecurity task."
+policy:
+  allow_implicit_invocation: false

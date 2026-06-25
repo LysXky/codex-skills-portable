@@ -1,0 +1,6 @@
+interface:
+  display_name: "Attacking Oauth With Device Code Phishing"
+  short_description: "Run OAuth 2.0 device-code and illicit-consent phishing agains..."
+  default_prompt: "Use $attacking-oauth-with-device-code-phishing for an authorized cybersecurity task."
+policy:
+  allow_implicit_invocation: false

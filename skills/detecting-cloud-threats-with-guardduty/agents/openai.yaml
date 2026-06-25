@@ -1,0 +1,6 @@
+interface:
+  display_name: "Detecting Cloud Threats With Guardduty"
+  short_description: "This skill teaches security teams how to deploy and operation..."
+  default_prompt: "Use $detecting-cloud-threats-with-guardduty for an authorized cybersecurity task."
+policy:
+  allow_implicit_invocation: false

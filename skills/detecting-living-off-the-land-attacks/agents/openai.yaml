@@ -1,0 +1,6 @@
+interface:
+  display_name: "Detecting Living Off The Land Attacks"
+  short_description: "Detect abuse of legitimate Windows binaries (LOLBins) used fo..."
+  default_prompt: "Use $detecting-living-off-the-land-attacks for an authorized cybersecurity task."
+policy:
+  allow_implicit_invocation: false

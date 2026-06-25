@@ -1,0 +1,6 @@
+interface:
+  display_name: "Nestjs Patterns"
+  short_description: "NestJS architecture patterns for modules, controllers, provid..."
+  default_prompt: "Use $nestjs-patterns to help with this task."
+policy:
+  allow_implicit_invocation: true

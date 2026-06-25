@@ -1,0 +1,6 @@
+interface:
+  display_name: "Performing Plc Firmware Security Analysis"
+  short_description: "This skill covers analyzing Programmable Logic Controller (PL..."
+  default_prompt: "Use $performing-plc-firmware-security-analysis for an authorized cybersecurity task."
+policy:
+  allow_implicit_invocation: false

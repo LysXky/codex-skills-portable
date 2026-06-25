@@ -1,0 +1,21 @@
+# Original source metadata preserved during Codex adaptation.
+name: abusing-dpapi-for-credential-access
+description: Extract DPAPI-protected secrets such as credentials and browser data offline and online.
+domain: cybersecurity
+subdomain: red-teaming
+tags:
+- red-team
+- credential-access
+- dpapi
+- sharpdpapi
+- post-exploitation
+- active-directory
+- windows
+- mimikatz
+version: '1.0'
+author: mahipal
+license: Apache-2.0
+nist_csf:
+- DE.CM-01
+mitre_attack:
+- T1555.004

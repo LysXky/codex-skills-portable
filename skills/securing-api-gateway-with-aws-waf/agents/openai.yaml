@@ -1,0 +1,6 @@
+interface:
+  display_name: "Securing API Gateway With AWS WAF"
+  short_description: "Securing API Gateway endpoints with AWS WAF by configuring ma..."
+  default_prompt: "Use $securing-api-gateway-with-aws-waf for an authorized cybersecurity task."
+policy:
+  allow_implicit_invocation: false

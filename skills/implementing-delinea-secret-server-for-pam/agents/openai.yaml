@@ -1,0 +1,6 @@
+interface:
+  display_name: "Implementing Delinea Secret Server For Pam"
+  short_description: "Implements Delinea Secret Server for privileged access manage..."
+  default_prompt: "Use $implementing-delinea-secret-server-for-pam for an authorized cybersecurity task."
+policy:
+  allow_implicit_invocation: false

@@ -1,0 +1,6 @@
+interface:
+  display_name: "Dashboard Builder"
+  short_description: "Build monitoring dashboards that answer real operator questio..."
+  default_prompt: "Use $dashboard-builder to help with this task."
+policy:
+  allow_implicit_invocation: true

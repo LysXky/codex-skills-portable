@@ -1,0 +1,6 @@
+interface:
+  display_name: "Auditing Kubernetes RBAC Privilege Escalation"
+  short_description: "Find over-permissive RBAC roles and service-account token abu..."
+  default_prompt: "Use $auditing-kubernetes-rbac-privilege-escalation for an authorized cybersecurity task."
+policy:
+  allow_implicit_invocation: false

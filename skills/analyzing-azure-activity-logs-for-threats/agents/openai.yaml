@@ -1,0 +1,6 @@
+interface:
+  display_name: "Analyzing Azure Activity Logs For Threats"
+  short_description: "Queries Azure Monitor activity logs and sign-in logs via azur..."
+  default_prompt: "Use $analyzing-azure-activity-logs-for-threats for an authorized cybersecurity task."
+policy:
+  allow_implicit_invocation: false

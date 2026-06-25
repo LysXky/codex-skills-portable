@@ -1,0 +1,6 @@
+interface:
+  display_name: "Conducting Cyber Risk Assessment With NIST 800 30"
+  short_description: "Conduct a defensible cybersecurity risk assessment using the..."
+  default_prompt: "Use $conducting-cyber-risk-assessment-with-nist-800-30 for an authorized cybersecurity task."
+policy:
+  allow_implicit_invocation: false

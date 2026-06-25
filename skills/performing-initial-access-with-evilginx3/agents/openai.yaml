@@ -1,0 +1,6 @@
+interface:
+  display_name: "Performing Initial Access With Evilginx3"
+  short_description: "Perform authorized initial access using EvilGinx3 adversary-i..."
+  default_prompt: "Use $performing-initial-access-with-evilginx3 for an authorized cybersecurity task."
+policy:
+  allow_implicit_invocation: false

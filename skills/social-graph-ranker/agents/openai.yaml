@@ -1,0 +1,6 @@
+interface:
+  display_name: "Social Graph Ranker"
+  short_description: "Weighted social-graph ranking for warm intro discovery, bridg..."
+  default_prompt: "Use $social-graph-ranker to help with this task."
+policy:
+  allow_implicit_invocation: true

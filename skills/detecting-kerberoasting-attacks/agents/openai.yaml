@@ -1,0 +1,6 @@
+interface:
+  display_name: "Detecting Kerberoasting Attacks"
+  short_description: "Detect Kerberoasting attacks by monitoring for anomalous Kerb..."
+  default_prompt: "Use $detecting-kerberoasting-attacks for an authorized cybersecurity task."
+policy:
+  allow_implicit_invocation: false

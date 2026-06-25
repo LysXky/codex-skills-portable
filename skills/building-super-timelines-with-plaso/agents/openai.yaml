@@ -1,0 +1,6 @@
+interface:
+  display_name: "Building Super Timelines With Plaso"
+  short_description: "Generate log2timeline and Plaso super-timelines and triage th..."
+  default_prompt: "Use $building-super-timelines-with-plaso for an authorized cybersecurity task."
+policy:
+  allow_implicit_invocation: false

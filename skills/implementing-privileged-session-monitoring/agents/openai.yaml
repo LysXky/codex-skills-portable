@@ -1,0 +1,6 @@
+interface:
+  display_name: "Implementing Privileged Session Monitoring"
+  short_description: "Implements privileged session monitoring and recording using..."
+  default_prompt: "Use $implementing-privileged-session-monitoring for an authorized cybersecurity task."
+policy:
+  allow_implicit_invocation: false

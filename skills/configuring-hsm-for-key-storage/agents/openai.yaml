@@ -1,0 +1,6 @@
+interface:
+  display_name: "Configuring Hsm For Key Storage"
+  short_description: "Hardware Security Modules (HSMs) are tamper-resistant physica..."
+  default_prompt: "Use $configuring-hsm-for-key-storage for an authorized cybersecurity task."
+policy:
+  allow_implicit_invocation: false

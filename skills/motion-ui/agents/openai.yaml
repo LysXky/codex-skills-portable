@@ -1,0 +1,6 @@
+interface:
+  display_name: "Motion UI"
+  short_description: "Production-ready UI motion system for React/Next.js. Use when..."
+  default_prompt: "Use $motion-ui to help with this task."
+policy:
+  allow_implicit_invocation: true

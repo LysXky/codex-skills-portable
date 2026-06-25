@@ -1,0 +1,28 @@
+# Original source metadata preserved during Codex adaptation.
+name: collecting-volatile-evidence-from-compromised-host
+description: Collect volatile forensic evidence from a compromised system following
+  order of volatility, preserving memory, network connections, processes, and system
+  state before they are lost.
+domain: cybersecurity
+subdomain: incident-response
+tags:
+- incident-response
+- dfir
+- forensics
+- volatile-evidence
+- memory-forensics
+- chain-of-custody
+mitre_attack:
+- T1059.001
+- T1057
+- T1049
+- T1003.001
+- T1543.003
+version: '1.0'
+author: mahipal
+license: Apache-2.0
+nist_csf:
+- RS.MA-01
+- RS.MA-02
+- RS.AN-03
+- RC.RP-01

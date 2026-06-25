@@ -1,0 +1,21 @@
+# Original source metadata preserved during Codex adaptation.
+name: escaping-containers-to-host
+description: Exploit privileged pods, host mounts, runC CVEs, and exposed Docker sockets to break out of a container and reach the underlying host during authorized container-security assessments.
+domain: cybersecurity
+subdomain: container-security
+tags:
+- container-escape
+- privileged-container
+- runc-cve
+- docker-socket
+- host-mount
+- kubernetes
+- privilege-escalation
+- breakout
+version: '1.0'
+author: mahipal
+license: Apache-2.0
+nist_csf:
+- PR.PS-01
+mitre_attack:
+- T1611

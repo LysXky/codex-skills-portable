@@ -1,0 +1,6 @@
+interface:
+  display_name: "Performing IOC Enrichment Automation"
+  short_description: "Automates Indicator of Compromise (IOC) enrichment by orchest..."
+  default_prompt: "Use $performing-ioc-enrichment-automation for an authorized cybersecurity task."
+policy:
+  allow_implicit_invocation: false

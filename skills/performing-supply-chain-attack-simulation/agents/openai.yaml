@@ -1,0 +1,6 @@
+interface:
+  display_name: "Performing Supply Chain Attack Simulation"
+  short_description: "Simulate and detect software supply chain attacks including t..."
+  default_prompt: "Use $performing-supply-chain-attack-simulation for an authorized cybersecurity task."
+policy:
+  allow_implicit_invocation: false

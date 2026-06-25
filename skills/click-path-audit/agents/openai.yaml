@@ -1,0 +1,6 @@
+interface:
+  display_name: "Click Path Audit"
+  short_description: "Trace every user-facing button/touchpoint through its full st..."
+  default_prompt: "Use $click-path-audit to help with this task."
+policy:
+  allow_implicit_invocation: true

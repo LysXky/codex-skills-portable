@@ -1,0 +1,6 @@
+interface:
+  display_name: "Managing Intelligence Lifecycle"
+  short_description: "Manages the end-to-end cyber threat intelligence lifecycle fr..."
+  default_prompt: "Use $managing-intelligence-lifecycle for an authorized cybersecurity task."
+policy:
+  allow_implicit_invocation: false

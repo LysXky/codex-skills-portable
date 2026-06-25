@@ -1,0 +1,6 @@
+interface:
+  display_name: "Research Ops"
+  short_description: "Evidence-first current-state research workflow for ECC. Use w..."
+  default_prompt: "Use $research-ops to help with this task."
+policy:
+  allow_implicit_invocation: true

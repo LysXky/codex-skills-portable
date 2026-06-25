@@ -1,0 +1,6 @@
+interface:
+  display_name: "Skill Comply"
+  short_description: "Visualize whether skills, rules, and agent definitions are ac..."
+  default_prompt: "Use $skill-comply to help with this task."
+policy:
+  allow_implicit_invocation: true

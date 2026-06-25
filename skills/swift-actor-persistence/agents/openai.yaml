@@ -1,0 +1,6 @@
+interface:
+  display_name: "Swift Actor Persistence"
+  short_description: "Thread-safe data persistence in Swift using actors — in-memor..."
+  default_prompt: "Use $swift-actor-persistence to help with this task."
+policy:
+  allow_implicit_invocation: true

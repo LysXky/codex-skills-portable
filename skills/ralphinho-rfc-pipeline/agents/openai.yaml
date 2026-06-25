@@ -1,0 +1,6 @@
+interface:
+  display_name: "Ralphinho Rfc Pipeline"
+  short_description: "RFC-driven multi-agent DAG execution pattern with quality gat..."
+  default_prompt: "Use $ralphinho-rfc-pipeline to help with this task."
+policy:
+  allow_implicit_invocation: true

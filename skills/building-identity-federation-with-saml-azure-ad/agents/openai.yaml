@@ -1,0 +1,6 @@
+interface:
+  display_name: "Building Identity Federation With Saml Azure AD"
+  short_description: "Establish SAML 2.0 identity federation between on-premises Ac..."
+  default_prompt: "Use $building-identity-federation-with-saml-azure-ad for an authorized cybersecurity task."
+policy:
+  allow_implicit_invocation: false

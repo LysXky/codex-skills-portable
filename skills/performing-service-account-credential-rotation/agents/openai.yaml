@@ -1,0 +1,6 @@
+interface:
+  display_name: "Performing Service Account Credential Rotation"
+  short_description: "Automate credential rotation for service accounts across Acti..."
+  default_prompt: "Use $performing-service-account-credential-rotation for an authorized cybersecurity task."
+policy:
+  allow_implicit_invocation: false

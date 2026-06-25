@@ -1,0 +1,6 @@
+interface:
+  display_name: "Performing Cloud Native Forensics With Falco"
+  short_description: "Uses Falco YAML rules for runtime threat detection in contain..."
+  default_prompt: "Use $performing-cloud-native-forensics-with-falco for an authorized cybersecurity task."
+policy:
+  allow_implicit_invocation: false

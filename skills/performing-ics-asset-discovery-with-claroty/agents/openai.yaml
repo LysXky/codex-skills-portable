@@ -1,0 +1,6 @@
+interface:
+  display_name: "Performing Ics Asset Discovery With Claroty"
+  short_description: "Perform comprehensive ICS/OT asset discovery using Claroty xD..."
+  default_prompt: "Use $performing-ics-asset-discovery-with-claroty for an authorized cybersecurity task."
+policy:
+  allow_implicit_invocation: false

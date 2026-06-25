@@ -1,0 +1,6 @@
+interface:
+  display_name: "Implementing Aqua Security For Container Scanning"
+  short_description: "Deploy Aqua Security's Trivy scanner to detect vulnerabilitie..."
+  default_prompt: "Use $implementing-aqua-security-for-container-scanning for an authorized cybersecurity task."
+policy:
+  allow_implicit_invocation: false

@@ -1,0 +1,6 @@
+interface:
+  display_name: "Detecting Anomalous Authentication Patterns"
+  short_description: "Detects anomalous authentication patterns using UEBA analytic..."
+  default_prompt: "Use $detecting-anomalous-authentication-patterns for an authorized cybersecurity task."
+policy:
+  allow_implicit_invocation: false

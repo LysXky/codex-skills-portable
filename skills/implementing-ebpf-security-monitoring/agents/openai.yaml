@@ -1,0 +1,6 @@
+interface:
+  display_name: "Implementing Ebpf Security Monitoring"
+  short_description: "Implements eBPF-based security monitoring using Cilium Tetrag..."
+  default_prompt: "Use $implementing-ebpf-security-monitoring for an authorized cybersecurity task."
+policy:
+  allow_implicit_invocation: false

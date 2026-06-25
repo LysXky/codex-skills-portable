@@ -1,0 +1,6 @@
+interface:
+  display_name: "Scanning Network With Nmap Advanced"
+  short_description: "Performs advanced network reconnaissance using Nmap''s script..."
+  default_prompt: "Use $scanning-network-with-nmap-advanced for an authorized cybersecurity task."
+policy:
+  allow_implicit_invocation: false

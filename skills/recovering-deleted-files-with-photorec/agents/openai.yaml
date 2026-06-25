@@ -1,0 +1,6 @@
+interface:
+  display_name: "Recovering Deleted Files With Photorec"
+  short_description: "Recover deleted files from disk images and storage media usin..."
+  default_prompt: "Use $recovering-deleted-files-with-photorec for an authorized cybersecurity task."
+policy:
+  allow_implicit_invocation: false

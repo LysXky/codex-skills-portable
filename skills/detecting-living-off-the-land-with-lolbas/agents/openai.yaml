@@ -1,0 +1,6 @@
+interface:
+  display_name: "Detecting Living Off The Land With Lolbas"
+  short_description: "Detect Living Off the Land Binaries (LOLBins/LOLBAS) abuse in..."
+  default_prompt: "Use $detecting-living-off-the-land-with-lolbas for an authorized cybersecurity task."
+policy:
+  allow_implicit_invocation: false

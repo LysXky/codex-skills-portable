@@ -1,0 +1,6 @@
+interface:
+  display_name: "Implementing Security Monitoring With Datadog"
+  short_description: "Implements security monitoring using Datadog Cloud SIEM, Clou..."
+  default_prompt: "Use $implementing-security-monitoring-with-datadog for an authorized cybersecurity task."
+policy:
+  allow_implicit_invocation: false

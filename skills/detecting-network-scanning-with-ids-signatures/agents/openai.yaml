@@ -1,0 +1,6 @@
+interface:
+  display_name: "Detecting Network Scanning With Ids Signatures"
+  short_description: "Detect network reconnaissance and port scanning using Suricat..."
+  default_prompt: "Use $detecting-network-scanning-with-ids-signatures for an authorized cybersecurity task."
+policy:
+  allow_implicit_invocation: false

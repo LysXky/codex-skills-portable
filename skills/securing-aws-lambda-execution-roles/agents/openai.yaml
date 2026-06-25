@@ -1,0 +1,6 @@
+interface:
+  display_name: "Securing AWS Lambda Execution Roles"
+  short_description: "Securing AWS Lambda execution roles by implementing least-pri..."
+  default_prompt: "Use $securing-aws-lambda-execution-roles for an authorized cybersecurity task."
+policy:
+  allow_implicit_invocation: false

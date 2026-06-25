@@ -1,0 +1,6 @@
+interface:
+  display_name: "Implementing Anti Phishing Training Program"
+  short_description: "Security awareness training is the human layer of phishing de..."
+  default_prompt: "Use $implementing-anti-phishing-training-program for an authorized cybersecurity task."
+policy:
+  allow_implicit_invocation: false

@@ -1,0 +1,6 @@
+interface:
+  display_name: "Deploying Tailscale For Zero Trust Vpn"
+  short_description: "Deploy and configure Tailscale as a WireGuard-based zero trus..."
+  default_prompt: "Use $deploying-tailscale-for-zero-trust-vpn for an authorized cybersecurity task."
+policy:
+  allow_implicit_invocation: false

@@ -1,0 +1,6 @@
+interface:
+  display_name: "Detecting Container Drift At Runtime"
+  short_description: "Detect unauthorized modifications to running containers by mo..."
+  default_prompt: "Use $detecting-container-drift-at-runtime for an authorized cybersecurity task."
+policy:
+  allow_implicit_invocation: false

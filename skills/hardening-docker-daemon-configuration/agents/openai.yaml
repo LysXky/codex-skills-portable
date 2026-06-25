@@ -1,0 +1,6 @@
+interface:
+  display_name: "Hardening Docker Daemon Configuration"
+  short_description: "Harden the Docker daemon by configuring daemon.json with user..."
+  default_prompt: "Use $hardening-docker-daemon-configuration for an authorized cybersecurity task."
+policy:
+  allow_implicit_invocation: false

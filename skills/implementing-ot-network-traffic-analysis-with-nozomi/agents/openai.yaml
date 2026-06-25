@@ -1,0 +1,6 @@
+interface:
+  display_name: "Implementing Ot Network Traffic Analysis With Nozomi"
+  short_description: "Deploy Nozomi Networks Guardian sensors for passive OT networ..."
+  default_prompt: "Use $implementing-ot-network-traffic-analysis-with-nozomi for an authorized cybersecurity task."
+policy:
+  allow_implicit_invocation: false

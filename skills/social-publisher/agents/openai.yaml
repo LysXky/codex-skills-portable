@@ -1,0 +1,6 @@
+interface:
+  display_name: "Social Publisher"
+  short_description: "Agent-driven scheduling and publishing of social media posts..."
+  default_prompt: "Use $social-publisher to help with this task."
+policy:
+  allow_implicit_invocation: true

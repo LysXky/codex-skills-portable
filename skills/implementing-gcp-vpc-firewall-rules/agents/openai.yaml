@@ -1,0 +1,6 @@
+interface:
+  display_name: "Implementing GCP Vpc Firewall Rules"
+  short_description: "Implementing and auditing GCP VPC firewall rules to enforce n..."
+  default_prompt: "Use $implementing-gcp-vpc-firewall-rules for an authorized cybersecurity task."
+policy:
+  allow_implicit_invocation: false

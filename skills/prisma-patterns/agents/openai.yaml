@@ -1,0 +1,6 @@
+interface:
+  display_name: "Prisma Patterns"
+  short_description: "Prisma ORM patterns for TypeScript backends — schema design..."
+  default_prompt: "Use $prisma-patterns to help with this task."
+policy:
+  allow_implicit_invocation: true

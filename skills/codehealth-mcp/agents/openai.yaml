@@ -1,0 +1,6 @@
+interface:
+  display_name: "Codehealth MCP"
+  short_description: "Real-time structural Code Health via CodeScene MCP — review b..."
+  default_prompt: "Use $codehealth-mcp to help with this task."
+policy:
+  allow_implicit_invocation: true

@@ -1,0 +1,6 @@
+interface:
+  display_name: "Lead Intelligence"
+  short_description: "AI-native lead intelligence and outreach pipeline. Replaces A..."
+  default_prompt: "Use $lead-intelligence to help with this task."
+policy:
+  allow_implicit_invocation: true

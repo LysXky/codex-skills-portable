@@ -1,0 +1,6 @@
+interface:
+  display_name: "Securing Historian Server In Ot Environment"
+  short_description: "This skill covers hardening and securing process historian se..."
+  default_prompt: "Use $securing-historian-server-in-ot-environment for an authorized cybersecurity task."
+policy:
+  allow_implicit_invocation: false

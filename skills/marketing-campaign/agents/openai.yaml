@@ -1,0 +1,6 @@
+interface:
+  display_name: "Marketing Campaign"
+  short_description: "End-to-end marketing campaign planning and execution. Covers..."
+  default_prompt: "Use $marketing-campaign to help with this task."
+policy:
+  allow_implicit_invocation: true

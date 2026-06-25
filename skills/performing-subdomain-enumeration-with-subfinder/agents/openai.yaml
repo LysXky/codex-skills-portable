@@ -1,0 +1,6 @@
+interface:
+  display_name: "Performing Subdomain Enumeration With Subfinder"
+  short_description: "Enumerate subdomains of target domains using ProjectDiscovery..."
+  default_prompt: "Use $performing-subdomain-enumeration-with-subfinder for an authorized cybersecurity task."
+policy:
+  allow_implicit_invocation: false

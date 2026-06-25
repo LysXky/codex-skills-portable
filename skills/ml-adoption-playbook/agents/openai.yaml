@@ -1,0 +1,6 @@
+interface:
+  display_name: "ML Adoption Playbook"
+  short_description: "End-to-end methodology for AI agents and software engineers t..."
+  default_prompt: "Use $ml-adoption-playbook to help with this task."
+policy:
+  allow_implicit_invocation: true

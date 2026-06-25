@@ -1,0 +1,6 @@
+interface:
+  display_name: "Implementing Iec 62443 Security Zones"
+  short_description: "This skill covers designing and implementing security zones a..."
+  default_prompt: "Use $implementing-iec-62443-security-zones for an authorized cybersecurity task."
+policy:
+  allow_implicit_invocation: false

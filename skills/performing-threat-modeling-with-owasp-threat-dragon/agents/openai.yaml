@@ -1,0 +1,6 @@
+interface:
+  display_name: "Performing Threat Modeling With Owasp Threat Dragon"
+  short_description: "Use OWASP Threat Dragon to create data flow diagrams, identif..."
+  default_prompt: "Use $performing-threat-modeling-with-owasp-threat-dragon for an authorized cybersecurity task."
+policy:
+  allow_implicit_invocation: false

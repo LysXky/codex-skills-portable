@@ -1,0 +1,6 @@
+interface:
+  display_name: "Detecting Business Email Compromise"
+  short_description: "Business Email Compromise (BEC) is a sophisticated fraud sche..."
+  default_prompt: "Use $detecting-business-email-compromise for an authorized cybersecurity task."
+policy:
+  allow_implicit_invocation: false

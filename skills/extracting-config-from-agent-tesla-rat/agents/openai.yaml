@@ -1,0 +1,6 @@
+interface:
+  display_name: "Extracting Config From Agent Tesla Rat"
+  short_description: "Extract embedded configuration from Agent Tesla RAT samples i..."
+  default_prompt: "Use $extracting-config-from-agent-tesla-rat for an authorized cybersecurity task."
+policy:
+  allow_implicit_invocation: false

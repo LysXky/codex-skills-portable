@@ -1,0 +1,6 @@
+interface:
+  display_name: "Performing Brand Monitoring For Impersonation"
+  short_description: "Monitor for brand impersonation attacks across domains, socia..."
+  default_prompt: "Use $performing-brand-monitoring-for-impersonation for an authorized cybersecurity task."
+policy:
+  allow_implicit_invocation: false

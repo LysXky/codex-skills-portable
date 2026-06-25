@@ -1,0 +1,6 @@
+interface:
+  display_name: "Implementing Passwordless Auth With Microsoft Entra"
+  short_description: "Implements passwordless authentication using Microsoft Entra..."
+  default_prompt: "Use $implementing-passwordless-auth-with-microsoft-entra for an authorized cybersecurity task."
+policy:
+  allow_implicit_invocation: false

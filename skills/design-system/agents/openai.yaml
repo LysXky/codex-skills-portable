@@ -1,0 +1,6 @@
+interface:
+  display_name: "Design System"
+  short_description: "Use this skill to generate or audit design systems, check vis..."
+  default_prompt: "Use $design-system to help with this task."
+policy:
+  allow_implicit_invocation: true

@@ -1,0 +1,6 @@
+interface:
+  display_name: "Detecting Privilege Escalation In Kubernetes Pods"
+  short_description: "Detect and prevent privilege escalation in Kubernetes pods by..."
+  default_prompt: "Use $detecting-privilege-escalation-in-kubernetes-pods for an authorized cybersecurity task."
+policy:
+  allow_implicit_invocation: false

@@ -1,0 +1,6 @@
+interface:
+  display_name: "Implementing Zero Trust DNS With Nextdns"
+  short_description: "Implement NextDNS as a zero trust DNS filtering layer with en..."
+  default_prompt: "Use $implementing-zero-trust-dns-with-nextdns for an authorized cybersecurity task."
+policy:
+  allow_implicit_invocation: false

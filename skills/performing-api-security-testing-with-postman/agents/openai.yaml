@@ -1,0 +1,6 @@
+interface:
+  display_name: "Performing API Security Testing With Postman"
+  short_description: "Uses Postman to perform structured API security testing by bu..."
+  default_prompt: "Use $performing-api-security-testing-with-postman for an authorized cybersecurity task."
+policy:
+  allow_implicit_invocation: false

@@ -1,0 +1,6 @@
+interface:
+  display_name: "Performing Threat Landscape Assessment For Sector"
+  short_description: "Conduct a sector-specific threat landscape assessment by anal..."
+  default_prompt: "Use $performing-threat-landscape-assessment-for-sector for an authorized cybersecurity task."
+policy:
+  allow_implicit_invocation: false

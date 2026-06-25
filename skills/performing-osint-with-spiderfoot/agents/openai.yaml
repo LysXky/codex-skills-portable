@@ -1,0 +1,6 @@
+interface:
+  display_name: "Performing OSINT With Spiderfoot"
+  short_description: "Automate OSINT collection using SpiderFoot REST API and CLI f..."
+  default_prompt: "Use $performing-osint-with-spiderfoot for an authorized cybersecurity task."
+policy:
+  allow_implicit_invocation: false

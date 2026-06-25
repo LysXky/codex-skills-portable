@@ -1,0 +1,6 @@
+interface:
+  display_name: "Building Threat Intelligence Platform"
+  short_description: "Building a Threat Intelligence Platform (TIP) involves deploy..."
+  default_prompt: "Use $building-threat-intelligence-platform for an authorized cybersecurity task."
+policy:
+  allow_implicit_invocation: false

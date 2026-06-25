@@ -1,0 +1,6 @@
+interface:
+  display_name: "LLM Trading Agent Security"
+  short_description: "Security patterns for autonomous trading agents with wallet o..."
+  default_prompt: "Use $llm-trading-agent-security to help with this task."
+policy:
+  allow_implicit_invocation: true

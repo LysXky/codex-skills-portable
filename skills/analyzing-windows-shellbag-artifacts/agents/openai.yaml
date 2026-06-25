@@ -1,0 +1,6 @@
+interface:
+  display_name: "Analyzing Windows Shellbag Artifacts"
+  short_description: "Analyze Windows Shellbag registry artifacts to reconstruct fo..."
+  default_prompt: "Use $analyzing-windows-shellbag-artifacts for an authorized cybersecurity task."
+policy:
+  allow_implicit_invocation: false

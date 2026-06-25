@@ -1,0 +1,6 @@
+interface:
+  display_name: "Implementing AWS Macie For Data Classification"
+  short_description: "Implement Amazon Macie to automatically discover, classify, a..."
+  default_prompt: "Use $implementing-aws-macie-for-data-classification for an authorized cybersecurity task."
+policy:
+  allow_implicit_invocation: false

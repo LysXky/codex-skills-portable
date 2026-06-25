@@ -1,0 +1,6 @@
+interface:
+  display_name: "Detecting Rdp Brute Force Attacks"
+  short_description: "Detect RDP brute force attacks by analyzing Windows Security..."
+  default_prompt: "Use $detecting-rdp-brute-force-attacks for an authorized cybersecurity task."
+policy:
+  allow_implicit_invocation: false

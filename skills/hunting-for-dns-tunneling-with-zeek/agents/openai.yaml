@@ -1,0 +1,6 @@
+interface:
+  display_name: "Hunting For DNS Tunneling With Zeek"
+  short_description: "Detect DNS tunneling and data exfiltration by analyzing Zeek..."
+  default_prompt: "Use $hunting-for-dns-tunneling-with-zeek for an authorized cybersecurity task."
+policy:
+  allow_implicit_invocation: false

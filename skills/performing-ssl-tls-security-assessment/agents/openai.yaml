@@ -1,0 +1,6 @@
+interface:
+  display_name: "Performing Ssl Tls Security Assessment"
+  short_description: "Assess SSL/TLS server configurations using the sslyze Python..."
+  default_prompt: "Use $performing-ssl-tls-security-assessment for an authorized cybersecurity task."
+policy:
+  allow_implicit_invocation: false

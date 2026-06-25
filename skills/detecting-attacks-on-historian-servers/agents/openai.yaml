@@ -1,0 +1,6 @@
+interface:
+  display_name: "Detecting Attacks On Historian Servers"
+  short_description: "Detect cyber attacks targeting OT historian servers (OSIsoft..."
+  default_prompt: "Use $detecting-attacks-on-historian-servers for an authorized cybersecurity task."
+policy:
+  allow_implicit_invocation: false

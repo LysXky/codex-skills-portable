@@ -1,0 +1,6 @@
+interface:
+  display_name: "Investigating Ransomware Attack Artifacts"
+  short_description: "Identify, collect, and analyze ransomware attack artifacts to..."
+  default_prompt: "Use $investigating-ransomware-attack-artifacts for an authorized cybersecurity task."
+policy:
+  allow_implicit_invocation: false

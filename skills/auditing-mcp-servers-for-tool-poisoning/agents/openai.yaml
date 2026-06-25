@@ -1,0 +1,6 @@
+interface:
+  display_name: "Auditing MCP Servers For Tool Poisoning"
+  short_description: "Scan Model Context Protocol servers and tool metadata for poi..."
+  default_prompt: "Use $auditing-mcp-servers-for-tool-poisoning for an authorized cybersecurity task."
+policy:
+  allow_implicit_invocation: false

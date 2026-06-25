@@ -1,0 +1,6 @@
+interface:
+  display_name: "Detecting Container Escape Attempts"
+  short_description: "Container escape is a critical attack technique where an adve..."
+  default_prompt: "Use $detecting-container-escape-attempts for an authorized cybersecurity task."
+policy:
+  allow_implicit_invocation: false

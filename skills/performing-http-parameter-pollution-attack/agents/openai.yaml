@@ -1,0 +1,6 @@
+interface:
+  display_name: "Performing Http Parameter Pollution Attack"
+  short_description: "Execute HTTP Parameter Pollution attacks to bypass input vali..."
+  default_prompt: "Use $performing-http-parameter-pollution-attack for an authorized cybersecurity task."
+policy:
+  allow_implicit_invocation: false

@@ -1,0 +1,21 @@
+# Original source metadata preserved during Codex adaptation.
+name: verifying-build-provenance-with-slsa-sigstore
+description: Verify signed artifacts and SLSA build provenance with Sigstore cosign and slsa-verifier, enforce keyless OIDC identity, and apply SLSA Build levels to harden the software supply chain.
+domain: cybersecurity
+subdomain: supply-chain-security
+tags:
+- supply-chain
+- slsa
+- sigstore
+- cosign
+- provenance
+- attestation
+- keyless-signing
+- code-signing
+version: '1.0'
+author: mahipal
+license: Apache-2.0
+nist_csf:
+- PR.DS-06
+mitre_attack:
+- T1195

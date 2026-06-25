@@ -1,0 +1,6 @@
+interface:
+  display_name: "Analyzing Malicious Url With Urlscan"
+  short_description: "URLScan.io is a free service for scanning and analyzing suspi..."
+  default_prompt: "Use $analyzing-malicious-url-with-urlscan for an authorized cybersecurity task."
+policy:
+  allow_implicit_invocation: false

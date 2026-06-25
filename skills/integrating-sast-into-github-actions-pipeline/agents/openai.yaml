@@ -1,0 +1,6 @@
+interface:
+  display_name: "Integrating Sast Into Github Actions Pipeline"
+  short_description: "This skill covers integrating Static Application Security Tes..."
+  default_prompt: "Use $integrating-sast-into-github-actions-pipeline for an authorized cybersecurity task."
+policy:
+  allow_implicit_invocation: false

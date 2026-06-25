@@ -1,0 +1,6 @@
+interface:
+  display_name: "Implementing API Key Security Controls"
+  short_description: "Implements secure API key generation, storage, rotation, and..."
+  default_prompt: "Use $implementing-api-key-security-controls for an authorized cybersecurity task."
+policy:
+  allow_implicit_invocation: false

@@ -1,0 +1,6 @@
+interface:
+  display_name: "Dotnet Patterns"
+  short_description: "Idiomatic C# and .NET patterns, conventions, dependency injec..."
+  default_prompt: "Use $dotnet-patterns to help with this task."
+policy:
+  allow_implicit_invocation: true

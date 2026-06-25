@@ -1,0 +1,6 @@
+interface:
+  display_name: "Security Bounty Hunter"
+  short_description: "Hunt for exploitable, bounty-worthy security issues in reposi..."
+  default_prompt: "Use $security-bounty-hunter to help with this task."
+policy:
+  allow_implicit_invocation: true

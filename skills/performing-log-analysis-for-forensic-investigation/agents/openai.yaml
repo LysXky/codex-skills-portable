@@ -1,0 +1,6 @@
+interface:
+  display_name: "Performing Log Analysis For Forensic Investigation"
+  short_description: "Collect, parse, and correlate system, application, and securi..."
+  default_prompt: "Use $performing-log-analysis-for-forensic-investigation for an authorized cybersecurity task."
+policy:
+  allow_implicit_invocation: false

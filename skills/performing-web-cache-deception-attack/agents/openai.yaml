@@ -1,0 +1,6 @@
+interface:
+  display_name: "Performing Web Cache Deception Attack"
+  short_description: "Execute web cache deception attacks by exploiting path normal..."
+  default_prompt: "Use $performing-web-cache-deception-attack for an authorized cybersecurity task."
+policy:
+  allow_implicit_invocation: false

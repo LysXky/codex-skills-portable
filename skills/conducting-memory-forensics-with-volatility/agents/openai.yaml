@@ -1,0 +1,6 @@
+interface:
+  display_name: "Conducting Memory Forensics With Volatility"
+  short_description: "Performs memory forensics analysis using Volatility 3 to extr..."
+  default_prompt: "Use $conducting-memory-forensics-with-volatility for an authorized cybersecurity task."
+policy:
+  allow_implicit_invocation: false

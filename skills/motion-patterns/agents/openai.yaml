@@ -1,0 +1,6 @@
+interface:
+  display_name: "Motion Patterns"
+  short_description: "Production-ready animation patterns for React / Next.js — but..."
+  default_prompt: "Use $motion-patterns to help with this task."
+policy:
+  allow_implicit_invocation: true

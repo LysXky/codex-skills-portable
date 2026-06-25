@@ -1,0 +1,6 @@
+interface:
+  display_name: "Conducting Social Engineering Pretext Call"
+  short_description: "Plan and execute authorized vishing (voice phishing) pretext..."
+  default_prompt: "Use $conducting-social-engineering-pretext-call for an authorized cybersecurity task."
+policy:
+  allow_implicit_invocation: false

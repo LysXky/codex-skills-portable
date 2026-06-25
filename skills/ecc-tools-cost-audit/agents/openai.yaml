@@ -1,0 +1,6 @@
+interface:
+  display_name: "Ecc Tools Cost Audit"
+  short_description: "Evidence-first ECC Tools burn and billing audit workflow. Use..."
+  default_prompt: "Use $ecc-tools-cost-audit to help with this task."
+policy:
+  allow_implicit_invocation: true

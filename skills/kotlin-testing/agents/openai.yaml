@@ -1,0 +1,6 @@
+interface:
+  display_name: "Kotlin Testing"
+  short_description: "Kotlin testing patterns with Kotest, MockK, coroutine testing..."
+  default_prompt: "Use $kotlin-testing to help with this task."
+policy:
+  allow_implicit_invocation: true

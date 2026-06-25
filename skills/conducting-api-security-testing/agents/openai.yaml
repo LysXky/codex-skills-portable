@@ -1,0 +1,6 @@
+interface:
+  display_name: "Conducting API Security Testing"
+  short_description: "Conducts security testing of REST, GraphQL, and gRPC APIs to..."
+  default_prompt: "Use $conducting-api-security-testing for an authorized cybersecurity task."
+policy:
+  allow_implicit_invocation: false

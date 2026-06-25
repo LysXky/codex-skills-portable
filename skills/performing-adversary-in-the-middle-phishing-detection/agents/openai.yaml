@@ -1,0 +1,6 @@
+interface:
+  display_name: "Performing Adversary In The Middle Phishing Detection"
+  short_description: "Detect and respond to Adversary-in-the-Middle (AiTM) phishing..."
+  default_prompt: "Use $performing-adversary-in-the-middle-phishing-detection for an authorized cybersecurity task."
+policy:
+  allow_implicit_invocation: false

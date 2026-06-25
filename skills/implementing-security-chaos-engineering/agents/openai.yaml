@@ -1,0 +1,6 @@
+interface:
+  display_name: "Implementing Security Chaos Engineering"
+  short_description: "Implements security chaos engineering experiments that delibe..."
+  default_prompt: "Use $implementing-security-chaos-engineering for an authorized cybersecurity task."
+policy:
+  allow_implicit_invocation: false

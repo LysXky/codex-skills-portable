@@ -1,0 +1,6 @@
+interface:
+  display_name: "Performing Mobile Device Forensics With Cellebrite"
+  short_description: "Acquire and analyze mobile device data using Cellebrite UFED..."
+  default_prompt: "Use $performing-mobile-device-forensics-with-cellebrite for an authorized cybersecurity task."
+policy:
+  allow_implicit_invocation: false

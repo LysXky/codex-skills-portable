@@ -1,0 +1,6 @@
+interface:
+  display_name: "Implementing Application Whitelisting With Applocker"
+  short_description: "Implements application whitelisting using Windows AppLocker t..."
+  default_prompt: "Use $implementing-application-whitelisting-with-applocker for an authorized cybersecurity task."
+policy:
+  allow_implicit_invocation: false

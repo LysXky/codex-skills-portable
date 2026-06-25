@@ -1,0 +1,6 @@
+interface:
+  display_name: "Implementing Network Deception With Honeypots"
+  short_description: "Deploy and manage network honeypots using OpenCanary, T-Pot..."
+  default_prompt: "Use $implementing-network-deception-with-honeypots for an authorized cybersecurity task."
+policy:
+  allow_implicit_invocation: false

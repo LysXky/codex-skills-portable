@@ -1,0 +1,6 @@
+interface:
+  display_name: "Implementing Ics Firewall With Tofino"
+  short_description: "Deploy and configure Tofino industrial firewalls from Belden/..."
+  default_prompt: "Use $implementing-ics-firewall-with-tofino for an authorized cybersecurity task."
+policy:
+  allow_implicit_invocation: false

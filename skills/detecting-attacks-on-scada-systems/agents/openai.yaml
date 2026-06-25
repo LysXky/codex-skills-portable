@@ -1,0 +1,6 @@
+interface:
+  display_name: "Detecting Attacks On Scada Systems"
+  short_description: "This skill covers detecting cyber attacks targeting Superviso..."
+  default_prompt: "Use $detecting-attacks-on-scada-systems for an authorized cybersecurity task."
+policy:
+  allow_implicit_invocation: false

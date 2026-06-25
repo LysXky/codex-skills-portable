@@ -1,0 +1,6 @@
+interface:
+  display_name: "Configuring AWS Verified Access For Ztna"
+  short_description: "Configure AWS Verified Access to provide VPN-less zero trust..."
+  default_prompt: "Use $configuring-aws-verified-access-for-ztna for an authorized cybersecurity task."
+policy:
+  allow_implicit_invocation: false

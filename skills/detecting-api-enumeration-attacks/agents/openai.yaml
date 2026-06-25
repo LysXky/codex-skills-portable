@@ -1,0 +1,6 @@
+interface:
+  display_name: "Detecting API Enumeration Attacks"
+  short_description: "Detect and prevent API enumeration attacks including BOLA and..."
+  default_prompt: "Use $detecting-api-enumeration-attacks for an authorized cybersecurity task."
+policy:
+  allow_implicit_invocation: false

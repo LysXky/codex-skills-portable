@@ -1,0 +1,6 @@
+interface:
+  display_name: "Performing Linux Log Forensics Investigation"
+  short_description: "Perform forensic investigation of Linux system logs including..."
+  default_prompt: "Use $performing-linux-log-forensics-investigation for an authorized cybersecurity task."
+policy:
+  allow_implicit_invocation: false

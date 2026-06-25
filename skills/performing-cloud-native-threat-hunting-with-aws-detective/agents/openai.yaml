@@ -1,0 +1,6 @@
+interface:
+  display_name: "Performing Cloud Native Threat Hunting With AWS Detective"
+  short_description: "Hunt for threats in AWS environments using Detective behavior..."
+  default_prompt: "Use $performing-cloud-native-threat-hunting-with-aws-detective for an authorized cybersecurity task."
+policy:
+  allow_implicit_invocation: false

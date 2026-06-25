@@ -1,0 +1,6 @@
+interface:
+  display_name: "Analyzing Command And Control Communication"
+  short_description: "Analyzes malware command-and-control (C2) communication proto..."
+  default_prompt: "Use $analyzing-command-and-control-communication for an authorized cybersecurity task."
+policy:
+  allow_implicit_invocation: false

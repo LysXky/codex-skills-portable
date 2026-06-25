@@ -1,0 +1,6 @@
+interface:
+  display_name: "Building Devsecops Pipeline With Gitlab Ci"
+  short_description: "Design and implement a comprehensive DevSecOps pipeline in Gi..."
+  default_prompt: "Use $building-devsecops-pipeline-with-gitlab-ci for an authorized cybersecurity task."
+policy:
+  allow_implicit_invocation: false

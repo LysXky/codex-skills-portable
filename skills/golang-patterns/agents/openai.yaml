@@ -1,0 +1,6 @@
+interface:
+  display_name: "Golang Patterns"
+  short_description: "Idiomatic Go patterns, best practices, and conventions for bu..."
+  default_prompt: "Use $golang-patterns to help with this task."
+policy:
+  allow_implicit_invocation: true

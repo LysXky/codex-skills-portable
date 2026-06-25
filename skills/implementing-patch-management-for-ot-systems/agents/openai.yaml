@@ -1,0 +1,6 @@
+interface:
+  display_name: "Implementing Patch Management For Ot Systems"
+  short_description: "This skill covers implementing a structured patch management..."
+  default_prompt: "Use $implementing-patch-management-for-ot-systems for an authorized cybersecurity task."
+policy:
+  allow_implicit_invocation: false

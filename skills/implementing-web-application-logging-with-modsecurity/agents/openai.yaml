@@ -1,0 +1,6 @@
+interface:
+  display_name: "Implementing Web Application Logging With Modsecurity"
+  short_description: "Configure ModSecurity WAF with OWASP Core Rule Set (CRS) for..."
+  default_prompt: "Use $implementing-web-application-logging-with-modsecurity for an authorized cybersecurity task."
+policy:
+  allow_implicit_invocation: false

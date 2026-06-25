@@ -1,0 +1,6 @@
+interface:
+  display_name: "Testing API Security With Owasp Top 10"
+  short_description: "Systematically assessing REST and GraphQL API endpoints again..."
+  default_prompt: "Use $testing-api-security-with-owasp-top-10 for an authorized cybersecurity task."
+policy:
+  allow_implicit_invocation: false

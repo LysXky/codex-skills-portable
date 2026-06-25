@@ -1,0 +1,21 @@
+# Original source metadata preserved during Codex adaptation.
+name: detecting-secure-boot-bypass
+description: Detect bootkits such as BlackLotus and Bootkitty and Secure Boot bypass via DBX and binary checks.
+domain: cybersecurity
+subdomain: hardware-firmware-security
+tags:
+- hardware-firmware-security
+- secure-boot
+- uefi
+- bootkit
+- dbx-revocation
+- blacklotus
+- chipsec
+- firmware-integrity
+version: '1.0'
+author: mahipal
+license: Apache-2.0
+nist_csf:
+- DE.CM-01
+mitre_attack:
+- T1542.003

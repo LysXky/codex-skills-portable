@@ -1,0 +1,6 @@
+interface:
+  display_name: "Performing Ssl Stripping Attack"
+  short_description: "Simulates SSL stripping attacks using sslstrip, Bettercap, an..."
+  default_prompt: "Use $performing-ssl-stripping-attack for an authorized cybersecurity task."
+policy:
+  allow_implicit_invocation: false

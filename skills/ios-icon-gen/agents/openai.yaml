@@ -1,0 +1,6 @@
+interface:
+  display_name: "Ios Icon Gen"
+  short_description: "Generate iOS app icons as PNG imagesets for Xcode asset catal..."
+  default_prompt: "Use $ios-icon-gen to help with this task."
+policy:
+  allow_implicit_invocation: true

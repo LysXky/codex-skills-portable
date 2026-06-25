@@ -1,0 +1,6 @@
+interface:
+  display_name: "Hunting Credential Stuffing Attacks"
+  short_description: "Detects credential stuffing attacks by analyzing authenticati..."
+  default_prompt: "Use $hunting-credential-stuffing-attacks for an authorized cybersecurity task."
+policy:
+  allow_implicit_invocation: false

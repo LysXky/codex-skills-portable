@@ -1,0 +1,6 @@
+interface:
+  display_name: "Performing External Network Penetration Test"
+  short_description: "Conduct a comprehensive external network penetration test to..."
+  default_prompt: "Use $performing-external-network-penetration-test for an authorized cybersecurity task."
+policy:
+  allow_implicit_invocation: false

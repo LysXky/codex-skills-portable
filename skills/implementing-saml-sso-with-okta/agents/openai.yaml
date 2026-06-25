@@ -1,0 +1,6 @@
+interface:
+  display_name: "Implementing Saml SSO With Okta"
+  short_description: "Implement SAML 2.0 Single Sign-On (SSO) using Okta as the Ide..."
+  default_prompt: "Use $implementing-saml-sso-with-okta for an authorized cybersecurity task."
+policy:
+  allow_implicit_invocation: false

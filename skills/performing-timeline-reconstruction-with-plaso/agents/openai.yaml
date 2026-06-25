@@ -1,0 +1,6 @@
+interface:
+  display_name: "Performing Timeline Reconstruction With Plaso"
+  short_description: "Build comprehensive forensic super-timelines using Plaso (log..."
+  default_prompt: "Use $performing-timeline-reconstruction-with-plaso for an authorized cybersecurity task."
+policy:
+  allow_implicit_invocation: false

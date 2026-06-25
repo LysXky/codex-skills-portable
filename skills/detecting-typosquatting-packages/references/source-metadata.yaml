@@ -1,0 +1,21 @@
+# Original source metadata preserved during Codex adaptation.
+name: detecting-typosquatting-packages
+description: Flag misspelled, brandjacked, and typosquatted package names across npm, PyPI, and crates.io before installation using edit-distance, keyboard-proximity, and known-target corpus matching with typomania, OSSGadget, and pypi-scan.
+domain: cybersecurity
+subdomain: supply-chain-security
+tags:
+- supply-chain-security
+- typosquatting
+- package-registry
+- npm
+- pypi
+- typomania
+- ossgadget
+- dependency-screening
+version: '1.0'
+author: mahipal
+license: Apache-2.0
+nist_csf:
+- ID.RA-09
+mitre_attack:
+- T1195.002

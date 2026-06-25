@@ -1,0 +1,6 @@
+interface:
+  display_name: "Implementing Deception Based Detection With Canarytoken"
+  short_description: "Deploy and monitor Canary Tokens via the Thinkst Canary API f..."
+  default_prompt: "Use $implementing-deception-based-detection-with-canarytoken for an authorized cybersecurity task."
+policy:
+  allow_implicit_invocation: false

@@ -1,0 +1,6 @@
+interface:
+  display_name: "Implementing Usb Device Control Policy"
+  short_description: "Implements USB device control policies to restrict unauthoriz..."
+  default_prompt: "Use $implementing-usb-device-control-policy for an authorized cybersecurity task."
+policy:
+  allow_implicit_invocation: false

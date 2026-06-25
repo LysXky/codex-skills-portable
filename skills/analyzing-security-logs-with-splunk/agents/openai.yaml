@@ -1,0 +1,6 @@
+interface:
+  display_name: "Analyzing Security Logs With Splunk"
+  short_description: "Leverages Splunk Enterprise Security and SPL (Search Processi..."
+  default_prompt: "Use $analyzing-security-logs-with-splunk for an authorized cybersecurity task."
+policy:
+  allow_implicit_invocation: false

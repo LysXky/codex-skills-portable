@@ -1,0 +1,6 @@
+interface:
+  display_name: "Implementing API Schema Validation Security"
+  short_description: "Implement API schema validation using OpenAPI specifications..."
+  default_prompt: "Use $implementing-api-schema-validation-security for an authorized cybersecurity task."
+policy:
+  allow_implicit_invocation: false

@@ -1,0 +1,6 @@
+interface:
+  display_name: "Performing Threat Emulation With Atomic Red Team"
+  short_description: "Executes Atomic Red Team tests for MITRE ATT&CK technique val..."
+  default_prompt: "Use $performing-threat-emulation-with-atomic-red-team for an authorized cybersecurity task."
+policy:
+  allow_implicit_invocation: false

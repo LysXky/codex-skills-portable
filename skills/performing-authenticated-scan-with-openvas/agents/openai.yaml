@@ -1,0 +1,6 @@
+interface:
+  display_name: "Performing Authenticated Scan With Openvas"
+  short_description: "Configure and execute authenticated vulnerability scans using..."
+  default_prompt: "Use $performing-authenticated-scan-with-openvas for an authorized cybersecurity task."
+policy:
+  allow_implicit_invocation: false

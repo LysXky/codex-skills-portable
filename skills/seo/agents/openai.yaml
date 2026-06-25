@@ -1,0 +1,6 @@
+interface:
+  display_name: "SEO"
+  short_description: "Audit, plan, and implement SEO improvements across technical..."
+  default_prompt: "Use $seo to help with this task."
+policy:
+  allow_implicit_invocation: true

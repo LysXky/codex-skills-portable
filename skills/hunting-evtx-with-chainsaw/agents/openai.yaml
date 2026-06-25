@@ -1,0 +1,6 @@
+interface:
+  display_name: "Hunting Evtx With Chainsaw"
+  short_description: "Perform rapid Sigma and keyword hunting across Windows event..."
+  default_prompt: "Use $hunting-evtx-with-chainsaw for an authorized cybersecurity task."
+policy:
+  allow_implicit_invocation: false

@@ -1,0 +1,6 @@
+interface:
+  display_name: "Performing Network Packet Capture Analysis"
+  short_description: "Perform forensic analysis of network packet captures (PCAP/PC..."
+  default_prompt: "Use $performing-network-packet-capture-analysis for an authorized cybersecurity task."
+policy:
+  allow_implicit_invocation: false

@@ -1,0 +1,6 @@
+interface:
+  display_name: "Configuring Windows Event Logging For Detection"
+  short_description: "Configures Windows Event Logging with advanced audit policies..."
+  default_prompt: "Use $configuring-windows-event-logging-for-detection for an authorized cybersecurity task."
+policy:
+  allow_implicit_invocation: false

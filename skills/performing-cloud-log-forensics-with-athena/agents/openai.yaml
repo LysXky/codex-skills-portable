@@ -1,0 +1,6 @@
+interface:
+  display_name: "Performing Cloud Log Forensics With Athena"
+  short_description: "Uses AWS Athena to query CloudTrail, VPC Flow Logs, S3 access..."
+  default_prompt: "Use $performing-cloud-log-forensics-with-athena for an authorized cybersecurity task."
+policy:
+  allow_implicit_invocation: false

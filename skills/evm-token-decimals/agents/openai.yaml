@@ -1,0 +1,6 @@
+interface:
+  display_name: "Evm Token Decimals"
+  short_description: "Prevent silent decimal mismatch bugs across EVM chains. Cover..."
+  default_prompt: "Use $evm-token-decimals to help with this task."
+policy:
+  allow_implicit_invocation: true

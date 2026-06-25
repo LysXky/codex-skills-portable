@@ -1,0 +1,6 @@
+interface:
+  display_name: "Implementing Scim Provisioning With Okta"
+  short_description: "Implement automated user provisioning and deprovisioning usin..."
+  default_prompt: "Use $implementing-scim-provisioning-with-okta for an authorized cybersecurity task."
+policy:
+  allow_implicit_invocation: false

@@ -1,0 +1,6 @@
+interface:
+  display_name: "Dart Flutter Patterns"
+  short_description: "Production-ready Dart and Flutter patterns covering null safe..."
+  default_prompt: "Use $dart-flutter-patterns to help with this task."
+policy:
+  allow_implicit_invocation: true

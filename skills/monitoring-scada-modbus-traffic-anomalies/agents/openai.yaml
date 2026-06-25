@@ -1,0 +1,6 @@
+interface:
+  display_name: "Monitoring Scada Modbus Traffic Anomalies"
+  short_description: "Monitors Modbus TCP traffic on SCADA and ICS networks to dete..."
+  default_prompt: "Use $monitoring-scada-modbus-traffic-anomalies for an authorized cybersecurity task."
+policy:
+  allow_implicit_invocation: false

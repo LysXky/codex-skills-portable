@@ -1,0 +1,6 @@
+interface:
+  display_name: "Detecting Azure Lateral Movement"
+  short_description: "Detect lateral movement in Azure AD/Entra ID environments usi..."
+  default_prompt: "Use $detecting-azure-lateral-movement for an authorized cybersecurity task."
+policy:
+  allow_implicit_invocation: false

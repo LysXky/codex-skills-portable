@@ -1,0 +1,6 @@
+interface:
+  display_name: "Ito Trade Planner"
+  short_description: "Build a non-advisory prediction-market trade planning workshe..."
+  default_prompt: "Use $ito-trade-planner to help with this task."
+policy:
+  allow_implicit_invocation: true

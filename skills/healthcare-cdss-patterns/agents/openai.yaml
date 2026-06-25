@@ -1,0 +1,6 @@
+interface:
+  display_name: "Healthcare Cdss Patterns"
+  short_description: "Clinical Decision Support System (CDSS) development patterns..."
+  default_prompt: "Use $healthcare-cdss-patterns to help with this task."
+policy:
+  allow_implicit_invocation: true

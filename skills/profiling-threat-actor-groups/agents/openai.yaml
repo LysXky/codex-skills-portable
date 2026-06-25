@@ -1,0 +1,6 @@
+interface:
+  display_name: "Profiling Threat Actor Groups"
+  short_description: "Develops comprehensive threat actor profiles for APT groups..."
+  default_prompt: "Use $profiling-threat-actor-groups for an authorized cybersecurity task."
+policy:
+  allow_implicit_invocation: false

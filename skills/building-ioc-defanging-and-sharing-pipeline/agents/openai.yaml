@@ -1,0 +1,6 @@
+interface:
+  display_name: "Building IOC Defanging And Sharing Pipeline"
+  short_description: "Build an automated pipeline to defang indicators of compromis..."
+  default_prompt: "Use $building-ioc-defanging-and-sharing-pipeline for an authorized cybersecurity task."
+policy:
+  allow_implicit_invocation: false

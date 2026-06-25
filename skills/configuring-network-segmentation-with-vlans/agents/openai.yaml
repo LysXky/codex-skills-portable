@@ -1,0 +1,6 @@
+interface:
+  display_name: "Configuring Network Segmentation With Vlans"
+  short_description: "Designs and implements VLAN-based network segmentation on man..."
+  default_prompt: "Use $configuring-network-segmentation-with-vlans for an authorized cybersecurity task."
+policy:
+  allow_implicit_invocation: false

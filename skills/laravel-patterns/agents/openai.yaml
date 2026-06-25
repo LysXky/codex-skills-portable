@@ -1,0 +1,6 @@
+interface:
+  display_name: "Laravel Patterns"
+  short_description: "Laravel architecture patterns, routing/controllers, Eloquent..."
+  default_prompt: "Use $laravel-patterns to help with this task."
+policy:
+  allow_implicit_invocation: true

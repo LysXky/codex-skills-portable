@@ -1,0 +1,6 @@
+interface:
+  display_name: "Implementing API Rate Limiting And Throttling"
+  short_description: "Implements API rate limiting and throttling controls using to..."
+  default_prompt: "Use $implementing-api-rate-limiting-and-throttling for an authorized cybersecurity task."
+policy:
+  allow_implicit_invocation: false

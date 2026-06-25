@@ -1,0 +1,59 @@
+# Original source metadata preserved during Codex adaptation.
+name: performing-firmware-extraction-with-binwalk
+description: 'Performs firmware image extraction and analysis using binwalk to identify
+  embedded filesystems, compressed archives, bootloaders, kernel images, and cryptographic
+  material. Covers entropy analysis for detecting encrypted or compressed regions,
+  recursive extraction of nested archives, SquashFS/CramFS/JFFS2 filesystem mounting,
+  and string analysis for credential and configuration discovery. Activates for requests
+  involving firmware reverse engineering, IoT device analysis, embedded system security
+  assessment, or router/camera firmware extraction.
+
+  '
+domain: cybersecurity
+subdomain: firmware-analysis
+tags:
+- firmware
+- binwalk
+- extraction
+- entropy
+- IoT-security
+- reverse-engineering
+version: 1.0.0
+author: mukul975
+license: Apache-2.0
+nist_csf:
+- ID.RA-01
+- PR.PS-01
+- DE.AE-02
+mitre_attack:
+- T1078
+- T1190
+- T1059
+- T1003
+- T1110
+mitre_f3:
+  version: '1.1'
+  tactics:
+  - reconnaissance
+  - initial-access
+  techniques:
+  - id: T1555
+    name: Credentials from Password Stores
+    tactic: reconnaissance
+    source: attack
+  - id: F1029
+    name: Gather Customer Information
+    tactic: reconnaissance
+    source: f3
+  - id: T1110.001
+    name: 'Brute Force: Password Guessing'
+    tactic: initial-access
+    source: attack
+  - id: F1006.001
+    name: 'Account Takeover: Exposed API Key'
+    tactic: initial-access
+    source: f3
+  - id: F1006.002
+    name: 'Account Takeover: Exposed Login Credential'
+    tactic: initial-access
+    source: f3

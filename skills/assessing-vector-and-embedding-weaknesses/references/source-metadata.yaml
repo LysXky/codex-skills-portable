@@ -1,0 +1,21 @@
+# Original source metadata preserved during Codex adaptation.
+name: assessing-vector-and-embedding-weaknesses
+description: Test vector stores for embedding inversion, cross-tenant leakage, and poisoning.
+domain: cybersecurity
+subdomain: ai-security
+tags:
+- ai-security
+- vector-database
+- embedding-inversion
+- rag-security
+- owasp-llm08
+- multi-tenant-isolation
+- data-poisoning
+- retrieval-augmented-generation
+version: '1.0'
+author: mahipal
+license: Apache-2.0
+nist_csf:
+- MEASURE-2.7
+mitre_attack:
+- AML.T0024

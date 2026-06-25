@@ -1,0 +1,6 @@
+interface:
+  display_name: "Detecting Fileless Attacks On Endpoints"
+  short_description: "Detects fileless malware and in-memory attacks that execute e..."
+  default_prompt: "Use $detecting-fileless-attacks-on-endpoints for an authorized cybersecurity task."
+policy:
+  allow_implicit_invocation: false

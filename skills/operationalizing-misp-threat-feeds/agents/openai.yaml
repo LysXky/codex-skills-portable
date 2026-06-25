@@ -1,0 +1,6 @@
+interface:
+  display_name: "Operationalizing Misp Threat Feeds"
+  short_description: "Run MISP, curate feeds, and auto-generate detections for Wazu..."
+  default_prompt: "Use $operationalizing-misp-threat-feeds for an authorized cybersecurity task."
+policy:
+  allow_implicit_invocation: false

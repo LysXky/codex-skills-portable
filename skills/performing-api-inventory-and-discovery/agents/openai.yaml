@@ -1,0 +1,6 @@
+interface:
+  display_name: "Performing API Inventory And Discovery"
+  short_description: "Performs API inventory and discovery to identify all API endp..."
+  default_prompt: "Use $performing-api-inventory-and-discovery for an authorized cybersecurity task."
+policy:
+  allow_implicit_invocation: false

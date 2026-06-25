@@ -1,0 +1,6 @@
+interface:
+  display_name: "Detecting Mimikatz Execution Patterns"
+  short_description: "Detect Mimikatz execution through command-line patterns, LSAS..."
+  default_prompt: "Use $detecting-mimikatz-execution-patterns for an authorized cybersecurity task."
+policy:
+  allow_implicit_invocation: false

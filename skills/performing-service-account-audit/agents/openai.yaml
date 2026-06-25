@@ -1,0 +1,6 @@
+interface:
+  display_name: "Performing Service Account Audit"
+  short_description: "Audit service accounts across enterprise infrastructure to id..."
+  default_prompt: "Use $performing-service-account-audit for an authorized cybersecurity task."
+policy:
+  allow_implicit_invocation: false

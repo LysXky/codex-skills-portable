@@ -1,0 +1,6 @@
+interface:
+  display_name: "Implementing Purdue Model Network Segmentation"
+  short_description: "Implement network segmentation based on the Purdue Enterprise..."
+  default_prompt: "Use $implementing-purdue-model-network-segmentation for an authorized cybersecurity task."
+policy:
+  allow_implicit_invocation: false

@@ -1,0 +1,6 @@
+interface:
+  display_name: "Detecting Insider Threat With Ueba"
+  short_description: "Implement User and Entity Behavior Analytics using Elasticsea..."
+  default_prompt: "Use $detecting-insider-threat-with-ueba for an authorized cybersecurity task."
+policy:
+  allow_implicit_invocation: false

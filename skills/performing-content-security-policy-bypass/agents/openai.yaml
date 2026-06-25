@@ -1,0 +1,6 @@
+interface:
+  display_name: "Performing Content Security Policy Bypass"
+  short_description: "Analyze and bypass Content Security Policy implementations to..."
+  default_prompt: "Use $performing-content-security-policy-bypass for an authorized cybersecurity task."
+policy:
+  allow_implicit_invocation: false

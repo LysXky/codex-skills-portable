@@ -1,0 +1,6 @@
+interface:
+  display_name: "Implementing Mtls For Zero Trust Services"
+  short_description: "Configures mutual TLS (mTLS) authentication between microserv..."
+  default_prompt: "Use $implementing-mtls-for-zero-trust-services for an authorized cybersecurity task."
+policy:
+  allow_implicit_invocation: false

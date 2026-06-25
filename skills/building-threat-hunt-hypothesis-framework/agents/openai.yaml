@@ -1,0 +1,6 @@
+interface:
+  display_name: "Building Threat Hunt Hypothesis Framework"
+  short_description: "Build a systematic threat hunt hypothesis framework that tran..."
+  default_prompt: "Use $building-threat-hunt-hypothesis-framework for an authorized cybersecurity task."
+policy:
+  allow_implicit_invocation: false

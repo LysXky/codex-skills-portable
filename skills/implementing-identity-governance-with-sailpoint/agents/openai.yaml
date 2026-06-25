@@ -1,0 +1,6 @@
+interface:
+  display_name: "Implementing Identity Governance With Sailpoint"
+  short_description: "Deploy SailPoint IdentityNow or IdentityIQ for identity gover..."
+  default_prompt: "Use $implementing-identity-governance-with-sailpoint for an authorized cybersecurity task."
+policy:
+  allow_implicit_invocation: false

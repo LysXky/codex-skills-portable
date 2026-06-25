@@ -1,0 +1,6 @@
+interface:
+  display_name: "Analyzing Windows Lnk Files For Artifacts"
+  short_description: "Parse Windows LNK shortcut files to extract target paths, tim..."
+  default_prompt: "Use $analyzing-windows-lnk-files-for-artifacts for an authorized cybersecurity task."
+policy:
+  allow_implicit_invocation: false

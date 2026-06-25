@@ -1,0 +1,6 @@
+interface:
+  display_name: "Configuring Suricata For Network Monitoring"
+  short_description: "Deploys and configures Suricata IDS/IPS with Emerging Threats..."
+  default_prompt: "Use $configuring-suricata-for-network-monitoring for an authorized cybersecurity task."
+policy:
+  allow_implicit_invocation: false

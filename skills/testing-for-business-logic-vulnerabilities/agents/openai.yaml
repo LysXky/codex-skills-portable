@@ -1,0 +1,6 @@
+interface:
+  display_name: "Testing For Business Logic Vulnerabilities"
+  short_description: "Identifying flaws in application business logic that allow pr..."
+  default_prompt: "Use $testing-for-business-logic-vulnerabilities for an authorized cybersecurity task."
+policy:
+  allow_implicit_invocation: false

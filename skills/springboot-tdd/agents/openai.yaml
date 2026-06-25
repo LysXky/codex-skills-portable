@@ -1,0 +1,6 @@
+interface:
+  display_name: "Springboot TDD"
+  short_description: "Test-driven development for Spring Boot using JUnit 5, Mockit..."
+  default_prompt: "Use $springboot-tdd to help with this task."
+policy:
+  allow_implicit_invocation: true

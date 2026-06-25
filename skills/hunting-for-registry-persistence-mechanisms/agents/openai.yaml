@@ -1,0 +1,6 @@
+interface:
+  display_name: "Hunting For Registry Persistence Mechanisms"
+  short_description: "Hunt for registry-based persistence mechanisms including Run..."
+  default_prompt: "Use $hunting-for-registry-persistence-mechanisms for an authorized cybersecurity task."
+policy:
+  allow_implicit_invocation: false

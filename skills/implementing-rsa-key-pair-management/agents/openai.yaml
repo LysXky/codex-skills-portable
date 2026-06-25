@@ -1,0 +1,6 @@
+interface:
+  display_name: "Implementing Rsa Key Pair Management"
+  short_description: "RSA (Rivest-Shamir-Adleman) is the most widely deployed asymm..."
+  default_prompt: "Use $implementing-rsa-key-pair-management for an authorized cybersecurity task."
+policy:
+  allow_implicit_invocation: false

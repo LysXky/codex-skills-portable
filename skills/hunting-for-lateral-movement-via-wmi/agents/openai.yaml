@@ -1,0 +1,6 @@
+interface:
+  display_name: "Hunting For Lateral Movement Via Wmi"
+  short_description: "Detect WMI-based lateral movement by analyzing Windows Event..."
+  default_prompt: "Use $hunting-for-lateral-movement-via-wmi for an authorized cybersecurity task."
+policy:
+  allow_implicit_invocation: false

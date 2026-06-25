@@ -1,0 +1,6 @@
+interface:
+  display_name: "Implementing MITRE Attack Coverage Mapping"
+  short_description: "Implement MITRE ATT&CK coverage mapping to identify detection..."
+  default_prompt: "Use $implementing-mitre-attack-coverage-mapping for an authorized cybersecurity task."
+policy:
+  allow_implicit_invocation: false

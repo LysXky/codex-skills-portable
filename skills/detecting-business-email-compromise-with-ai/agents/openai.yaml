@@ -1,0 +1,6 @@
+interface:
+  display_name: "Detecting Business Email Compromise With AI"
+  short_description: "Deploy AI and NLP-powered detection systems to identify busin..."
+  default_prompt: "Use $detecting-business-email-compromise-with-ai for an authorized cybersecurity task."
+policy:
+  allow_implicit_invocation: false

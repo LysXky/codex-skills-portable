@@ -1,0 +1,6 @@
+interface:
+  display_name: "Building Detection Rule With Splunk Spl"
+  short_description: "Build effective detection rules using Splunk Search Processin..."
+  default_prompt: "Use $building-detection-rule-with-splunk-spl for an authorized cybersecurity task."
+policy:
+  allow_implicit_invocation: false

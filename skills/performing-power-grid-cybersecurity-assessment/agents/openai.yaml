@@ -1,0 +1,6 @@
+interface:
+  display_name: "Performing Power Grid Cybersecurity Assessment"
+  short_description: "This skill covers conducting cybersecurity assessments of ele..."
+  default_prompt: "Use $performing-power-grid-cybersecurity-assessment for an authorized cybersecurity task."
+policy:
+  allow_implicit_invocation: false

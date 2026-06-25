@@ -1,0 +1,6 @@
+interface:
+  display_name: "Hunting For Unusual Service Installations"
+  short_description: "Detect suspicious Windows service installations (MITRE ATT&CK..."
+  default_prompt: "Use $hunting-for-unusual-service-installations for an authorized cybersecurity task."
+policy:
+  allow_implicit_invocation: false

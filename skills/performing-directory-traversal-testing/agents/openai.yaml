@@ -1,0 +1,6 @@
+interface:
+  display_name: "Performing Directory Traversal Testing"
+  short_description: "Testing web applications for path traversal vulnerabilities t..."
+  default_prompt: "Use $performing-directory-traversal-testing for an authorized cybersecurity task."
+policy:
+  allow_implicit_invocation: false

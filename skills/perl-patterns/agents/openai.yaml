@@ -1,0 +1,6 @@
+interface:
+  display_name: "Perl Patterns"
+  short_description: "Modern Perl 5.36+ idioms, best practices, and conventions for..."
+  default_prompt: "Use $perl-patterns to help with this task."
+policy:
+  allow_implicit_invocation: true

@@ -1,0 +1,6 @@
+interface:
+  display_name: "Conducting Full Scope Red Team Engagement"
+  short_description: "Plan and execute a comprehensive red team engagement covering..."
+  default_prompt: "Use $conducting-full-scope-red-team-engagement for an authorized cybersecurity task."
+policy:
+  allow_implicit_invocation: false

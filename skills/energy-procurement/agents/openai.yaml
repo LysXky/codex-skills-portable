@@ -1,0 +1,6 @@
+interface:
+  display_name: "Energy Procurement"
+  short_description: "Codified expertise for electricity and gas procurement, tarif..."
+  default_prompt: "Use $energy-procurement to help with this task."
+policy:
+  allow_implicit_invocation: true

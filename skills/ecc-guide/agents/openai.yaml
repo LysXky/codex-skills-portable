@@ -1,0 +1,6 @@
+interface:
+  display_name: "Ecc Guide"
+  short_description: "Guide users through ECC's current agents, skills, commands, h..."
+  default_prompt: "Use $ecc-guide to help with this task."
+policy:
+  allow_implicit_invocation: true

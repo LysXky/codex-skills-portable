@@ -1,0 +1,6 @@
+interface:
+  display_name: "Performing Packet Injection Attack"
+  short_description: "Crafts and injects custom network packets using Scapy, hping3..."
+  default_prompt: "Use $performing-packet-injection-attack for an authorized cybersecurity task."
+policy:
+  allow_implicit_invocation: false

@@ -1,0 +1,6 @@
+interface:
+  display_name: "Performing Privileged Account Discovery"
+  short_description: "Discover and inventory all privileged accounts across enterpr..."
+  default_prompt: "Use $performing-privileged-account-discovery for an authorized cybersecurity task."
+policy:
+  allow_implicit_invocation: false

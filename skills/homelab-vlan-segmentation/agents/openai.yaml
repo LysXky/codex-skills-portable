@@ -1,0 +1,6 @@
+interface:
+  display_name: "Homelab Vlan Segmentation"
+  short_description: "Segmenting home networks into VLANs for IoT, guest, trusted..."
+  default_prompt: "Use $homelab-vlan-segmentation to help with this task."
+policy:
+  allow_implicit_invocation: true

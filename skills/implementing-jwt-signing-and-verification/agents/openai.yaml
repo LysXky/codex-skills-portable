@@ -1,0 +1,6 @@
+interface:
+  display_name: "Implementing Jwt Signing And Verification"
+  short_description: "JSON Web Tokens (JWT) defined in RFC 7519 are compact, URL-sa..."
+  default_prompt: "Use $implementing-jwt-signing-and-verification for an authorized cybersecurity task."
+policy:
+  allow_implicit_invocation: false

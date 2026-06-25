@@ -1,0 +1,21 @@
+# Original source metadata preserved during Codex adaptation.
+name: generating-forensic-timelines-with-hayabusa
+description: Produce Sigma-based EVTX timelines and summaries with Hayabusa.
+domain: cybersecurity
+subdomain: digital-forensics
+tags:
+- hayabusa
+- dfir
+- evtx
+- sigma
+- timeline
+- threat-hunting
+- windows-event-logs
+- forensics
+version: '1.0'
+author: mahipal
+license: Apache-2.0
+nist_csf:
+- RS.AN-03
+mitre_attack:
+- T1059.001

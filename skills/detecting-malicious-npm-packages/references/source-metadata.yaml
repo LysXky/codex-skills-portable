@@ -1,0 +1,21 @@
+# Original source metadata preserved during Codex adaptation.
+name: detecting-malicious-npm-packages
+description: Triage npm packages for install-script malware, exfiltration, and worming behavior.
+domain: cybersecurity
+subdomain: supply-chain-security
+tags:
+- supply-chain-security
+- npm
+- malware-analysis
+- guarddog
+- install-scripts
+- exfiltration
+- static-analysis
+- threat-detection
+version: '1.0'
+author: mahipal
+license: Apache-2.0
+nist_csf:
+- DE.CM-09
+mitre_attack:
+- T1195.002

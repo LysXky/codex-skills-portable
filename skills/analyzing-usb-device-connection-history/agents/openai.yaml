@@ -1,0 +1,6 @@
+interface:
+  display_name: "Analyzing Usb Device Connection History"
+  short_description: "Investigate USB device connection history from Windows regist..."
+  default_prompt: "Use $analyzing-usb-device-connection-history for an authorized cybersecurity task."
+policy:
+  allow_implicit_invocation: false

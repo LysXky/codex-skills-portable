@@ -1,0 +1,6 @@
+interface:
+  display_name: "Hunting For Shadow Copy Deletion"
+  short_description: "Hunt for Volume Shadow Copy deletion activity that indicates..."
+  default_prompt: "Use $hunting-for-shadow-copy-deletion for an authorized cybersecurity task."
+policy:
+  allow_implicit_invocation: false

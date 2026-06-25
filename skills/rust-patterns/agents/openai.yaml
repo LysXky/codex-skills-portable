@@ -1,0 +1,6 @@
+interface:
+  display_name: "Rust Patterns"
+  short_description: "Idiomatic Rust patterns, ownership, error handling, traits, c..."
+  default_prompt: "Use $rust-patterns to help with this task."
+policy:
+  allow_implicit_invocation: true

@@ -1,0 +1,6 @@
+interface:
+  display_name: "Ito Market Intelligence"
+  short_description: "Research prediction-market events, venues, underliers, liquid..."
+  default_prompt: "Use $ito-market-intelligence to help with this task."
+policy:
+  allow_implicit_invocation: true

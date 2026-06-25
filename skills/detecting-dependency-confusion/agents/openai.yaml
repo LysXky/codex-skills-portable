@@ -1,0 +1,6 @@
+interface:
+  display_name: "Detecting Dependency Confusion"
+  short_description: "Detect and prevent public-over-private name resolution in npm..."
+  default_prompt: "Use $detecting-dependency-confusion for an authorized cybersecurity task."
+policy:
+  allow_implicit_invocation: false

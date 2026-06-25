@@ -1,0 +1,6 @@
+interface:
+  display_name: "Performing Second Order Sql Injection"
+  short_description: "Detect and exploit second-order SQL injection vulnerabilities..."
+  default_prompt: "Use $performing-second-order-sql-injection for an authorized cybersecurity task."
+policy:
+  allow_implicit_invocation: false

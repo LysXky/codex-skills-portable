@@ -1,0 +1,6 @@
+interface:
+  display_name: "Correlating Security Events In Qradar"
+  short_description: "Correlates security events in IBM QRadar SIEM using AQL (Arie..."
+  default_prompt: "Use $correlating-security-events-in-qradar for an authorized cybersecurity task."
+policy:
+  allow_implicit_invocation: false

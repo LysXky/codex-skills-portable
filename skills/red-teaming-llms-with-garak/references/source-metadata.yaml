@@ -1,0 +1,22 @@
+# Original source metadata preserved during Codex adaptation.
+name: red-teaming-llms-with-garak
+description: Run NVIDIA garak probe suites against an LLM endpoint to test for jailbreaks, prompt injection, data leakage, and toxic generation, then interpret the hit-rate report for triage and reporting.
+domain: cybersecurity
+subdomain: ai-security
+tags:
+- ai-security
+- llm-red-teaming
+- garak
+- prompt-injection
+- jailbreak
+- vulnerability-scanning
+- data-leakage
+- mitre-atlas
+version: '1.0'
+author: mahipal
+license: Apache-2.0
+nist_csf:
+- MEASURE-2.7
+mitre_attack:
+- AML.T0051
+- AML.T0054

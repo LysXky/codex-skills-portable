@@ -1,0 +1,6 @@
+interface:
+  display_name: "Detecting Sql Injection Via WAF Logs"
+  short_description: "Analyze WAF (ModSecurity/AWS WAF/Cloudflare) logs to detect S..."
+  default_prompt: "Use $detecting-sql-injection-via-waf-logs for an authorized cybersecurity task."
+policy:
+  allow_implicit_invocation: false

@@ -1,0 +1,6 @@
+interface:
+  display_name: "Detecting AWS Cloudtrail Anomalies"
+  short_description: "Detect unusual API call patterns in AWS CloudTrail logs using..."
+  default_prompt: "Use $detecting-aws-cloudtrail-anomalies for an authorized cybersecurity task."
+policy:
+  allow_implicit_invocation: false

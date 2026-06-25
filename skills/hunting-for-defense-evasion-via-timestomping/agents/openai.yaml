@@ -1,0 +1,6 @@
+interface:
+  display_name: "Hunting For Defense Evasion Via Timestomping"
+  short_description: "Detect NTFS timestamp manipulation (MITRE T1070.006) by compa..."
+  default_prompt: "Use $hunting-for-defense-evasion-via-timestomping for an authorized cybersecurity task."
+policy:
+  allow_implicit_invocation: false

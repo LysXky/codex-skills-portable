@@ -1,0 +1,6 @@
+interface:
+  display_name: "Hunting For T1098 Account Manipulation"
+  short_description: "Hunt for MITRE ATT&CK T1098 account manipulation including sh..."
+  default_prompt: "Use $hunting-for-t1098-account-manipulation for an authorized cybersecurity task."
+policy:
+  allow_implicit_invocation: false

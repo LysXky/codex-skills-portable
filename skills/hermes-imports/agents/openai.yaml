@@ -1,0 +1,6 @@
+interface:
+  display_name: "Hermes Imports"
+  short_description: "Convert local Hermes operator workflows into sanitized ECC sk..."
+  default_prompt: "Use $hermes-imports to help with this task."
+policy:
+  allow_implicit_invocation: true

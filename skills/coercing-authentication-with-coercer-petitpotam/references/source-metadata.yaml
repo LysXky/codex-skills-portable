@@ -1,0 +1,21 @@
+# Original source metadata preserved during Codex adaptation.
+name: coercing-authentication-with-coercer-petitpotam
+description: Trigger machine account authentication with PetitPotam (MS-EFSR) and Coercer across MS-RPRN, MS-DFSNM, and MS-FSRVP to feed NTLM relay into AD CS Web Enrollment (ESC8) and other relay targets.
+domain: cybersecurity
+subdomain: red-teaming
+tags:
+- red-team
+- active-directory
+- coercion
+- petitpotam
+- coercer
+- ntlm-relay
+- esc8
+- forced-authentication
+version: '1.0'
+author: mahipal
+license: Apache-2.0
+nist_csf:
+- DE.CM-01
+mitre_attack:
+- T1187

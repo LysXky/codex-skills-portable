@@ -1,0 +1,6 @@
+interface:
+  display_name: "Performing Web Application Penetration Test"
+  short_description: "Performs systematic security testing of web applications foll..."
+  default_prompt: "Use $performing-web-application-penetration-test for an authorized cybersecurity task."
+policy:
+  allow_implicit_invocation: false

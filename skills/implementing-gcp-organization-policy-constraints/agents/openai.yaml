@@ -1,0 +1,6 @@
+interface:
+  display_name: "Implementing GCP Organization Policy Constraints"
+  short_description: "Implement GCP Organization Policy constraints to enforce secu..."
+  default_prompt: "Use $implementing-gcp-organization-policy-constraints for an authorized cybersecurity task."
+policy:
+  allow_implicit_invocation: false

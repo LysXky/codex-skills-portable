@@ -1,0 +1,6 @@
+interface:
+  display_name: "Detecting Lateral Movement With Zeek"
+  short_description: "Detect lateral movement in network traffic using Zeek (former..."
+  default_prompt: "Use $detecting-lateral-movement-with-zeek for an authorized cybersecurity task."
+policy:
+  allow_implicit_invocation: false

@@ -1,0 +1,6 @@
+interface:
+  display_name: "Implementing Anti Ransomware Group Policy"
+  short_description: "Configures Windows Group Policy Objects (GPO) to prevent rans..."
+  default_prompt: "Use $implementing-anti-ransomware-group-policy for an authorized cybersecurity task."
+policy:
+  allow_implicit_invocation: false

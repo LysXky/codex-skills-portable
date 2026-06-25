@@ -1,0 +1,6 @@
+interface:
+  display_name: "Cisco Ios Patterns"
+  short_description: "Cisco IOS and IOS-XE review patterns for show commands, confi..."
+  default_prompt: "Use $cisco-ios-patterns to help with this task."
+policy:
+  allow_implicit_invocation: true

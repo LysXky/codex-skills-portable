@@ -1,0 +1,6 @@
+interface:
+  display_name: "Testing For Host Header Injection"
+  short_description: "Test web applications for HTTP Host header injection vulnerab..."
+  default_prompt: "Use $testing-for-host-header-injection for an authorized cybersecurity task."
+policy:
+  allow_implicit_invocation: false

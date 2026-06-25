@@ -1,0 +1,6 @@
+interface:
+  display_name: "Conducting Post Incident Lessons Learned"
+  short_description: "Facilitate structured post-incident reviews to identify root..."
+  default_prompt: "Use $conducting-post-incident-lessons-learned for an authorized cybersecurity task."
+policy:
+  allow_implicit_invocation: false

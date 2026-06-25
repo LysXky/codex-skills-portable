@@ -1,0 +1,6 @@
+interface:
+  display_name: "Implementing API Gateway Security Controls"
+  short_description: "Implements security controls at the API gateway layer includi..."
+  default_prompt: "Use $implementing-api-gateway-security-controls for an authorized cybersecurity task."
+policy:
+  allow_implicit_invocation: false

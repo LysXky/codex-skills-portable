@@ -1,0 +1,6 @@
+interface:
+  display_name: "Modeling Threats With Opencti"
+  short_description: "Model threat actors, intrusion sets, campaigns, and TTPs as a..."
+  default_prompt: "Use $modeling-threats-with-opencti for an authorized cybersecurity task."
+policy:
+  allow_implicit_invocation: false

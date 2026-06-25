@@ -1,0 +1,6 @@
+interface:
+  display_name: "Knowledge Ops"
+  short_description: "Knowledge base management, ingestion, sync, and retrieval acr..."
+  default_prompt: "Use $knowledge-ops to help with this task."
+policy:
+  allow_implicit_invocation: true

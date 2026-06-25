@@ -1,0 +1,6 @@
+interface:
+  display_name: "Analyzing Web Server Logs For Intrusion"
+  short_description: "Parse Apache and Nginx access logs to detect SQL injection at..."
+  default_prompt: "Use $analyzing-web-server-logs-for-intrusion for an authorized cybersecurity task."
+policy:
+  allow_implicit_invocation: false

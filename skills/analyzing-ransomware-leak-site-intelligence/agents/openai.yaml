@@ -1,0 +1,6 @@
+interface:
+  display_name: "Analyzing Ransomware Leak Site Intelligence"
+  short_description: "Monitor and analyze ransomware group data leak sites (DLS) to..."
+  default_prompt: "Use $analyzing-ransomware-leak-site-intelligence for an authorized cybersecurity task."
+policy:
+  allow_implicit_invocation: false

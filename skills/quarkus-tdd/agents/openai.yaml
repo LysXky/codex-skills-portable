@@ -1,0 +1,6 @@
+interface:
+  display_name: "Quarkus TDD"
+  short_description: "Test-driven development for Quarkus 3.x LTS using JUnit 5, Mo..."
+  default_prompt: "Use $quarkus-tdd to help with this task."
+policy:
+  allow_implicit_invocation: true

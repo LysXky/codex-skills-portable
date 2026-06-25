@@ -1,0 +1,6 @@
+interface:
+  display_name: "Analyzing DNS Logs For Exfiltration"
+  short_description: "Analyzes DNS query logs to detect data exfiltration via DNS t..."
+  default_prompt: "Use $analyzing-dns-logs-for-exfiltration for an authorized cybersecurity task."
+policy:
+  allow_implicit_invocation: false

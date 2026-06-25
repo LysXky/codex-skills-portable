@@ -1,0 +1,6 @@
+interface:
+  display_name: "Detecting Wmi Persistence"
+  short_description: "Detect WMI event subscription persistence by analyzing Sysmon..."
+  default_prompt: "Use $detecting-wmi-persistence for an authorized cybersecurity task."
+policy:
+  allow_implicit_invocation: false

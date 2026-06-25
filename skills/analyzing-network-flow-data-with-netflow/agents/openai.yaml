@@ -1,0 +1,6 @@
+interface:
+  display_name: "Analyzing Network Flow Data With Netflow"
+  short_description: "Parse NetFlow v9 and IPFIX records to detect volumetric anoma..."
+  default_prompt: "Use $analyzing-network-flow-data-with-netflow for an authorized cybersecurity task."
+policy:
+  allow_implicit_invocation: false

@@ -1,0 +1,6 @@
+interface:
+  display_name: "Detecting Ransomware Encryption Behavior"
+  short_description: "Detects ransomware encryption activity in real time using ent..."
+  default_prompt: "Use $detecting-ransomware-encryption-behavior for an authorized cybersecurity task."
+policy:
+  allow_implicit_invocation: false

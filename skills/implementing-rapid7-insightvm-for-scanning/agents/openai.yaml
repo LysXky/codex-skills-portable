@@ -1,0 +1,6 @@
+interface:
+  display_name: "Implementing Rapid7 Insightvm For Scanning"
+  short_description: "Deploy and configure Rapid7 InsightVM Security Console and Sc..."
+  default_prompt: "Use $implementing-rapid7-insightvm-for-scanning for an authorized cybersecurity task."
+policy:
+  allow_implicit_invocation: false

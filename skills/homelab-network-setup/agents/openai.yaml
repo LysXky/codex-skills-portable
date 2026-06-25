@@ -1,0 +1,6 @@
+interface:
+  display_name: "Homelab Network Setup"
+  short_description: "Practical home and homelab network planning for gateways, swi..."
+  default_prompt: "Use $homelab-network-setup to help with this task."
+policy:
+  allow_implicit_invocation: true

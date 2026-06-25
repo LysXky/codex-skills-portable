@@ -1,0 +1,6 @@
+interface:
+  display_name: "Videodb"
+  short_description: "See, Understand, Act on video and audio. See- ingest from loc..."
+  default_prompt: "Use $videodb to help with this task."
+policy:
+  allow_implicit_invocation: true

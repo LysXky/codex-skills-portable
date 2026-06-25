@@ -1,0 +1,21 @@
+# Original source metadata preserved during Codex adaptation.
+name: auditing-entra-id-with-aadinternals
+description: Run Microsoft Entra ID tenant reconnaissance, token acquisition and manipulation, and federation backdoor testing with the AADInternals PowerShell toolkit to validate identity-attack resilience.
+domain: cybersecurity
+subdomain: identity-access-management
+tags:
+- aadinternals
+- entra-id
+- azure-ad
+- saml-token-forgery
+- federation-backdoor
+- token-manipulation
+- adfs
+- red-team
+version: '1.0'
+author: mahipal
+license: Apache-2.0
+nist_csf:
+- ID.AM-03
+mitre_attack:
+- T1606.002

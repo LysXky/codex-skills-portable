@@ -1,0 +1,6 @@
+interface:
+  display_name: "Detecting Typosquatting Packages In Npm Pypi"
+  short_description: "Detects typosquatting attacks in npm and PyPI package registr..."
+  default_prompt: "Use $detecting-typosquatting-packages-in-npm-pypi for an authorized cybersecurity task."
+policy:
+  allow_implicit_invocation: false

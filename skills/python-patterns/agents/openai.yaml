@@ -1,0 +1,6 @@
+interface:
+  display_name: "Python Patterns"
+  short_description: "Pythonic idioms, PEP 8 standards, type hints, and best practi..."
+  default_prompt: "Use $python-patterns to help with this task."
+policy:
+  allow_implicit_invocation: true

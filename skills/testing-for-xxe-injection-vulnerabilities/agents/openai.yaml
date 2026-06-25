@@ -1,0 +1,6 @@
+interface:
+  display_name: "Testing For Xxe Injection Vulnerabilities"
+  short_description: "Discovering and exploiting XML External Entity injection vuln..."
+  default_prompt: "Use $testing-for-xxe-injection-vulnerabilities for an authorized cybersecurity task."
+policy:
+  allow_implicit_invocation: false

@@ -1,0 +1,6 @@
+interface:
+  display_name: "Performing Ssl Certificate Lifecycle Management"
+  short_description: "SSL/TLS certificate lifecycle management encompasses the full..."
+  default_prompt: "Use $performing-ssl-certificate-lifecycle-management for an authorized cybersecurity task."
+policy:
+  allow_implicit_invocation: false

@@ -1,0 +1,6 @@
+interface:
+  display_name: "Escaping Containers To Host"
+  short_description: "Exploit privileged pods, host mounts, runC CVEs, and exposed..."
+  default_prompt: "Use $escaping-containers-to-host for an authorized cybersecurity task."
+policy:
+  allow_implicit_invocation: false

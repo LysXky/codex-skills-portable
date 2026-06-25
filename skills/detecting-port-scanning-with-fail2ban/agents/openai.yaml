@@ -1,0 +1,6 @@
+interface:
+  display_name: "Detecting Port Scanning With Fail2ban"
+  short_description: "Configures Fail2ban with custom filters and actions to detect..."
+  default_prompt: "Use $detecting-port-scanning-with-fail2ban for an authorized cybersecurity task."
+policy:
+  allow_implicit_invocation: false

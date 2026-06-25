@@ -1,0 +1,6 @@
+interface:
+  display_name: "Detecting Dcsync Attack In Active Directory"
+  short_description: "Detect DCSync attacks where adversaries abuse Active Director..."
+  default_prompt: "Use $detecting-dcsync-attack-in-active-directory for an authorized cybersecurity task."
+policy:
+  allow_implicit_invocation: false

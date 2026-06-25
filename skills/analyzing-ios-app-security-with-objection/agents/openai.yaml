@@ -1,0 +1,6 @@
+interface:
+  display_name: "Analyzing Ios App Security With Objection"
+  short_description: "Runtime iOS app security testing with Objection (Frida): insp..."
+  default_prompt: "Use $analyzing-ios-app-security-with-objection for an authorized cybersecurity task."
+policy:
+  allow_implicit_invocation: false

@@ -1,0 +1,6 @@
+interface:
+  display_name: "Triaging Security Alerts In Splunk"
+  short_description: "Triages security alerts in Splunk Enterprise Security by clas..."
+  default_prompt: "Use $triaging-security-alerts-in-splunk for an authorized cybersecurity task."
+policy:
+  allow_implicit_invocation: false

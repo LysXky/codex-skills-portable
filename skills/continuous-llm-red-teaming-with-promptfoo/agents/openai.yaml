@@ -1,0 +1,6 @@
+interface:
+  display_name: "Continuous LLM Red Teaming With Promptfoo"
+  short_description: "Wire Promptfoo and DeepTeam into CI/CD for automated regressi..."
+  default_prompt: "Use $continuous-llm-red-teaming-with-promptfoo for an authorized cybersecurity task."
+policy:
+  allow_implicit_invocation: false

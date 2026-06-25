@@ -1,0 +1,6 @@
+interface:
+  display_name: "Configuring Windows Defender Advanced Settings"
+  short_description: "Configures Microsoft Defender for Endpoint (MDE) advanced pro..."
+  default_prompt: "Use $configuring-windows-defender-advanced-settings for an authorized cybersecurity task."
+policy:
+  allow_implicit_invocation: false

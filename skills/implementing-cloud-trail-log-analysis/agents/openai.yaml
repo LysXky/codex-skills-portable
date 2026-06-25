@@ -1,0 +1,6 @@
+interface:
+  display_name: "Implementing Cloud Trail Log Analysis"
+  short_description: "Implementing AWS CloudTrail log analysis for security monitor..."
+  default_prompt: "Use $implementing-cloud-trail-log-analysis for an authorized cybersecurity task."
+policy:
+  allow_implicit_invocation: false

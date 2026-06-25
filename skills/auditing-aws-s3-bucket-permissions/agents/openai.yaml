@@ -1,0 +1,6 @@
+interface:
+  display_name: "Auditing AWS S3 Bucket Permissions"
+  short_description: "Systematically audit AWS S3 bucket permissions to identify pu..."
+  default_prompt: "Use $auditing-aws-s3-bucket-permissions for an authorized cybersecurity task."
+policy:
+  allow_implicit_invocation: false

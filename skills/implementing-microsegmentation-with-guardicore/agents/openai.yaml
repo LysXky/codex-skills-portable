@@ -1,0 +1,6 @@
+interface:
+  display_name: "Implementing Microsegmentation With Guardicore"
+  short_description: "Implementing microsegmentation using Akamai Guardicore Segmen..."
+  default_prompt: "Use $implementing-microsegmentation-with-guardicore for an authorized cybersecurity task."
+policy:
+  allow_implicit_invocation: false

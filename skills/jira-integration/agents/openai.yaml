@@ -1,0 +1,6 @@
+interface:
+  display_name: "Jira Integration"
+  short_description: "Use this skill when retrieving Jira tickets, analyzing requir..."
+  default_prompt: "Use $jira-integration to help with this task."
+policy:
+  allow_implicit_invocation: true

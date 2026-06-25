@@ -1,0 +1,6 @@
+interface:
+  display_name: "Performing Active Directory Forest Trust Attack"
+  short_description: "Enumerate and audit Active Directory forest trust relationshi..."
+  default_prompt: "Use $performing-active-directory-forest-trust-attack for an authorized cybersecurity task."
+policy:
+  allow_implicit_invocation: false

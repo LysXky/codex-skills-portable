@@ -1,0 +1,6 @@
+interface:
+  display_name: "Implementing File Integrity Monitoring With Aide"
+  short_description: "Configure AIDE (Advanced Intrusion Detection Environment) for..."
+  default_prompt: "Use $implementing-file-integrity-monitoring-with-aide for an authorized cybersecurity task."
+policy:
+  allow_implicit_invocation: false

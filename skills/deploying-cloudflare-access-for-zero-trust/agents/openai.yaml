@@ -1,0 +1,6 @@
+interface:
+  display_name: "Deploying Cloudflare Access For Zero Trust"
+  short_description: "Deploying Cloudflare Access with Cloudflare Tunnel to provide..."
+  default_prompt: "Use $deploying-cloudflare-access-for-zero-trust for an authorized cybersecurity task."
+policy:
+  allow_implicit_invocation: false

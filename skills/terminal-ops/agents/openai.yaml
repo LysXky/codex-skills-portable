@@ -1,0 +1,6 @@
+interface:
+  display_name: "Terminal Ops"
+  short_description: "Evidence-first repo execution workflow for ECC. Use when the..."
+  default_prompt: "Use $terminal-ops to help with this task."
+policy:
+  allow_implicit_invocation: true

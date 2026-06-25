@@ -1,0 +1,21 @@
+# Original source metadata preserved during Codex adaptation.
+name: detecting-indirect-prompt-injection
+description: Detect and defend against prompt injection hidden in documents, web pages, and images consumed by an agent.
+domain: cybersecurity
+subdomain: ai-security
+tags:
+- ai-security
+- indirect-prompt-injection
+- llm-defense
+- agent-security
+- content-scanning
+- llm-guard
+- multimodal
+- owasp-llm
+version: '1.0'
+author: mahipal
+license: Apache-2.0
+nist_csf:
+- MEASURE-2.7
+mitre_attack:
+- AML.T0051.001

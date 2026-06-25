@@ -1,0 +1,6 @@
+interface:
+  display_name: "Implementing API Security Testing With 42crunch"
+  short_description: "Implement comprehensive API security testing using the 42Crun..."
+  default_prompt: "Use $implementing-api-security-testing-with-42crunch for an authorized cybersecurity task."
+policy:
+  allow_implicit_invocation: false

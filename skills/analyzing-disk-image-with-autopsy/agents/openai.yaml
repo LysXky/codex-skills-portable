@@ -1,0 +1,6 @@
+interface:
+  display_name: "Analyzing Disk Image With Autopsy"
+  short_description: "Perform comprehensive forensic analysis of disk images using..."
+  default_prompt: "Use $analyzing-disk-image-with-autopsy for an authorized cybersecurity task."
+policy:
+  allow_implicit_invocation: false

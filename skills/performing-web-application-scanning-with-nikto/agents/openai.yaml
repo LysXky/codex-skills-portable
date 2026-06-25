@@ -1,0 +1,6 @@
+interface:
+  display_name: "Performing Web Application Scanning With Nikto"
+  short_description: "Nikto is an open-source web server and web application scanne..."
+  default_prompt: "Use $performing-web-application-scanning-with-nikto for an authorized cybersecurity task."
+policy:
+  allow_implicit_invocation: false

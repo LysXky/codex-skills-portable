@@ -1,0 +1,6 @@
+interface:
+  display_name: "Conducting Spearphishing Simulation Campaign"
+  short_description: "Spearphishing simulation is a targeted social engineering att..."
+  default_prompt: "Use $conducting-spearphishing-simulation-campaign for an authorized cybersecurity task."
+policy:
+  allow_implicit_invocation: false

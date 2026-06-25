@@ -1,0 +1,6 @@
+interface:
+  display_name: "Analyzing Windows Amcache Artifacts"
+  short_description: "Parses and analyzes the Windows Amcache.hve registry hive to..."
+  default_prompt: "Use $analyzing-windows-amcache-artifacts for an authorized cybersecurity task."
+policy:
+  allow_implicit_invocation: false

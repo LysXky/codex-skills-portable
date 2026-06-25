@@ -1,0 +1,6 @@
+interface:
+  display_name: "Implementing Threat Modeling With MITRE Attack"
+  short_description: "Implements threat modeling using the MITRE ATT&CK framework t..."
+  default_prompt: "Use $implementing-threat-modeling-with-mitre-attack for an authorized cybersecurity task."
+policy:
+  allow_implicit_invocation: false

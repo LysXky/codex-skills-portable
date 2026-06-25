@@ -1,0 +1,6 @@
+interface:
+  display_name: "Performing Dynamic Analysis With Any Run"
+  short_description: "Performs interactive dynamic malware analysis using the ANY.R..."
+  default_prompt: "Use $performing-dynamic-analysis-with-any-run for an authorized cybersecurity task."
+policy:
+  allow_implicit_invocation: false

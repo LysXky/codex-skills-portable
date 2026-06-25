@@ -1,0 +1,6 @@
+interface:
+  display_name: "Scanning Container Images With Grype"
+  short_description: "Scan container images for known vulnerabilities using Anchore..."
+  default_prompt: "Use $scanning-container-images-with-grype for an authorized cybersecurity task."
+policy:
+  allow_implicit_invocation: false

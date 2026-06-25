@@ -1,0 +1,22 @@
+# Original source metadata preserved during Codex adaptation.
+name: enumerating-cloud-with-cloudfox
+description: Map AWS and Azure attack paths and find exploitable misconfigurations with
+  CloudFox.
+domain: cybersecurity
+subdomain: cloud-security
+tags:
+- cloudfox
+- aws
+- azure
+- cloud-pentest
+- attack-paths
+- situational-awareness
+- enumeration
+- offensive-security
+version: '1.0'
+author: mahipal
+license: Apache-2.0
+nist_csf:
+- ID.AM-03
+mitre_attack:
+- T1526

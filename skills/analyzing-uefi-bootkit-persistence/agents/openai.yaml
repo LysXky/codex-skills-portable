@@ -1,0 +1,6 @@
+interface:
+  display_name: "Analyzing Uefi Bootkit Persistence"
+  short_description: "Analyzes UEFI bootkit persistence mechanisms including firmwa..."
+  default_prompt: "Use $analyzing-uefi-bootkit-persistence for an authorized cybersecurity task."
+policy:
+  allow_implicit_invocation: false

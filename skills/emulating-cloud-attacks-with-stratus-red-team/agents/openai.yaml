@@ -1,0 +1,6 @@
+interface:
+  display_name: "Emulating Cloud Attacks With Stratus Red Team"
+  short_description: "Detonate granular AWS, Azure, GCP, and Kubernetes attack tech..."
+  default_prompt: "Use $emulating-cloud-attacks-with-stratus-red-team for an authorized cybersecurity task."
+policy:
+  allow_implicit_invocation: false

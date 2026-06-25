@@ -1,0 +1,6 @@
+interface:
+  display_name: "Implementing Proofpoint Email Security Gateway"
+  short_description: "Deploy and configure Proofpoint Email Protection as a secure..."
+  default_prompt: "Use $implementing-proofpoint-email-security-gateway for an authorized cybersecurity task."
+policy:
+  allow_implicit_invocation: false

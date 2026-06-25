@@ -1,0 +1,6 @@
+interface:
+  display_name: "Taste"
+  short_description: "A creative-direction (taste) layer for music videos and short..."
+  default_prompt: "Use $taste to help with this task."
+policy:
+  allow_implicit_invocation: true

@@ -1,0 +1,6 @@
+interface:
+  display_name: "Implementing Honeytokens For Breach Detection"
+  short_description: "Deploys canary tokens and honeytokens (fake AWS credentials..."
+  default_prompt: "Use $implementing-honeytokens-for-breach-detection for an authorized cybersecurity task."
+policy:
+  allow_implicit_invocation: false

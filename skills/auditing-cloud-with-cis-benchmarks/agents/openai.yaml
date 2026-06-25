@@ -1,0 +1,6 @@
+interface:
+  display_name: "Auditing Cloud With Cis Benchmarks"
+  short_description: "This skill details how to conduct cloud security audits using..."
+  default_prompt: "Use $auditing-cloud-with-cis-benchmarks for an authorized cybersecurity task."
+policy:
+  allow_implicit_invocation: false

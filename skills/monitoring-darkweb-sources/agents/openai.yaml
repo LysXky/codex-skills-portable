@@ -1,0 +1,6 @@
+interface:
+  display_name: "Monitoring Darkweb Sources"
+  short_description: "Monitors dark web forums, marketplaces, paste sites, and rans..."
+  default_prompt: "Use $monitoring-darkweb-sources for an authorized cybersecurity task."
+policy:
+  allow_implicit_invocation: false

@@ -1,0 +1,6 @@
+interface:
+  display_name: "Analyzing Threat Actor Ttps With MITRE Navigator"
+  short_description: "Map advanced persistent threat (APT) group tactics, technique..."
+  default_prompt: "Use $analyzing-threat-actor-ttps-with-mitre-navigator for an authorized cybersecurity task."
+policy:
+  allow_implicit_invocation: false

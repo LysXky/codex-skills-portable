@@ -1,0 +1,6 @@
+interface:
+  display_name: "Building Ransomware Playbook With CISA Framework"
+  short_description: "Builds a structured ransomware incident response playbook ali..."
+  default_prompt: "Use $building-ransomware-playbook-with-cisa-framework for an authorized cybersecurity task."
+policy:
+  allow_implicit_invocation: false

@@ -1,0 +1,6 @@
+interface:
+  display_name: "Performing Log Source Onboarding In SIEM"
+  short_description: "Perform structured log source onboarding into SIEM platforms..."
+  default_prompt: "Use $performing-log-source-onboarding-in-siem for an authorized cybersecurity task."
+policy:
+  allow_implicit_invocation: false

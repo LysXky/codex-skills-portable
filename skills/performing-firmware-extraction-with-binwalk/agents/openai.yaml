@@ -1,0 +1,6 @@
+interface:
+  display_name: "Performing Firmware Extraction With Binwalk"
+  short_description: "Performs firmware image extraction and analysis using binwalk..."
+  default_prompt: "Use $performing-firmware-extraction-with-binwalk for an authorized cybersecurity task."
+policy:
+  allow_implicit_invocation: false

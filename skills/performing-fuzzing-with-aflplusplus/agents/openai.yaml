@@ -1,0 +1,6 @@
+interface:
+  display_name: "Performing Fuzzing With Aflplusplus"
+  short_description: "Perform coverage-guided fuzzing of compiled binaries using AF..."
+  default_prompt: "Use $performing-fuzzing-with-aflplusplus for an authorized cybersecurity task."
+policy:
+  allow_implicit_invocation: false

@@ -1,0 +1,6 @@
+interface:
+  display_name: "Implementing Zero Standing Privilege With Cyberark"
+  short_description: "Deploy CyberArk Secure Cloud Access to eliminate standing pri..."
+  default_prompt: "Use $implementing-zero-standing-privilege-with-cyberark for an authorized cybersecurity task."
+policy:
+  allow_implicit_invocation: false

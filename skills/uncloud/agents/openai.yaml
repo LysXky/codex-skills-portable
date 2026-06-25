@@ -1,0 +1,6 @@
+interface:
+  display_name: "Uncloud"
+  short_description: "Use when managing an Uncloud cluster — deploying services, co..."
+  default_prompt: "Use $uncloud to help with this task."
+policy:
+  allow_implicit_invocation: true

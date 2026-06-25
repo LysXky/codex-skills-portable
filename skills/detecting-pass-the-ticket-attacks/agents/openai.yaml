@@ -1,0 +1,6 @@
+interface:
+  display_name: "Detecting Pass The Ticket Attacks"
+  short_description: "Detect Kerberos Pass-the-Ticket (PtT) attacks by analyzing Wi..."
+  default_prompt: "Use $detecting-pass-the-ticket-attacks for an authorized cybersecurity task."
+policy:
+  allow_implicit_invocation: false

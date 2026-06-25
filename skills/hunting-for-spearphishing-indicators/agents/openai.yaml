@@ -1,0 +1,6 @@
+interface:
+  display_name: "Hunting For Spearphishing Indicators"
+  short_description: "Hunt for spearphishing campaign indicators across email logs..."
+  default_prompt: "Use $hunting-for-spearphishing-indicators for an authorized cybersecurity task."
+policy:
+  allow_implicit_invocation: false

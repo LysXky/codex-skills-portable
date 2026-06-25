@@ -1,0 +1,6 @@
+interface:
+  display_name: "Django Verification"
+  short_description: "Verification loop for Django projects: migrations, linting, t..."
+  default_prompt: "Use $django-verification to help with this task."
+policy:
+  allow_implicit_invocation: true

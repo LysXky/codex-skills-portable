@@ -1,0 +1,6 @@
+interface:
+  display_name: "Implementing SIEM Use Case Tuning"
+  short_description: "Tune SIEM detection rules to reduce false positives by analyz..."
+  default_prompt: "Use $implementing-siem-use-case-tuning for an authorized cybersecurity task."
+policy:
+  allow_implicit_invocation: false

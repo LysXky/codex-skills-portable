@@ -1,0 +1,6 @@
+interface:
+  display_name: "Analyzing Windows Event Logs In Splunk"
+  short_description: "Analyzes Windows Security, System, and Sysmon event logs in S..."
+  default_prompt: "Use $analyzing-windows-event-logs-in-splunk for an authorized cybersecurity task."
+policy:
+  allow_implicit_invocation: false

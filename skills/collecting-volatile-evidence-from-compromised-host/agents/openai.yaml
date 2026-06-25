@@ -1,0 +1,6 @@
+interface:
+  display_name: "Collecting Volatile Evidence From Compromised Host"
+  short_description: "Collect volatile forensic evidence from a compromised system..."
+  default_prompt: "Use $collecting-volatile-evidence-from-compromised-host for an authorized cybersecurity task."
+policy:
+  allow_implicit_invocation: false

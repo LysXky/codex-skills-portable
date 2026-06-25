@@ -1,0 +1,6 @@
+interface:
+  display_name: "Abusing DPAPI For Credential Access"
+  short_description: "Extract DPAPI-protected secrets such as credentials and brows..."
+  default_prompt: "Use $abusing-dpapi-for-credential-access for an authorized cybersecurity task."
+policy:
+  allow_implicit_invocation: false

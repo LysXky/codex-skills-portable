@@ -1,0 +1,6 @@
+interface:
+  display_name: "Implementing Hashicorp Vault Dynamic Secrets"
+  short_description: "Implements HashiCorp Vault dynamic secrets engines for databa..."
+  default_prompt: "Use $implementing-hashicorp-vault-dynamic-secrets for an authorized cybersecurity task."
+policy:
+  allow_implicit_invocation: false

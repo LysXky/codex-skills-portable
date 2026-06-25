@@ -1,0 +1,6 @@
+interface:
+  display_name: "Customs Trade Compliance"
+  short_description: "Codified expertise for customs documentation, tariff classifi..."
+  default_prompt: "Use $customs-trade-compliance to help with this task."
+policy:
+  allow_implicit_invocation: true

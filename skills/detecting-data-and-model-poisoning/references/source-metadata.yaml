@@ -1,0 +1,22 @@
+# Original source metadata preserved during Codex adaptation.
+name: detecting-data-and-model-poisoning
+description: Identify poisoned training data and backdoored models across the ML pipeline.
+domain: cybersecurity
+subdomain: ai-security
+tags:
+- ai-security
+- data-poisoning
+- model-backdoor
+- ml-supply-chain
+- adversarial-robustness-toolbox
+- activation-clustering
+- spectral-signatures
+- model-integrity
+version: '1.0'
+author: mahipal
+license: Apache-2.0
+nist_csf:
+- MEASURE-2.7
+mitre_attack:
+- AML.T0020
+- AML.T0018

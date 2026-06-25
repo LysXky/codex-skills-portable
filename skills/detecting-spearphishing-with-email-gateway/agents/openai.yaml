@@ -1,0 +1,6 @@
+interface:
+  display_name: "Detecting Spearphishing With Email Gateway"
+  short_description: "Spearphishing targets specific individuals using personalized..."
+  default_prompt: "Use $detecting-spearphishing-with-email-gateway for an authorized cybersecurity task."
+policy:
+  allow_implicit_invocation: false

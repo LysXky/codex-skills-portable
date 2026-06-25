@@ -1,0 +1,21 @@
+# Original source metadata preserved during Codex adaptation.
+name: relaying-ntlm-for-adcs-esc8
+description: Run ntlmrelayx into ADCS web enrollment to obtain a domain controller certificate via ESC8.
+domain: cybersecurity
+subdomain: red-teaming
+tags:
+- red-team
+- ntlm-relay
+- adcs
+- esc8
+- impacket
+- certipy
+- active-directory
+- privilege-escalation
+version: '1.0'
+author: mahipal
+license: Apache-2.0
+nist_csf:
+- DE.CM-01
+mitre_attack:
+- T1557.001

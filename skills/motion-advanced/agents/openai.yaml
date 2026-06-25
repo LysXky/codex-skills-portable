@@ -1,0 +1,6 @@
+interface:
+  display_name: "Motion Advanced"
+  short_description: "Advanced motion patterns for React / Next.js — drag & drop, g..."
+  default_prompt: "Use $motion-advanced to help with this task."
+policy:
+  allow_implicit_invocation: true

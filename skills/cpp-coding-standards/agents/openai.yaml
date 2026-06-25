@@ -1,0 +1,6 @@
+interface:
+  display_name: "CPP Coding Standards"
+  short_description: "C++ coding standards based on the C++ Core Guidelines (isocpp..."
+  default_prompt: "Use $cpp-coding-standards to help with this task."
+policy:
+  allow_implicit_invocation: true

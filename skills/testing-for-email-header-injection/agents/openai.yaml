@@ -1,0 +1,6 @@
+interface:
+  display_name: "Testing For Email Header Injection"
+  short_description: "Test web application email functionality for SMTP header inje..."
+  default_prompt: "Use $testing-for-email-header-injection for an authorized cybersecurity task."
+policy:
+  allow_implicit_invocation: false

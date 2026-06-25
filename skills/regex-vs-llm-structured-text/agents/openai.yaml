@@ -1,0 +1,6 @@
+interface:
+  display_name: "Regex Vs LLM Structured Text"
+  short_description: "Decision framework for choosing between regex and LLM when pa..."
+  default_prompt: "Use $regex-vs-llm-structured-text to help with this task."
+policy:
+  allow_implicit_invocation: true

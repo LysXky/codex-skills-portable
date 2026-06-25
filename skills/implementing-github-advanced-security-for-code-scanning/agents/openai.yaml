@@ -1,0 +1,6 @@
+interface:
+  display_name: "Implementing Github Advanced Security For Code Scanning"
+  short_description: "Configure GitHub Advanced Security with CodeQL to perform aut..."
+  default_prompt: "Use $implementing-github-advanced-security-for-code-scanning for an authorized cybersecurity task."
+policy:
+  allow_implicit_invocation: false

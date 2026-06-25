@@ -1,0 +1,6 @@
+interface:
+  display_name: "Implementing AWS Config Rules For Compliance"
+  short_description: "Implementing AWS Config rules for continuous compliance monit..."
+  default_prompt: "Use $implementing-aws-config-rules-for-compliance for an authorized cybersecurity task."
+policy:
+  allow_implicit_invocation: false

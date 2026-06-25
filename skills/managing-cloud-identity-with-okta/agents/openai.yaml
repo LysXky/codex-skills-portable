@@ -1,0 +1,6 @@
+interface:
+  display_name: "Managing Cloud Identity With Okta"
+  short_description: "This skill covers implementing Okta as a centralized identity..."
+  default_prompt: "Use $managing-cloud-identity-with-okta for an authorized cybersecurity task."
+policy:
+  allow_implicit_invocation: false

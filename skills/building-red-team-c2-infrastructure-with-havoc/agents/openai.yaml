@@ -1,0 +1,6 @@
+interface:
+  display_name: "Building Red Team C2 Infrastructure With Havoc"
+  short_description: "Deploy and configure the Havoc C2 framework with teamserver..."
+  default_prompt: "Use $building-red-team-c2-infrastructure-with-havoc for an authorized cybersecurity task."
+policy:
+  allow_implicit_invocation: false

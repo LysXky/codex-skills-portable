@@ -1,0 +1,6 @@
+interface:
+  display_name: "Detecting Bluetooth Low Energy Attacks"
+  short_description: "Detects and analyzes Bluetooth Low Energy (BLE) security atta..."
+  default_prompt: "Use $detecting-bluetooth-low-energy-attacks for an authorized cybersecurity task."
+policy:
+  allow_implicit_invocation: false

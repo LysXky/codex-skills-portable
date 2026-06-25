@@ -1,0 +1,21 @@
+# Original source metadata preserved during Codex adaptation.
+name: mapping-attack-paths-with-bloodhound-ce
+description: Collect Active Directory data with SharpHound and Entra ID data with AzureHound, ingest into BloodHound Community Edition, and analyze on-prem, cloud, and hybrid attack paths with built-in queries and custom Cypher.
+domain: cybersecurity
+subdomain: red-teaming
+tags:
+- bloodhound-ce
+- sharphound
+- azurehound
+- active-directory
+- entra-id
+- attack-paths
+- cypher
+- hybrid-identity
+version: '1.0'
+author: mahipal
+license: Apache-2.0
+nist_csf:
+- ID.AM-03
+mitre_attack:
+- T1069

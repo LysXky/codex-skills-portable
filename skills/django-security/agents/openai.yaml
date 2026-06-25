@@ -1,0 +1,6 @@
+interface:
+  display_name: "Django Security"
+  short_description: "Django security best practices, authentication, authorization..."
+  default_prompt: "Use $django-security to help with this task."
+policy:
+  allow_implicit_invocation: true

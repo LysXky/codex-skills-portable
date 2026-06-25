@@ -1,0 +1,6 @@
+interface:
+  display_name: "Performing AWS Privilege Escalation Assessment"
+  short_description: "Performing authorized privilege escalation assessments in AWS..."
+  default_prompt: "Use $performing-aws-privilege-escalation-assessment for an authorized cybersecurity task."
+policy:
+  allow_implicit_invocation: false

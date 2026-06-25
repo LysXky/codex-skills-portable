@@ -1,0 +1,6 @@
+interface:
+  display_name: "Testing For Sensitive Data Exposure"
+  short_description: "Identifying sensitive data exposure vulnerabilities including..."
+  default_prompt: "Use $testing-for-sensitive-data-exposure for an authorized cybersecurity task."
+policy:
+  allow_implicit_invocation: false

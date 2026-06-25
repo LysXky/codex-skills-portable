@@ -1,0 +1,6 @@
+interface:
+  display_name: "Implementing Stix Taxii Feed Integration"
+  short_description: "STIX (Structured Threat Information eXpression) and TAXII (Tr..."
+  default_prompt: "Use $implementing-stix-taxii-feed-integration for an authorized cybersecurity task."
+policy:
+  allow_implicit_invocation: false

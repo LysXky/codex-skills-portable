@@ -1,0 +1,6 @@
+interface:
+  display_name: "Red Teaming Llms With Garak"
+  short_description: "Run NVIDIA garak probe suites against an LLM endpoint to test..."
+  default_prompt: "Use $red-teaming-llms-with-garak for an authorized cybersecurity task."
+policy:
+  allow_implicit_invocation: false

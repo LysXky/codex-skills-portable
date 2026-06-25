@@ -1,0 +1,6 @@
+interface:
+  display_name: "Configuring Active Directory Tiered Model"
+  short_description: "Implement Microsoft's Enhanced Security Admin Environment (ES..."
+  default_prompt: "Use $configuring-active-directory-tiered-model for an authorized cybersecurity task."
+policy:
+  allow_implicit_invocation: false

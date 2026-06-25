@@ -1,0 +1,6 @@
+interface:
+  display_name: "Implementing PCI Dss Compliance Controls"
+  short_description: "PCI DSS 4.0.1 establishes 12 requirements across 6 control ob..."
+  default_prompt: "Use $implementing-pci-dss-compliance-controls for an authorized cybersecurity task."
+policy:
+  allow_implicit_invocation: false

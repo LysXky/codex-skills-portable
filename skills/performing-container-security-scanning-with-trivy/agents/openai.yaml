@@ -1,0 +1,6 @@
+interface:
+  display_name: "Performing Container Security Scanning With Trivy"
+  short_description: "Scan container images, filesystems, and Kubernetes manifests..."
+  default_prompt: "Use $performing-container-security-scanning-with-trivy for an authorized cybersecurity task."
+policy:
+  allow_implicit_invocation: false

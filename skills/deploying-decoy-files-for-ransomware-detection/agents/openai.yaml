@@ -1,0 +1,6 @@
+interface:
+  display_name: "Deploying Decoy Files For Ransomware Detection"
+  short_description: "Deploys canary files (honeytokens) across file systems to det..."
+  default_prompt: "Use $deploying-decoy-files-for-ransomware-detection for an authorized cybersecurity task."
+policy:
+  allow_implicit_invocation: false

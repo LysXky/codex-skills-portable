@@ -1,0 +1,6 @@
+interface:
+  display_name: "Detecting Shadow API Endpoints"
+  short_description: "Discover and inventory shadow API endpoints that operate outs..."
+  default_prompt: "Use $detecting-shadow-api-endpoints for an authorized cybersecurity task."
+policy:
+  allow_implicit_invocation: false

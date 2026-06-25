@@ -1,0 +1,6 @@
+interface:
+  display_name: "Triaging Security Incident"
+  short_description: "Performs initial triage of security incidents to determine se..."
+  default_prompt: "Use $triaging-security-incident for an authorized cybersecurity task."
+policy:
+  allow_implicit_invocation: false

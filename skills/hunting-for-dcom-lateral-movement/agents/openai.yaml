@@ -1,0 +1,6 @@
+interface:
+  display_name: "Hunting For Dcom Lateral Movement"
+  short_description: "Hunt for DCOM-based lateral movement by detecting abuse of MM..."
+  default_prompt: "Use $hunting-for-dcom-lateral-movement for an authorized cybersecurity task."
+policy:
+  allow_implicit_invocation: false

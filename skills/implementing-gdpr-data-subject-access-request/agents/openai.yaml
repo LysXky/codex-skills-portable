@@ -1,0 +1,6 @@
+interface:
+  display_name: "Implementing Gdpr Data Subject Access Request"
+  short_description: "Automates GDPR Data Subject Access Request (DSAR) workflows i..."
+  default_prompt: "Use $implementing-gdpr-data-subject-access-request for an authorized cybersecurity task."
+policy:
+  allow_implicit_invocation: false

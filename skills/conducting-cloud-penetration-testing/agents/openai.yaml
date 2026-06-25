@@ -1,0 +1,6 @@
+interface:
+  display_name: "Conducting Cloud Penetration Testing"
+  short_description: "This skill outlines methodologies for performing authorized p..."
+  default_prompt: "Use $conducting-cloud-penetration-testing for an authorized cybersecurity task."
+policy:
+  allow_implicit_invocation: false

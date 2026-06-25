@@ -1,0 +1,6 @@
+interface:
+  display_name: "Implementing Ransomware Kill Switch Detection"
+  short_description: "Detects and exploits ransomware kill switch mechanisms includ..."
+  default_prompt: "Use $implementing-ransomware-kill-switch-detection for an authorized cybersecurity task."
+policy:
+  allow_implicit_invocation: false

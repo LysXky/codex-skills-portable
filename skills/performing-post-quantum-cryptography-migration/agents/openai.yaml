@@ -1,0 +1,6 @@
+interface:
+  display_name: "Performing Post Quantum Cryptography Migration"
+  short_description: "Assesses organizational readiness for post-quantum cryptograp..."
+  default_prompt: "Use $performing-post-quantum-cryptography-migration for an authorized cybersecurity task."
+policy:
+  allow_implicit_invocation: false

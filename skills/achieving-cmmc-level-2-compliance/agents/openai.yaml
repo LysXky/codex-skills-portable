@@ -1,0 +1,6 @@
+interface:
+  display_name: "Achieving CMMC Level 2 Compliance"
+  short_description: "Prepare a defense-contractor environment for CMMC Level 2 cer..."
+  default_prompt: "Use $achieving-cmmc-level-2-compliance for an authorized cybersecurity task."
+policy:
+  allow_implicit_invocation: false

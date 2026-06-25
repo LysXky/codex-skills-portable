@@ -1,0 +1,6 @@
+interface:
+  display_name: "Testing Jwt Token Security"
+  short_description: "Assessing JSON Web Token implementations for cryptographic we..."
+  default_prompt: "Use $testing-jwt-token-security for an authorized cybersecurity task."
+policy:
+  allow_implicit_invocation: false

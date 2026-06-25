@@ -1,0 +1,6 @@
+interface:
+  display_name: "Performing Jwt None Algorithm Attack"
+  short_description: "Execute and test the JWT none algorithm attack to bypass sign..."
+  default_prompt: "Use $performing-jwt-none-algorithm-attack for an authorized cybersecurity task."
+policy:
+  allow_implicit_invocation: false

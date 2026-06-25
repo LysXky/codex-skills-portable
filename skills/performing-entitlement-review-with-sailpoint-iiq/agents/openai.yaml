@@ -1,0 +1,6 @@
+interface:
+  display_name: "Performing Entitlement Review With Sailpoint Iiq"
+  short_description: "Performs entitlement review and access certification campaign..."
+  default_prompt: "Use $performing-entitlement-review-with-sailpoint-iiq for an authorized cybersecurity task."
+policy:
+  allow_implicit_invocation: false

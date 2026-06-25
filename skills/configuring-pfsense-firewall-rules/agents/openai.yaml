@@ -1,0 +1,6 @@
+interface:
+  display_name: "Configuring Pfsense Firewall Rules"
+  short_description: "Configures pfSense firewall rules, NAT policies, VPN tunnels..."
+  default_prompt: "Use $configuring-pfsense-firewall-rules for an authorized cybersecurity task."
+policy:
+  allow_implicit_invocation: false

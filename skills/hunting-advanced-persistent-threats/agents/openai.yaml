@@ -1,0 +1,6 @@
+interface:
+  display_name: "Hunting Advanced Persistent Threats"
+  short_description: "Proactively hunts for Advanced Persistent Threat (APT) activi..."
+  default_prompt: "Use $hunting-advanced-persistent-threats for an authorized cybersecurity task."
+policy:
+  allow_implicit_invocation: false

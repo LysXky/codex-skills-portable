@@ -1,0 +1,6 @@
+interface:
+  display_name: "Detecting Dnp3 Protocol Anomalies"
+  short_description: "Detect anomalies in DNP3 (Distributed Network Protocol 3) com..."
+  default_prompt: "Use $detecting-dnp3-protocol-anomalies for an authorized cybersecurity task."
+policy:
+  allow_implicit_invocation: false

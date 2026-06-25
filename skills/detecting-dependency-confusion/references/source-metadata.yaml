@@ -1,0 +1,21 @@
+# Original source metadata preserved during Codex adaptation.
+name: detecting-dependency-confusion
+description: Detect and prevent public-over-private name resolution in npm, PyPI, and Maven.
+domain: cybersecurity
+subdomain: supply-chain-security
+tags:
+- supply-chain-security
+- dependency-confusion
+- npm
+- pypi
+- maven
+- package-management
+- devsecops
+- namespace-hijacking
+version: '1.0'
+author: mahipal
+license: Apache-2.0
+nist_csf:
+- ID.RA-09
+mitre_attack:
+- T1195.001

@@ -1,0 +1,6 @@
+interface:
+  display_name: "Implementing Supply Chain Security With In Toto"
+  short_description: "Implement software supply chain integrity verification for co..."
+  default_prompt: "Use $implementing-supply-chain-security-with-in-toto for an authorized cybersecurity task."
+policy:
+  allow_implicit_invocation: false

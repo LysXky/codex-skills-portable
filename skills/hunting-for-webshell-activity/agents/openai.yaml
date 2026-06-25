@@ -1,0 +1,6 @@
+interface:
+  display_name: "Hunting For Webshell Activity"
+  short_description: "Hunt for web shell deployments on internet-facing servers by..."
+  default_prompt: "Use $hunting-for-webshell-activity for an authorized cybersecurity task."
+policy:
+  allow_implicit_invocation: false

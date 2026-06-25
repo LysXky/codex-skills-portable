@@ -1,0 +1,6 @@
+interface:
+  display_name: "Implementing Endpoint Dlp Controls"
+  short_description: "Implements endpoint Data Loss Prevention (DLP) controls to de..."
+  default_prompt: "Use $implementing-endpoint-dlp-controls for an authorized cybersecurity task."
+policy:
+  allow_implicit_invocation: false

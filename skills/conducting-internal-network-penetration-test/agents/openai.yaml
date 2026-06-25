@@ -1,0 +1,6 @@
+interface:
+  display_name: "Conducting Internal Network Penetration Test"
+  short_description: "Execute an internal network penetration test simulating an in..."
+  default_prompt: "Use $conducting-internal-network-penetration-test for an authorized cybersecurity task."
+policy:
+  allow_implicit_invocation: false

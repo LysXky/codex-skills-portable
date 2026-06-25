@@ -1,0 +1,6 @@
+interface:
+  display_name: "Implementing Devsecops Security Scanning"
+  short_description: "Integrates Static Application Security Testing (SAST), Dynami..."
+  default_prompt: "Use $implementing-devsecops-security-scanning for an authorized cybersecurity task."
+policy:
+  allow_implicit_invocation: false

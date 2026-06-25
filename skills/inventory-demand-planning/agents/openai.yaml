@@ -1,0 +1,6 @@
+interface:
+  display_name: "Inventory Demand Planning"
+  short_description: "Codified expertise for demand forecasting, safety stock optim..."
+  default_prompt: "Use $inventory-demand-planning to help with this task."
+policy:
+  allow_implicit_invocation: true

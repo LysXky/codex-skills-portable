@@ -1,0 +1,6 @@
+interface:
+  display_name: "Swift Concurrency 6 2"
+  short_description: "Swift 6.2 Approachable Concurrency — single-threaded by defau..."
+  default_prompt: "Use $swift-concurrency-6-2 to help with this task."
+policy:
+  allow_implicit_invocation: true

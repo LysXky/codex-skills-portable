@@ -1,0 +1,6 @@
+interface:
+  display_name: "Building SOC Playbook For Ransomware"
+  short_description: "Builds a structured SOC incident response playbook for ransom..."
+  default_prompt: "Use $building-soc-playbook-for-ransomware for an authorized cybersecurity task."
+policy:
+  allow_implicit_invocation: false

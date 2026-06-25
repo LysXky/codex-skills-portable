@@ -1,0 +1,6 @@
+interface:
+  display_name: "Performing Cloud Incident Containment Procedures"
+  short_description: "Execute cloud-native incident containment across AWS, Azure..."
+  default_prompt: "Use $performing-cloud-incident-containment-procedures for an authorized cybersecurity task."
+policy:
+  allow_implicit_invocation: false

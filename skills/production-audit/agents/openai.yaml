@@ -1,0 +1,6 @@
+interface:
+  display_name: "Production Audit"
+  short_description: "Local-evidence production readiness audit for shipped apps, p..."
+  default_prompt: "Use $production-audit to help with this task."
+policy:
+  allow_implicit_invocation: true

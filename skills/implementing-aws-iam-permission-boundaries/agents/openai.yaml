@@ -1,0 +1,6 @@
+interface:
+  display_name: "Implementing AWS IAM Permission Boundaries"
+  short_description: "Configure IAM permission boundaries in AWS to delegate role c..."
+  default_prompt: "Use $implementing-aws-iam-permission-boundaries for an authorized cybersecurity task."
+policy:
+  allow_implicit_invocation: false

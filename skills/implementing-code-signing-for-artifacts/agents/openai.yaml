@@ -1,0 +1,6 @@
+interface:
+  display_name: "Implementing Code Signing For Artifacts"
+  short_description: "This skill covers implementing code signing for build artifac..."
+  default_prompt: "Use $implementing-code-signing-for-artifacts for an authorized cybersecurity task."
+policy:
+  allow_implicit_invocation: false

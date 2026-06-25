@@ -1,0 +1,6 @@
+interface:
+  display_name: "Building Identity Governance Lifecycle Process"
+  short_description: "Builds comprehensive identity governance and lifecycle manage..."
+  default_prompt: "Use $building-identity-governance-lifecycle-process for an authorized cybersecurity task."
+policy:
+  allow_implicit_invocation: false

@@ -1,0 +1,6 @@
+interface:
+  display_name: "Detecting AWS IAM Privilege Escalation"
+  short_description: "Detect AWS IAM privilege escalation paths using boto3 and Clo..."
+  default_prompt: "Use $detecting-aws-iam-privilege-escalation for an authorized cybersecurity task."
+policy:
+  allow_implicit_invocation: false

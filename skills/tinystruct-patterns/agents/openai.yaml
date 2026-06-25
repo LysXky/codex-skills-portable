@@ -1,0 +1,6 @@
+interface:
+  display_name: "Tinystruct Patterns"
+  short_description: "Expert guidance for developing with the tinystruct Java frame..."
+  default_prompt: "Use $tinystruct-patterns to help with this task."
+policy:
+  allow_implicit_invocation: true

@@ -1,0 +1,6 @@
+interface:
+  display_name: "Implementing Honeypot For Ransomware Detection"
+  short_description: "Deploys canary files, honeypot shares, and decoy systems to d..."
+  default_prompt: "Use $implementing-honeypot-for-ransomware-detection for an authorized cybersecurity task."
+policy:
+  allow_implicit_invocation: false

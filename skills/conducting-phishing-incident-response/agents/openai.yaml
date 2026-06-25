@@ -1,0 +1,6 @@
+interface:
+  display_name: "Conducting Phishing Incident Response"
+  short_description: "Responds to phishing incidents by analyzing reported emails..."
+  default_prompt: "Use $conducting-phishing-incident-response for an authorized cybersecurity task."
+policy:
+  allow_implicit_invocation: false

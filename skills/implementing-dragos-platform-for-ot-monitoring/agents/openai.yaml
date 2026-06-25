@@ -1,0 +1,6 @@
+interface:
+  display_name: "Implementing Dragos Platform For Ot Monitoring"
+  short_description: "Deploy and configure the Dragos Platform for OT network monit..."
+  default_prompt: "Use $implementing-dragos-platform-for-ot-monitoring for an authorized cybersecurity task."
+policy:
+  allow_implicit_invocation: false

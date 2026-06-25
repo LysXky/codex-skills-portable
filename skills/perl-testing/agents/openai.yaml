@@ -1,0 +1,6 @@
+interface:
+  display_name: "Perl Testing"
+  short_description: "Perl testing patterns using Test2::V0, Test::More, prove runn..."
+  default_prompt: "Use $perl-testing to help with this task."
+policy:
+  allow_implicit_invocation: true

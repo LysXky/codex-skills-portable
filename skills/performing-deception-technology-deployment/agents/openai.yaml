@@ -1,0 +1,6 @@
+interface:
+  display_name: "Performing Deception Technology Deployment"
+  short_description: "Deploys deception technology including honeypots, honeytokens..."
+  default_prompt: "Use $performing-deception-technology-deployment for an authorized cybersecurity task."
+policy:
+  allow_implicit_invocation: false

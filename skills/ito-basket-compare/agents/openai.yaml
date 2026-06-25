@@ -1,0 +1,6 @@
+interface:
+  display_name: "Ito Basket Compare"
+  short_description: "Compare Itô prediction-market baskets against a user's knowle..."
+  default_prompt: "Use $ito-basket-compare to help with this task."
+policy:
+  allow_implicit_invocation: true

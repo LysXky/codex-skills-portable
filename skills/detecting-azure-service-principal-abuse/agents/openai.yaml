@@ -1,0 +1,6 @@
+interface:
+  display_name: "Detecting Azure Service Principal Abuse"
+  short_description: "Detect and investigate Azure service principal abuse includin..."
+  default_prompt: "Use $detecting-azure-service-principal-abuse for an authorized cybersecurity task."
+policy:
+  allow_implicit_invocation: false

@@ -1,0 +1,21 @@
+# Original source metadata preserved during Codex adaptation.
+name: operating-havoc-c2
+description: Deploy a Havoc team server with Yaotl profiles, generate evasive Demon agents with indirect syscalls and sleep obfuscation, and run post-exploitation and pivoting for adversary emulation.
+domain: cybersecurity
+subdomain: red-teaming
+tags:
+- red-team
+- command-and-control
+- havoc
+- demon-agent
+- adversary-emulation
+- evasion
+- post-exploitation
+- sleep-obfuscation
+version: '1.0'
+author: mahipal
+license: Apache-2.0
+nist_csf:
+- DE.CM-01
+mitre_attack:
+- T1071.001

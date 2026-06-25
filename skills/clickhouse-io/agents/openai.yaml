@@ -1,0 +1,6 @@
+interface:
+  display_name: "Clickhouse Io"
+  short_description: "ClickHouse database patterns, query optimization, analytics..."
+  default_prompt: "Use $clickhouse-io to help with this task."
+policy:
+  allow_implicit_invocation: true

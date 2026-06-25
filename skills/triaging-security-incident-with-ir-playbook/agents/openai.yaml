@@ -1,0 +1,6 @@
+interface:
+  display_name: "Triaging Security Incident With Ir Playbook"
+  short_description: "Classify and prioritize security incidents using structured I..."
+  default_prompt: "Use $triaging-security-incident-with-ir-playbook for an authorized cybersecurity task."
+policy:
+  allow_implicit_invocation: false

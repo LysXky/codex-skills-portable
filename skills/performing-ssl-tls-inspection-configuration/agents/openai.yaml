@@ -1,0 +1,6 @@
+interface:
+  display_name: "Performing Ssl Tls Inspection Configuration"
+  short_description: "Configure SSL/TLS inspection on network security devices to d..."
+  default_prompt: "Use $performing-ssl-tls-inspection-configuration for an authorized cybersecurity task."
+policy:
+  allow_implicit_invocation: false

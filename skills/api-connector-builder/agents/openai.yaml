@@ -1,0 +1,6 @@
+interface:
+  display_name: "API Connector Builder"
+  short_description: "Build a new API connector or provider by matching the target..."
+  default_prompt: "Use $api-connector-builder to help with this task."
+policy:
+  allow_implicit_invocation: true

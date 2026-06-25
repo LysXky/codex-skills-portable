@@ -1,0 +1,6 @@
+interface:
+  display_name: "CPP Testing"
+  short_description: "Use only when writing/updating/fixing C++ tests, configuring..."
+  default_prompt: "Use $cpp-testing to help with this task."
+policy:
+  allow_implicit_invocation: true

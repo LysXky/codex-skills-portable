@@ -1,0 +1,6 @@
+interface:
+  display_name: "Conducting Internal Reconnaissance With Bloodhound Ce"
+  short_description: "Conduct internal Active Directory reconnaissance using BloodH..."
+  default_prompt: "Use $conducting-internal-reconnaissance-with-bloodhound-ce for an authorized cybersecurity task."
+policy:
+  allow_implicit_invocation: false

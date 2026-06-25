@@ -1,0 +1,6 @@
+interface:
+  display_name: "Analyzing Certificate Transparency For Phishing"
+  short_description: "Monitor Certificate Transparency logs using crt.sh and Certst..."
+  default_prompt: "Use $analyzing-certificate-transparency-for-phishing for an authorized cybersecurity task."
+policy:
+  allow_implicit_invocation: false

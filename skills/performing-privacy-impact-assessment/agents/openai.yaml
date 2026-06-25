@@ -1,0 +1,6 @@
+interface:
+  display_name: "Performing Privacy Impact Assessment"
+  short_description: "Automates the Privacy Impact Assessment (PIA) workflow includ..."
+  default_prompt: "Use $performing-privacy-impact-assessment for an authorized cybersecurity task."
+policy:
+  allow_implicit_invocation: false

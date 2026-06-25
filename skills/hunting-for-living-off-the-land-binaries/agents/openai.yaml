@@ -1,0 +1,6 @@
+interface:
+  display_name: "Hunting For Living Off The Land Binaries"
+  short_description: "Proactively hunt for adversary abuse of legitimate system bin..."
+  default_prompt: "Use $hunting-for-living-off-the-land-binaries for an authorized cybersecurity task."
+policy:
+  allow_implicit_invocation: false

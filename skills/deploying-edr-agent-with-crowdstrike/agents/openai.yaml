@@ -1,0 +1,6 @@
+interface:
+  display_name: "Deploying EDR Agent With Crowdstrike"
+  short_description: "Deploys and configures CrowdStrike Falcon EDR agents across e..."
+  default_prompt: "Use $deploying-edr-agent-with-crowdstrike for an authorized cybersecurity task."
+policy:
+  allow_implicit_invocation: false

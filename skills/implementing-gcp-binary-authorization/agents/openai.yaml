@@ -1,0 +1,6 @@
+interface:
+  display_name: "Implementing GCP Binary Authorization"
+  short_description: "Implement GCP Binary Authorization to enforce deploy-time sec..."
+  default_prompt: "Use $implementing-gcp-binary-authorization for an authorized cybersecurity task."
+policy:
+  allow_implicit_invocation: false

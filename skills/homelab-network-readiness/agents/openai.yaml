@@ -1,0 +1,6 @@
+interface:
+  display_name: "Homelab Network Readiness"
+  short_description: "Readiness checklist for homelab VLAN segmentation, local DNS..."
+  default_prompt: "Use $homelab-network-readiness to help with this task."
+policy:
+  allow_implicit_invocation: true

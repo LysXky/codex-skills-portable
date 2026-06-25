@@ -1,0 +1,6 @@
+interface:
+  display_name: "Santa Method"
+  short_description: "Multi-agent adversarial verification with convergence loop. T..."
+  default_prompt: "Use $santa-method to help with this task."
+policy:
+  allow_implicit_invocation: true

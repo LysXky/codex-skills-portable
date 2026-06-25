@@ -1,0 +1,6 @@
+interface:
+  display_name: "Collecting Indicators Of Compromise"
+  short_description: "Systematically collects, categorizes, and distributes indicat..."
+  default_prompt: "Use $collecting-indicators-of-compromise for an authorized cybersecurity task."
+policy:
+  allow_implicit_invocation: false

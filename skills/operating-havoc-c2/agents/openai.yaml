@@ -1,0 +1,6 @@
+interface:
+  display_name: "Operating Havoc C2"
+  short_description: "Deploy a Havoc team server with Yaotl profiles, generate evas..."
+  default_prompt: "Use $operating-havoc-c2 for an authorized cybersecurity task."
+policy:
+  allow_implicit_invocation: false

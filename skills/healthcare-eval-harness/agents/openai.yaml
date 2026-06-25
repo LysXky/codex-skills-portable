@@ -1,0 +1,6 @@
+interface:
+  display_name: "Healthcare Eval Harness"
+  short_description: "Patient safety evaluation harness for healthcare application..."
+  default_prompt: "Use $healthcare-eval-harness to help with this task."
+policy:
+  allow_implicit_invocation: true

@@ -1,0 +1,6 @@
+interface:
+  display_name: "Detecting AWS Credential Exposure With Trufflehog"
+  short_description: "Detecting exposed AWS credentials in source code repositories..."
+  default_prompt: "Use $detecting-aws-credential-exposure-with-trufflehog for an authorized cybersecurity task."
+policy:
+  allow_implicit_invocation: false

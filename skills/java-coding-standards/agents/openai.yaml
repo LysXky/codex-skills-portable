@@ -1,0 +1,6 @@
+interface:
+  display_name: "Java Coding Standards"
+  short_description: "Java coding standards for Spring Boot and Quarkus services: n..."
+  default_prompt: "Use $java-coding-standards to help with this task."
+policy:
+  allow_implicit_invocation: true

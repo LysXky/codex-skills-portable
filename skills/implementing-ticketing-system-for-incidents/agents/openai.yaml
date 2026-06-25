@@ -1,0 +1,6 @@
+interface:
+  display_name: "Implementing Ticketing System For Incidents"
+  short_description: "Implements an integrated incident ticketing system connecting..."
+  default_prompt: "Use $implementing-ticketing-system-for-incidents for an authorized cybersecurity task."
+policy:
+  allow_implicit_invocation: false

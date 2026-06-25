@@ -1,0 +1,6 @@
+interface:
+  display_name: "Implementing Kubernetes Pod Security Standards"
+  short_description: "Pod Security Standards (PSS) define three levels of security..."
+  default_prompt: "Use $implementing-kubernetes-pod-security-standards for an authorized cybersecurity task."
+policy:
+  allow_implicit_invocation: false

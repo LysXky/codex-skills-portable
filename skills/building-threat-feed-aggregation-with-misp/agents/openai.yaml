@@ -1,0 +1,6 @@
+interface:
+  display_name: "Building Threat Feed Aggregation With Misp"
+  short_description: "Deploy MISP (Malware Information Sharing Platform) to aggrega..."
+  default_prompt: "Use $building-threat-feed-aggregation-with-misp for an authorized cybersecurity task."
+policy:
+  allow_implicit_invocation: false

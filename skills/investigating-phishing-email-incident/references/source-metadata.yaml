@@ -1,0 +1,66 @@
+# Original source metadata preserved during Codex adaptation.
+name: investigating-phishing-email-incident
+description: 'Investigates phishing email incidents from initial user report through
+  header analysis, URL/attachment detonation, impacted user identification, and containment
+  actions using SOC tools like Splunk, Microsoft Defender, and sandbox analysis platforms.
+  Use when a reported phishing email requires full incident investigation to determine
+  scope and impact.
+
+  '
+domain: cybersecurity
+subdomain: soc-operations
+tags:
+- soc
+- phishing
+- incident-response
+- email-security
+- splunk
+- defender
+- sandbox
+mitre_attack:
+- T1078
+- T1685.002
+- T1685.005
+- T1566
+- T1598
+mitre_f3:
+  version: '1.1'
+  tactics:
+  - reconnaissance
+  - resource-development
+  - initial-access
+  - stealth
+  - positioning
+  techniques:
+  - id: T1598
+    name: Phishing for Information
+    tactic: reconnaissance
+    source: attack
+  - id: T1660
+    name: Phishing
+    tactic: initial-access
+    source: attack
+  - id: T1672
+    name: Email Spoofing
+    tactic: stealth
+    source: attack
+  - id: F1020.002
+    name: 'Create Fake Materials: Fake Website'
+    tactic: resource-development
+    source: f3
+  - id: T1539
+    name: Steal Web Session Cookie
+    tactic: positioning
+    source: attack
+  - id: F1006.002
+    name: 'Account Takeover: Exposed Login Credential'
+    tactic: initial-access
+    source: f3
+version: '1.0'
+author: mahipal
+license: Apache-2.0
+nist_csf:
+- DE.CM-01
+- DE.AE-02
+- RS.MA-01
+- DE.AE-06

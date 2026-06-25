@@ -1,0 +1,6 @@
+interface:
+  display_name: "Performing Threat Hunting With Elastic SIEM"
+  short_description: "Performs proactive threat hunting in Elastic Security SIEM us..."
+  default_prompt: "Use $performing-threat-hunting-with-elastic-siem for an authorized cybersecurity task."
+policy:
+  allow_implicit_invocation: false

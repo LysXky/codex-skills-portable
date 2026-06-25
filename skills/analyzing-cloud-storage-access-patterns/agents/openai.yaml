@@ -1,0 +1,6 @@
+interface:
+  display_name: "Analyzing Cloud Storage Access Patterns"
+  short_description: "Detect abnormal access patterns in AWS S3, GCS, and Azure Blo..."
+  default_prompt: "Use $analyzing-cloud-storage-access-patterns for an authorized cybersecurity task."
+policy:
+  allow_implicit_invocation: false

@@ -1,0 +1,6 @@
+interface:
+  display_name: "Implementing Log Forwarding With Fluentd"
+  short_description: "Configure Fluentd and Fluent Bit for centralized log aggregat..."
+  default_prompt: "Use $implementing-log-forwarding-with-fluentd for an authorized cybersecurity task."
+policy:
+  allow_implicit_invocation: false

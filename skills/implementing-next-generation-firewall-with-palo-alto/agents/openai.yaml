@@ -1,0 +1,6 @@
+interface:
+  display_name: "Implementing Next Generation Firewall With Palo Alto"
+  short_description: "Configure and deploy Palo Alto Networks next-generation firew..."
+  default_prompt: "Use $implementing-next-generation-firewall-with-palo-alto for an authorized cybersecurity task."
+policy:
+  allow_implicit_invocation: false

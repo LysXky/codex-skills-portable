@@ -1,0 +1,6 @@
+interface:
+  display_name: "Implementing Soar Playbook With Palo Alto Xsoar"
+  short_description: "Implement automated incident response playbooks in Cortex XSO..."
+  default_prompt: "Use $implementing-soar-playbook-with-palo-alto-xsoar for an authorized cybersecurity task."
+policy:
+  allow_implicit_invocation: false

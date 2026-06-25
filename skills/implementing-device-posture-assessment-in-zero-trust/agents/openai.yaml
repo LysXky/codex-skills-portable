@@ -1,0 +1,6 @@
+interface:
+  display_name: "Implementing Device Posture Assessment In Zero Trust"
+  short_description: "Implementing device posture assessment as a zero trust access..."
+  default_prompt: "Use $implementing-device-posture-assessment-in-zero-trust for an authorized cybersecurity task."
+policy:
+  allow_implicit_invocation: false

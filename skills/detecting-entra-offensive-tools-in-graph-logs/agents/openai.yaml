@@ -1,0 +1,6 @@
+interface:
+  display_name: "Detecting Entra Offensive Tools In Graph Logs"
+  short_description: "Hunt AADGraphActivityLogs and MicrosoftGraphActivityLogs in M..."
+  default_prompt: "Use $detecting-entra-offensive-tools-in-graph-logs for an authorized cybersecurity task."
+policy:
+  allow_implicit_invocation: false

@@ -1,0 +1,6 @@
+interface:
+  display_name: "Django Patterns"
+  short_description: "Django architecture patterns, REST API design with DRF, ORM b..."
+  default_prompt: "Use $django-patterns to help with this task."
+policy:
+  allow_implicit_invocation: true

@@ -1,0 +1,6 @@
+interface:
+  display_name: "Coercing Authentication With Coercer Petitpotam"
+  short_description: "Trigger machine account authentication with PetitPotam (MS-EF..."
+  default_prompt: "Use $coercing-authentication-with-coercer-petitpotam for an authorized cybersecurity task."
+policy:
+  allow_implicit_invocation: false

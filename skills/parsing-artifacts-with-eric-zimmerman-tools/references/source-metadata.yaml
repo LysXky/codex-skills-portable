@@ -1,0 +1,21 @@
+# Original source metadata preserved during Codex adaptation.
+name: parsing-artifacts-with-eric-zimmerman-tools
+description: Parse registry, prefetch, shellbags, and MFT with EZ Tools and Timeline Explorer.
+domain: cybersecurity
+subdomain: digital-forensics
+tags:
+- digital-forensics
+- eric-zimmerman
+- registry-forensics
+- prefetch
+- shellbags
+- mft
+- dfir
+- artifact-parsing
+version: '1.0'
+author: mahipal
+license: Apache-2.0
+nist_csf:
+- RS.AN-03
+mitre_attack:
+- T1112

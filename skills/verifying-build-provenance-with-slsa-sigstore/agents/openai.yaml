@@ -1,0 +1,6 @@
+interface:
+  display_name: "Verifying Build Provenance With Slsa Sigstore"
+  short_description: "Verify signed artifacts and SLSA build provenance with Sigsto..."
+  default_prompt: "Use $verifying-build-provenance-with-slsa-sigstore for an authorized cybersecurity task."
+policy:
+  allow_implicit_invocation: false

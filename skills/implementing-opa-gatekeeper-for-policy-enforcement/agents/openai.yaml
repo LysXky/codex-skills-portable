@@ -1,0 +1,6 @@
+interface:
+  display_name: "Implementing Opa Gatekeeper For Policy Enforcement"
+  short_description: "Enforce Kubernetes admission policies using OPA Gatekeeper wi..."
+  default_prompt: "Use $implementing-opa-gatekeeper-for-policy-enforcement for an authorized cybersecurity task."
+policy:
+  allow_implicit_invocation: false

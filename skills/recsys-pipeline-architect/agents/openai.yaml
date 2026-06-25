@@ -1,0 +1,6 @@
+interface:
+  display_name: "Recsys Pipeline Architect"
+  short_description: "Design composable recommendation, ranking, and feed pipelines..."
+  default_prompt: "Use $recsys-pipeline-architect to help with this task."
+policy:
+  allow_implicit_invocation: true

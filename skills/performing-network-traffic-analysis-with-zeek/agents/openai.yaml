@@ -1,0 +1,6 @@
+interface:
+  display_name: "Performing Network Traffic Analysis With Zeek"
+  short_description: "Deploy Zeek network security monitor to capture, parse, and a..."
+  default_prompt: "Use $performing-network-traffic-analysis-with-zeek for an authorized cybersecurity task."
+policy:
+  allow_implicit_invocation: false

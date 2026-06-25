@@ -1,0 +1,6 @@
+interface:
+  display_name: "Healthcare Phi Compliance"
+  short_description: "Protected Health Information (PHI) and Personally Identifiabl..."
+  default_prompt: "Use $healthcare-phi-compliance to help with this task."
+policy:
+  allow_implicit_invocation: true

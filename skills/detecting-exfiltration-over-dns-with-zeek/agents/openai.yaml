@@ -1,0 +1,6 @@
+interface:
+  display_name: "Detecting Exfiltration Over DNS With Zeek"
+  short_description: "Detect DNS-based data exfiltration by analyzing Zeek dns.log..."
+  default_prompt: "Use $detecting-exfiltration-over-dns-with-zeek for an authorized cybersecurity task."
+policy:
+  allow_implicit_invocation: false

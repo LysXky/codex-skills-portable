@@ -1,0 +1,6 @@
+interface:
+  display_name: "Analyzing Slack Space And File System Artifacts"
+  short_description: "Examine file system slack space, MFT entries, USN journal, an..."
+  default_prompt: "Use $analyzing-slack-space-and-file-system-artifacts for an authorized cybersecurity task."
+policy:
+  allow_implicit_invocation: false

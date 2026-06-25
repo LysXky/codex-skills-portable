@@ -1,0 +1,6 @@
+interface:
+  display_name: "Analyzing Campaign Attribution Evidence"
+  short_description: "Campaign attribution analysis involves systematically evaluat..."
+  default_prompt: "Use $analyzing-campaign-attribution-evidence for an authorized cybersecurity task."
+policy:
+  allow_implicit_invocation: false

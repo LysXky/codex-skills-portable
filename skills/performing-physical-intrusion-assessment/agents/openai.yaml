@@ -1,0 +1,6 @@
+interface:
+  display_name: "Performing Physical Intrusion Assessment"
+  short_description: "Conduct authorized physical penetration testing using tailgat..."
+  default_prompt: "Use $performing-physical-intrusion-assessment for an authorized cybersecurity task."
+policy:
+  allow_implicit_invocation: false

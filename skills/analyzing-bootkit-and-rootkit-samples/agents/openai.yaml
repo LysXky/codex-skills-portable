@@ -1,0 +1,6 @@
+interface:
+  display_name: "Analyzing Bootkit And Rootkit Samples"
+  short_description: "Analyzes bootkit and advanced rootkit malware that infects th..."
+  default_prompt: "Use $analyzing-bootkit-and-rootkit-samples for an authorized cybersecurity task."
+policy:
+  allow_implicit_invocation: false

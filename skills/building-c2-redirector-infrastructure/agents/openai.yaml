@@ -1,0 +1,6 @@
+interface:
+  display_name: "Building C2 Redirector Infrastructure"
+  short_description: "Architect redirectors with nginx and Apache, malleable profil..."
+  default_prompt: "Use $building-c2-redirector-infrastructure for an authorized cybersecurity task."
+policy:
+  allow_implicit_invocation: false

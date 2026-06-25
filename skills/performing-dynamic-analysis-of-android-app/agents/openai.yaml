@@ -1,0 +1,6 @@
+interface:
+  display_name: "Performing Dynamic Analysis Of Android App"
+  short_description: "Performs runtime dynamic analysis of Android applications usi..."
+  default_prompt: "Use $performing-dynamic-analysis-of-android-app for an authorized cybersecurity task."
+policy:
+  allow_implicit_invocation: false

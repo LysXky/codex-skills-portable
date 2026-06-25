@@ -1,0 +1,6 @@
+interface:
+  display_name: "Implementing Cloud Dlp For Data Protection"
+  short_description: "Implementing Cloud Data Loss Prevention (DLP) using Amazon Ma..."
+  default_prompt: "Use $implementing-cloud-dlp-for-data-protection for an authorized cybersecurity task."
+policy:
+  allow_implicit_invocation: false

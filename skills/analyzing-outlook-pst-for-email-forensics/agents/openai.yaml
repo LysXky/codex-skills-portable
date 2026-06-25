@@ -1,0 +1,6 @@
+interface:
+  display_name: "Analyzing Outlook Pst For Email Forensics"
+  short_description: "Analyze Microsoft Outlook PST and OST files for email forensi..."
+  default_prompt: "Use $analyzing-outlook-pst-for-email-forensics for an authorized cybersecurity task."
+policy:
+  allow_implicit_invocation: false

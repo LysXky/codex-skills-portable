@@ -1,0 +1,6 @@
+interface:
+  display_name: "Testing For System Prompt Leakage"
+  short_description: "Extract and defend system prompts plus embedded secrets and r..."
+  default_prompt: "Use $testing-for-system-prompt-leakage for an authorized cybersecurity task."
+policy:
+  allow_implicit_invocation: false

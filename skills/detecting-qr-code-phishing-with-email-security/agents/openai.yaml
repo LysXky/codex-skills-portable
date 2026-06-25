@@ -1,0 +1,6 @@
+interface:
+  display_name: "Detecting Qr Code Phishing With Email Security"
+  short_description: "Detect and prevent QR code phishing (quishing) attacks that b..."
+  default_prompt: "Use $detecting-qr-code-phishing-with-email-security for an authorized cybersecurity task."
+policy:
+  allow_implicit_invocation: false

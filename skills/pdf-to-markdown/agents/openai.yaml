@@ -1,0 +1,6 @@
+interface:
+  display_name: "PDF to Markdown"
+  short_description: "Convert local PDF files into plain Markdown text"
+  default_prompt: "Use $pdf-to-markdown to convert this PDF into a local Markdown file."
+policy:
+  allow_implicit_invocation: true

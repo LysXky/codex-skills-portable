@@ -1,0 +1,6 @@
+interface:
+  display_name: "Enumerating Cloud With Cloudfox"
+  short_description: "Map AWS and Azure attack paths and find exploitable misconfig..."
+  default_prompt: "Use $enumerating-cloud-with-cloudfox for an authorized cybersecurity task."
+policy:
+  allow_implicit_invocation: false

@@ -1,0 +1,6 @@
+interface:
+  display_name: "Migrating To Post Quantum Cryptography"
+  short_description: "Inventory cryptography, deploy hybrid X25519 and ML-KEM, and..."
+  default_prompt: "Use $migrating-to-post-quantum-cryptography for an authorized cybersecurity task."
+policy:
+  allow_implicit_invocation: false

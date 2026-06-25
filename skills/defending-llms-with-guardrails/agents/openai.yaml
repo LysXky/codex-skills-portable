@@ -1,0 +1,6 @@
+interface:
+  display_name: "Defending Llms With Guardrails"
+  short_description: "Deploy Llama Guard, NeMo Guardrails, and LLM Guard input/outp..."
+  default_prompt: "Use $defending-llms-with-guardrails for an authorized cybersecurity task."
+policy:
+  allow_implicit_invocation: false

@@ -1,0 +1,6 @@
+interface:
+  display_name: "Testing For XSS Vulnerabilities With Burpsuite"
+  short_description: "Identifying and validating cross-site scripting vulnerabiliti..."
+  default_prompt: "Use $testing-for-xss-vulnerabilities-with-burpsuite for an authorized cybersecurity task."
+policy:
+  allow_implicit_invocation: false

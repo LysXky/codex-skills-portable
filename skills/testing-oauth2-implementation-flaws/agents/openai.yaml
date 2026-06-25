@@ -1,0 +1,6 @@
+interface:
+  display_name: "Testing Oauth2 Implementation Flaws"
+  short_description: "Tests OAuth 2.0 and OpenID Connect implementations for securi..."
+  default_prompt: "Use $testing-oauth2-implementation-flaws for an authorized cybersecurity task."
+policy:
+  allow_implicit_invocation: false

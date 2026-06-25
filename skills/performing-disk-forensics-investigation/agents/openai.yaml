@@ -1,0 +1,6 @@
+interface:
+  display_name: "Performing Disk Forensics Investigation"
+  short_description: "Conducts disk forensics investigations using forensic imaging..."
+  default_prompt: "Use $performing-disk-forensics-investigation for an authorized cybersecurity task."
+policy:
+  allow_implicit_invocation: false

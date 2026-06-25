@@ -1,0 +1,6 @@
+interface:
+  display_name: "Defi Amm Security"
+  short_description: "Security checklist for Solidity AMM contracts, liquidity pool..."
+  default_prompt: "Use $defi-amm-security to help with this task."
+policy:
+  allow_implicit_invocation: true

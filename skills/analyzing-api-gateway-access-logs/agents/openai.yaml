@@ -1,0 +1,6 @@
+interface:
+  display_name: "Analyzing API Gateway Access Logs"
+  short_description: "Parses API Gateway access logs (AWS API Gateway, Kong, Nginx)..."
+  default_prompt: "Use $analyzing-api-gateway-access-logs for an authorized cybersecurity task."
+policy:
+  allow_implicit_invocation: false

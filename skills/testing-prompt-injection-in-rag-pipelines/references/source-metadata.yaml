@@ -1,0 +1,21 @@
+# Original source metadata preserved during Codex adaptation.
+name: testing-prompt-injection-in-rag-pipelines
+description: Probe RAG applications for prompt injection via poisoned retrieved context and embedding manipulation.
+domain: cybersecurity
+subdomain: ai-security
+tags:
+- ai-security
+- prompt-injection
+- rag
+- llm-red-teaming
+- garak
+- promptfoo
+- pyrit
+- owasp-llm
+version: '1.0'
+author: mahipal
+license: Apache-2.0
+nist_csf:
+- MEASURE-2.7
+mitre_attack:
+- AML.T0051

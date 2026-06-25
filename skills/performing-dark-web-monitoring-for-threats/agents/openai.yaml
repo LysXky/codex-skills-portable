@@ -1,0 +1,6 @@
+interface:
+  display_name: "Performing Dark Web Monitoring For Threats"
+  short_description: "Dark web monitoring involves systematically scanning Tor hidd..."
+  default_prompt: "Use $performing-dark-web-monitoring-for-threats for an authorized cybersecurity task."
+policy:
+  allow_implicit_invocation: false

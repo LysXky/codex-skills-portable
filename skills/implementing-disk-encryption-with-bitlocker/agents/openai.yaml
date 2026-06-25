@@ -1,0 +1,6 @@
+interface:
+  display_name: "Implementing Disk Encryption With Bitlocker"
+  short_description: "Implements full disk encryption using Microsoft BitLocker on..."
+  default_prompt: "Use $implementing-disk-encryption-with-bitlocker for an authorized cybersecurity task."
+policy:
+  allow_implicit_invocation: false

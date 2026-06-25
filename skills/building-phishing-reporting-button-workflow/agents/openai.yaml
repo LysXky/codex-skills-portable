@@ -1,0 +1,6 @@
+interface:
+  display_name: "Building Phishing Reporting Button Workflow"
+  short_description: "Implement a phishing report button in email clients with auto..."
+  default_prompt: "Use $building-phishing-reporting-button-workflow for an authorized cybersecurity task."
+policy:
+  allow_implicit_invocation: false

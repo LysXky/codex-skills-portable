@@ -1,0 +1,6 @@
+interface:
+  display_name: "Implementing Conditional Access Policies Azure AD"
+  short_description: "Configure Microsoft Entra ID (Azure AD) Conditional Access po..."
+  default_prompt: "Use $implementing-conditional-access-policies-azure-ad for an authorized cybersecurity task."
+policy:
+  allow_implicit_invocation: false

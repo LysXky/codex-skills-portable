@@ -1,0 +1,6 @@
+interface:
+  display_name: "Implementing Velociraptor For Ir Collection"
+  short_description: "Deploy and configure Velociraptor for scalable endpoint foren..."
+  default_prompt: "Use $implementing-velociraptor-for-ir-collection for an authorized cybersecurity task."
+policy:
+  allow_implicit_invocation: false

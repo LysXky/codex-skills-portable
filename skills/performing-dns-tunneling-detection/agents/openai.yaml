@@ -1,0 +1,6 @@
+interface:
+  display_name: "Performing DNS Tunneling Detection"
+  short_description: "Detects DNS tunneling by computing Shannon entropy of DNS que..."
+  default_prompt: "Use $performing-dns-tunneling-detection for an authorized cybersecurity task."
+policy:
+  allow_implicit_invocation: false

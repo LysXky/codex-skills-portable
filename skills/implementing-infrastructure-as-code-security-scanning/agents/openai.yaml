@@ -1,0 +1,6 @@
+interface:
+  display_name: "Implementing Infrastructure As Code Security Scanning"
+  short_description: "This skill covers implementing automated security scanning fo..."
+  default_prompt: "Use $implementing-infrastructure-as-code-security-scanning for an authorized cybersecurity task."
+policy:
+  allow_implicit_invocation: false

@@ -1,0 +1,6 @@
+interface:
+  display_name: "Orch Fix Defect"
+  short_description: "Orchestrate fixing a bug — reproduce it as a failing regressi..."
+  default_prompt: "Use $orch-fix-defect to help with this task."
+policy:
+  allow_implicit_invocation: true

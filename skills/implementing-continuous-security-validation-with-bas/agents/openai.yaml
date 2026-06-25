@@ -1,0 +1,6 @@
+interface:
+  display_name: "Implementing Continuous Security Validation With Bas"
+  short_description: "Deploy Breach and Attack Simulation tools to continuously val..."
+  default_prompt: "Use $implementing-continuous-security-validation-with-bas for an authorized cybersecurity task."
+policy:
+  allow_implicit_invocation: false

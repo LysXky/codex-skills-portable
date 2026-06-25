@@ -1,0 +1,6 @@
+interface:
+  display_name: "Benchmarking Kubernetes With Kube Bench"
+  short_description: "Run CIS Kubernetes Benchmark checks and remediate findings wi..."
+  default_prompt: "Use $benchmarking-kubernetes-with-kube-bench for an authorized cybersecurity task."
+policy:
+  allow_implicit_invocation: false

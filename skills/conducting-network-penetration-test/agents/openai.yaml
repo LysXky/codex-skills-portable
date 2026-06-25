@@ -1,0 +1,6 @@
+interface:
+  display_name: "Conducting Network Penetration Test"
+  short_description: "Conducts comprehensive network penetration tests against auth..."
+  default_prompt: "Use $conducting-network-penetration-test for an authorized cybersecurity task."
+policy:
+  allow_implicit_invocation: false

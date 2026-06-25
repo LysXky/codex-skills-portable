@@ -1,0 +1,6 @@
+interface:
+  display_name: "Analyzing APT Group With MITRE Navigator"
+  short_description: "Analyze advanced persistent threat (APT) group techniques usi..."
+  default_prompt: "Use $analyzing-apt-group-with-mitre-navigator for an authorized cybersecurity task."
+policy:
+  allow_implicit_invocation: false

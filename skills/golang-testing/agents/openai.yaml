@@ -1,0 +1,6 @@
+interface:
+  display_name: "Golang Testing"
+  short_description: "Go testing patterns including table-driven tests, subtests, b..."
+  default_prompt: "Use $golang-testing to help with this task."
+policy:
+  allow_implicit_invocation: true

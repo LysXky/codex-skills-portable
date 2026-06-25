@@ -1,0 +1,6 @@
+interface:
+  display_name: "Auditing Kubernetes Cluster RBAC"
+  short_description: "Auditing Kubernetes cluster RBAC configurations to identify o..."
+  default_prompt: "Use $auditing-kubernetes-cluster-rbac for an authorized cybersecurity task."
+policy:
+  allow_implicit_invocation: false

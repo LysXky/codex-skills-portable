@@ -1,0 +1,6 @@
+interface:
+  display_name: "Detecting Container Escape With Falco Rules"
+  short_description: "Detect container escape attempts in real-time using Falco run..."
+  default_prompt: "Use $detecting-container-escape-with-falco-rules for an authorized cybersecurity task."
+policy:
+  allow_implicit_invocation: false

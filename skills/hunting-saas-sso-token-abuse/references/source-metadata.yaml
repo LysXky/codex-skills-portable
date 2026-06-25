@@ -1,0 +1,21 @@
+# Original source metadata preserved during Codex adaptation.
+name: hunting-saas-sso-token-abuse
+description: Detect SSO and OAuth token replay and SaaS lateral movement.
+domain: cybersecurity
+subdomain: soc-operations
+tags:
+- threat-hunting
+- sso
+- oauth
+- token-theft
+- pass-the-cookie
+- entra-id
+- okta
+- detection-engineering
+version: '1.0'
+author: mahipal
+license: Apache-2.0
+nist_csf:
+- DE.CM-01
+mitre_attack:
+- T1550.001

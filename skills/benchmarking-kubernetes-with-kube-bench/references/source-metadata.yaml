@@ -1,0 +1,20 @@
+# Original source metadata preserved during Codex adaptation.
+name: benchmarking-kubernetes-with-kube-bench
+description: Run CIS Kubernetes Benchmark checks and remediate findings with kube-bench.
+domain: cybersecurity
+subdomain: container-security
+tags:
+- kubernetes
+- kube-bench
+- cis-benchmark
+- container-security
+- hardening
+- compliance
+- cluster-security
+version: '1.0'
+author: mahipal
+license: Apache-2.0
+nist_csf:
+- PR.PS-01
+mitre_attack:
+- T1610

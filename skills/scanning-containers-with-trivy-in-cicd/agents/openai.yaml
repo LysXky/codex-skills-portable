@@ -1,0 +1,6 @@
+interface:
+  display_name: "Scanning Containers With Trivy In Cicd"
+  short_description: "This skill covers integrating Aqua Security''s Trivy scanner..."
+  default_prompt: "Use $scanning-containers-with-trivy-in-cicd for an authorized cybersecurity task."
+policy:
+  allow_implicit_invocation: false

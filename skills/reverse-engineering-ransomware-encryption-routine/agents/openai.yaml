@@ -1,0 +1,6 @@
+interface:
+  display_name: "Reverse Engineering Ransomware Encryption Routine"
+  short_description: "Reverse engineer ransomware encryption routines to identify c..."
+  default_prompt: "Use $reverse-engineering-ransomware-encryption-routine for an authorized cybersecurity task."
+policy:
+  allow_implicit_invocation: false

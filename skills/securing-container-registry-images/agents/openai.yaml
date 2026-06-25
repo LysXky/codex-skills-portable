@@ -1,0 +1,6 @@
+interface:
+  display_name: "Securing Container Registry Images"
+  short_description: "Securing container registry images by implementing vulnerabil..."
+  default_prompt: "Use $securing-container-registry-images for an authorized cybersecurity task."
+policy:
+  allow_implicit_invocation: false

@@ -1,0 +1,6 @@
+interface:
+  display_name: "Performing Oil Gas Cybersecurity Assessment"
+  short_description: "This skill covers conducting cybersecurity assessments specif..."
+  default_prompt: "Use $performing-oil-gas-cybersecurity-assessment for an authorized cybersecurity task."
+policy:
+  allow_implicit_invocation: false

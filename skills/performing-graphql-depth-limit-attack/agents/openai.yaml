@@ -1,0 +1,6 @@
+interface:
+  display_name: "Performing Graphql Depth Limit Attack"
+  short_description: "Execute and test GraphQL depth limit attacks using deeply nes..."
+  default_prompt: "Use $performing-graphql-depth-limit-attack for an authorized cybersecurity task."
+policy:
+  allow_implicit_invocation: false

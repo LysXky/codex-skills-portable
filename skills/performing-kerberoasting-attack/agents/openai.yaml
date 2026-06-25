@@ -1,0 +1,6 @@
+interface:
+  display_name: "Performing Kerberoasting Attack"
+  short_description: "Kerberoasting is a post-exploitation technique that targets s..."
+  default_prompt: "Use $performing-kerberoasting-attack for an authorized cybersecurity task."
+policy:
+  allow_implicit_invocation: false

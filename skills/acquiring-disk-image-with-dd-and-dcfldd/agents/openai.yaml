@@ -1,0 +1,6 @@
+interface:
+  display_name: "Acquiring Disk Image With Dd And Dcfldd"
+  short_description: "Create forensically sound bit-for-bit disk images using dd an..."
+  default_prompt: "Use $acquiring-disk-image-with-dd-and-dcfldd for an authorized cybersecurity task."
+policy:
+  allow_implicit_invocation: false

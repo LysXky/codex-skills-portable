@@ -1,0 +1,6 @@
+interface:
+  display_name: "Hardening Docker Containers For Production"
+  short_description: "Hardening Docker containers for production involves applying..."
+  default_prompt: "Use $hardening-docker-containers-for-production for an authorized cybersecurity task."
+policy:
+  allow_implicit_invocation: false

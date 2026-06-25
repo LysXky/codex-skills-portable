@@ -1,0 +1,6 @@
+interface:
+  display_name: "Building Role Mining For RBAC Optimization"
+  short_description: "Apply bottom-up and top-down role mining techniques to discov..."
+  default_prompt: "Use $building-role-mining-for-rbac-optimization for an authorized cybersecurity task."
+policy:
+  allow_implicit_invocation: false

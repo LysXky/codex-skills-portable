@@ -1,0 +1,6 @@
+interface:
+  display_name: "Analyzing Threat Intelligence Feeds"
+  short_description: "Analyzes structured and unstructured threat intelligence feed..."
+  default_prompt: "Use $analyzing-threat-intelligence-feeds for an authorized cybersecurity task."
+policy:
+  allow_implicit_invocation: false

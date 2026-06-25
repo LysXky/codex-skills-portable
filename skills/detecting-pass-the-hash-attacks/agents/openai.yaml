@@ -1,0 +1,6 @@
+interface:
+  display_name: "Detecting Pass The Hash Attacks"
+  short_description: "Detect Pass-the-Hash attacks by analyzing NTLM authentication..."
+  default_prompt: "Use $detecting-pass-the-hash-attacks for an authorized cybersecurity task."
+policy:
+  allow_implicit_invocation: false

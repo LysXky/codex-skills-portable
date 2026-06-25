@@ -1,0 +1,6 @@
+interface:
+  display_name: "Performing Red Team With Covenant"
+  short_description: "Conduct red team operations using the Covenant C2 framework f..."
+  default_prompt: "Use $performing-red-team-with-covenant for an authorized cybersecurity task."
+policy:
+  allow_implicit_invocation: false

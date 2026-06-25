@@ -1,0 +1,6 @@
+interface:
+  display_name: "Implementing Email Sandboxing With Proofpoint"
+  short_description: "Email sandboxing detonates suspicious attachments and URLs in..."
+  default_prompt: "Use $implementing-email-sandboxing-with-proofpoint for an authorized cybersecurity task."
+policy:
+  allow_implicit_invocation: false

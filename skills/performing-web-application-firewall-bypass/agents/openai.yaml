@@ -1,0 +1,6 @@
+interface:
+  display_name: "Performing Web Application Firewall Bypass"
+  short_description: "Bypass Web Application Firewall protections using encoding te..."
+  default_prompt: "Use $performing-web-application-firewall-bypass for an authorized cybersecurity task."
+policy:
+  allow_implicit_invocation: false

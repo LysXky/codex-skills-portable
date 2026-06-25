@@ -1,0 +1,6 @@
+interface:
+  display_name: "Detecting Process Hollowing Technique"
+  short_description: "Detect process hollowing (T1055.012) by analyzing memory-mapp..."
+  default_prompt: "Use $detecting-process-hollowing-technique for an authorized cybersecurity task."
+policy:
+  allow_implicit_invocation: false

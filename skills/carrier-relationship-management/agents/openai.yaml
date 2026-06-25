@@ -1,0 +1,6 @@
+interface:
+  display_name: "Carrier Relationship Management"
+  short_description: "Codified expertise for managing carrier portfolios, negotiati..."
+  default_prompt: "Use $carrier-relationship-management to help with this task."
+policy:
+  allow_implicit_invocation: true

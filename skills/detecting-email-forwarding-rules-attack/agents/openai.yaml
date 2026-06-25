@@ -1,0 +1,6 @@
+interface:
+  display_name: "Detecting Email Forwarding Rules Attack"
+  short_description: "Detect malicious email forwarding rules created by adversarie..."
+  default_prompt: "Use $detecting-email-forwarding-rules-attack for an authorized cybersecurity task."
+policy:
+  allow_implicit_invocation: false

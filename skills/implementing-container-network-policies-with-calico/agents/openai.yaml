@@ -1,0 +1,6 @@
+interface:
+  display_name: "Implementing Container Network Policies With Calico"
+  short_description: "Enforce Kubernetes network segmentation using Calico CNI netw..."
+  default_prompt: "Use $implementing-container-network-policies-with-calico for an authorized cybersecurity task."
+policy:
+  allow_implicit_invocation: false

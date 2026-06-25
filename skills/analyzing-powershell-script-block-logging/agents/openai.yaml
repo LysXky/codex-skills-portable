@@ -1,0 +1,6 @@
+interface:
+  display_name: "Analyzing Powershell Script Block Logging"
+  short_description: "Parse Windows PowerShell Script Block Logs (Event ID 4104) fr..."
+  default_prompt: "Use $analyzing-powershell-script-block-logging for an authorized cybersecurity task."
+policy:
+  allow_implicit_invocation: false

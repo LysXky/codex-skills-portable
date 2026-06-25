@@ -1,0 +1,6 @@
+interface:
+  display_name: "Analyzing Email Headers For Phishing Investigation"
+  short_description: "Parse and analyze email headers to trace the origin of phishi..."
+  default_prompt: "Use $analyzing-email-headers-for-phishing-investigation for an authorized cybersecurity task."
+policy:
+  allow_implicit_invocation: false

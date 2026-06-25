@@ -1,0 +1,6 @@
+interface:
+  display_name: "Performing Paste Site Monitoring For Credentials"
+  short_description: "Monitor paste sites like Pastebin and GitHub Gists for leaked..."
+  default_prompt: "Use $performing-paste-site-monitoring-for-credentials for an authorized cybersecurity task."
+policy:
+  allow_implicit_invocation: false

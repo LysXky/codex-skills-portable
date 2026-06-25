@@ -1,0 +1,6 @@
+interface:
+  display_name: "Hunting For Beaconing With Frequency Analysis"
+  short_description: "Identify command-and-control beaconing patterns in network tr..."
+  default_prompt: "Use $hunting-for-beaconing-with-frequency-analysis for an authorized cybersecurity task."
+policy:
+  allow_implicit_invocation: false

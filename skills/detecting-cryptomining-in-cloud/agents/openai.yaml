@@ -1,0 +1,6 @@
+interface:
+  display_name: "Detecting Cryptomining In Cloud"
+  short_description: "This skill teaches security teams how to detect and respond t..."
+  default_prompt: "Use $detecting-cryptomining-in-cloud for an authorized cybersecurity task."
+policy:
+  allow_implicit_invocation: false

@@ -1,0 +1,6 @@
+interface:
+  display_name: "Configuring Multi Factor Authentication With Duo"
+  short_description: "Deploy Cisco Duo multi-factor authentication across enterpris..."
+  default_prompt: "Use $configuring-multi-factor-authentication-with-duo for an authorized cybersecurity task."
+policy:
+  allow_implicit_invocation: false

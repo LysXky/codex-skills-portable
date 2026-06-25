@@ -1,0 +1,6 @@
+interface:
+  display_name: "Detecting Credential Dumping Techniques"
+  short_description: "Detect LSASS credential dumping, SAM database extraction, and..."
+  default_prompt: "Use $detecting-credential-dumping-techniques for an authorized cybersecurity task."
+policy:
+  allow_implicit_invocation: false

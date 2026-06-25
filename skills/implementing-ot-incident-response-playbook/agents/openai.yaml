@@ -1,0 +1,6 @@
+interface:
+  display_name: "Implementing Ot Incident Response Playbook"
+  short_description: "Develop and implement OT-specific incident response playbooks..."
+  default_prompt: "Use $implementing-ot-incident-response-playbook for an authorized cybersecurity task."
+policy:
+  allow_implicit_invocation: false

@@ -1,0 +1,6 @@
+interface:
+  display_name: "Building Adversary Infrastructure Tracking System"
+  short_description: "Build an automated system to track adversary infrastructure u..."
+  default_prompt: "Use $building-adversary-infrastructure-tracking-system for an authorized cybersecurity task."
+policy:
+  allow_implicit_invocation: false

@@ -1,0 +1,6 @@
+interface:
+  display_name: "Implementing AWS Nitro Enclave Security"
+  short_description: "Implements AWS Nitro Enclave-based confidential computing env..."
+  default_prompt: "Use $implementing-aws-nitro-enclave-security for an authorized cybersecurity task."
+policy:
+  allow_implicit_invocation: false

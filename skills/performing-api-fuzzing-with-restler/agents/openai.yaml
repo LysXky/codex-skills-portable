@@ -1,0 +1,6 @@
+interface:
+  display_name: "Performing API Fuzzing With Restler"
+  short_description: "Uses Microsoft RESTler to perform stateful REST API fuzzing b..."
+  default_prompt: "Use $performing-api-fuzzing-with-restler for an authorized cybersecurity task."
+policy:
+  allow_implicit_invocation: false

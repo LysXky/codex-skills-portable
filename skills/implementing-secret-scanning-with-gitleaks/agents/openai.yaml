@@ -1,0 +1,6 @@
+interface:
+  display_name: "Implementing Secret Scanning With Gitleaks"
+  short_description: "This skill covers implementing Gitleaks for detecting and pre..."
+  default_prompt: "Use $implementing-secret-scanning-with-gitleaks for an authorized cybersecurity task."
+policy:
+  allow_implicit_invocation: false

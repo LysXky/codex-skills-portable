@@ -1,0 +1,6 @@
+interface:
+  display_name: "Performing Web Cache Poisoning Attack"
+  short_description: "Exploiting web cache mechanisms to serve malicious content to..."
+  default_prompt: "Use $performing-web-cache-poisoning-attack for an authorized cybersecurity task."
+policy:
+  allow_implicit_invocation: false

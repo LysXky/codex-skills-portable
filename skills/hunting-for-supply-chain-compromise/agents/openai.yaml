@@ -1,0 +1,6 @@
+interface:
+  display_name: "Hunting For Supply Chain Compromise"
+  short_description: "Hunt for supply chain compromise indicators including trojani..."
+  default_prompt: "Use $hunting-for-supply-chain-compromise for an authorized cybersecurity task."
+policy:
+  allow_implicit_invocation: false

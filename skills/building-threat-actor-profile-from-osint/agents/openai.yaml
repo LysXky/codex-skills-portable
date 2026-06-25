@@ -1,0 +1,6 @@
+interface:
+  display_name: "Building Threat Actor Profile From OSINT"
+  short_description: "Build comprehensive threat actor profiles using open-source i..."
+  default_prompt: "Use $building-threat-actor-profile-from-osint for an authorized cybersecurity task."
+policy:
+  allow_implicit_invocation: false

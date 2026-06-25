@@ -1,0 +1,6 @@
+interface:
+  display_name: "Skill Scout"
+  short_description: "Search existing local, marketplace, GitHub, and web skill sou..."
+  default_prompt: "Use $skill-scout to help with this task."
+policy:
+  allow_implicit_invocation: true

@@ -1,0 +1,22 @@
+# Original source metadata preserved during Codex adaptation.
+name: hunting-evtx-with-chainsaw
+description: Perform rapid Sigma and keyword hunting across Windows event logs with
+  Chainsaw.
+domain: cybersecurity
+subdomain: threat-hunting
+tags:
+- chainsaw
+- threat-hunting
+- evtx
+- sigma
+- windows-event-logs
+- dfir
+- detection
+- shimcache
+version: '1.0'
+author: mahipal
+license: Apache-2.0
+nist_csf:
+- DE.AE-02
+mitre_attack:
+- T1059.001

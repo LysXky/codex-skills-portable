@@ -1,0 +1,6 @@
+interface:
+  display_name: "Analyzing Threat Actor Ttps With MITRE Attack"
+  short_description: "MITRE ATT&CK is a globally-accessible knowledge base of adver..."
+  default_prompt: "Use $analyzing-threat-actor-ttps-with-mitre-attack for an authorized cybersecurity task."
+policy:
+  allow_implicit_invocation: false

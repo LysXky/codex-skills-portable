@@ -1,0 +1,6 @@
+interface:
+  display_name: "Performing Phishing Simulation With Gophish"
+  short_description: "GoPhish is an open-source phishing simulation framework used..."
+  default_prompt: "Use $performing-phishing-simulation-with-gophish for an authorized cybersecurity task."
+policy:
+  allow_implicit_invocation: false

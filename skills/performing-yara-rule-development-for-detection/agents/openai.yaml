@@ -1,0 +1,6 @@
+interface:
+  display_name: "Performing Yara Rule Development For Detection"
+  short_description: "Develop precise YARA rules for malware detection by identifyi..."
+  default_prompt: "Use $performing-yara-rule-development-for-detection for an authorized cybersecurity task."
+policy:
+  allow_implicit_invocation: false

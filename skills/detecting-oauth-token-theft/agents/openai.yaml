@@ -1,0 +1,6 @@
+interface:
+  display_name: "Detecting Oauth Token Theft"
+  short_description: "Detects and responds to OAuth token theft and replay attacks..."
+  default_prompt: "Use $detecting-oauth-token-theft for an authorized cybersecurity task."
+policy:
+  allow_implicit_invocation: false

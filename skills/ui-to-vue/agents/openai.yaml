@@ -1,0 +1,6 @@
+interface:
+  display_name: "UI To Vue"
+  short_description: "Use when the user has UI screenshots or design exports that n..."
+  default_prompt: "Use $ui-to-vue to help with this task."
+policy:
+  allow_implicit_invocation: true

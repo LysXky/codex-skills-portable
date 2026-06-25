@@ -1,0 +1,6 @@
+interface:
+  display_name: "Autonomous Loops"
+  short_description: "Patterns and architectures for autonomous Claude Code loops —..."
+  default_prompt: "Use $autonomous-loops to help with this task."
+policy:
+  allow_implicit_invocation: true

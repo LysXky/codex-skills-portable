@@ -1,0 +1,6 @@
+interface:
+  display_name: "Hardening Linux Endpoint With Cis Benchmark"
+  short_description: "Hardens Linux endpoints using CIS Benchmark recommendations f..."
+  default_prompt: "Use $hardening-linux-endpoint-with-cis-benchmark for an authorized cybersecurity task."
+policy:
+  allow_implicit_invocation: false

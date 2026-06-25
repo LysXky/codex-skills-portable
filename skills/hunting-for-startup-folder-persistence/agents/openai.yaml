@@ -1,0 +1,6 @@
+interface:
+  display_name: "Hunting For Startup Folder Persistence"
+  short_description: "Detect T1547.001 startup folder persistence by monitoring Win..."
+  default_prompt: "Use $hunting-for-startup-folder-persistence for an authorized cybersecurity task."
+policy:
+  allow_implicit_invocation: false

@@ -1,0 +1,6 @@
+interface:
+  display_name: "Plankton Code Quality"
+  short_description: "Write-time code quality enforcement using Plankton — auto-for..."
+  default_prompt: "Use $plankton-code-quality to help with this task."
+policy:
+  allow_implicit_invocation: true

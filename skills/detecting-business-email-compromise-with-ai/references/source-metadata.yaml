@@ -1,0 +1,78 @@
+# Original source metadata preserved during Codex adaptation.
+name: detecting-business-email-compromise-with-ai
+description: Deploy AI and NLP-powered detection systems to identify business email
+  compromise attacks by analyzing writing style, behavioral patterns, and contextual
+  anomalies that evade traditional rule-based filters.
+domain: cybersecurity
+subdomain: phishing-defense
+tags:
+- bec
+- ai
+- nlp
+- machine-learning
+- email-security
+- behavioral-analytics
+- impersonation
+- fraud-detection
+version: '1.0'
+author: mahipal
+license: Apache-2.0
+atlas_techniques:
+- AML.T0073
+- AML.T0052
+- AML.T0088
+nist_ai_rmf:
+- GOVERN-6.2
+- MAP-5.2
+- GOVERN-6.1
+- MEASURE-2.7
+- MEASURE-2.5
+d3fend_techniques:
+- Sender MTA Reputation Analysis
+- Email Filtering
+- Sender Reputation Analysis
+- Homoglyph Detection
+- Message Analysis
+nist_csf:
+- PR.AT-01
+- DE.CM-09
+- RS.CO-02
+- DE.AE-02
+mitre_attack:
+- T1566.002
+- T1534
+- T1114.002
+- T1657
+- T1078.004
+mitre_f3:
+  version: '1.1'
+  tactics:
+  - initial-access
+  - stealth
+  - positioning
+  - monetization
+  techniques:
+  - id: T1660
+    name: Phishing
+    tactic: initial-access
+    source: attack
+  - id: T1672
+    name: Email Spoofing
+    tactic: stealth
+    source: attack
+  - id: F1032
+    name: Impersonate Official
+    tactic: initial-access
+    source: f3
+  - id: F1005.006
+    name: 'Account Manipulation: Change of Payment Details'
+    tactic: positioning
+    source: f3
+  - id: F1022
+    name: Delete Relevant Emails
+    tactic: stealth
+    source: f3
+  - id: F1025.003
+    name: 'Electronic Funds Transfer: Wire Transfer'
+    tactic: monetization
+    source: f3

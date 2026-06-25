@@ -1,0 +1,6 @@
+interface:
+  display_name: "Testing Prompt Injection In Rag Pipelines"
+  short_description: "Probe RAG applications for prompt injection via poisoned retr..."
+  default_prompt: "Use $testing-prompt-injection-in-rag-pipelines for an authorized cybersecurity task."
+policy:
+  allow_implicit_invocation: false

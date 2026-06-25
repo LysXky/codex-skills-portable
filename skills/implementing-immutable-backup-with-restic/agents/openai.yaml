@@ -1,0 +1,6 @@
+interface:
+  display_name: "Implementing Immutable Backup With Restic"
+  short_description: "Implements immutable backup strategy using restic with S3-com..."
+  default_prompt: "Use $implementing-immutable-backup-with-restic for an authorized cybersecurity task."
+policy:
+  allow_implicit_invocation: false

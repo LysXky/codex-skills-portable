@@ -1,0 +1,6 @@
+interface:
+  display_name: "Performing Bandwidth Throttling Attack Simulation"
+  short_description: "Simulates bandwidth throttling and network degradation attack..."
+  default_prompt: "Use $performing-bandwidth-throttling-attack-simulation for an authorized cybersecurity task."
+policy:
+  allow_implicit_invocation: false

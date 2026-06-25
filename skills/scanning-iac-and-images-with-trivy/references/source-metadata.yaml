@@ -1,0 +1,21 @@
+# Original source metadata preserved during Codex adaptation.
+name: scanning-iac-and-images-with-trivy
+description: Scan container images, IaC, and SBOMs for vulnerabilities and misconfigurations in CI/CD with Trivy.
+domain: cybersecurity
+subdomain: devsecops
+tags:
+- devsecops
+- trivy
+- container-security
+- vulnerability-scanning
+- iac-security
+- sbom
+- ci-cd
+- misconfiguration
+version: '1.0'
+author: mahipal
+license: Apache-2.0
+nist_csf:
+- ID.RA-01
+mitre_attack:
+- T1525

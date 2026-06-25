@@ -1,0 +1,6 @@
+interface:
+  display_name: "Performing Kubernetes Etcd Security Assessment"
+  short_description: "Assess the security posture of Kubernetes etcd clusters by ev..."
+  default_prompt: "Use $performing-kubernetes-etcd-security-assessment for an authorized cybersecurity task."
+policy:
+  allow_implicit_invocation: false

@@ -1,0 +1,6 @@
+interface:
+  display_name: "Mapping Attack Paths With Bloodhound Ce"
+  short_description: "Collect Active Directory data with SharpHound and Entra ID da..."
+  default_prompt: "Use $mapping-attack-paths-with-bloodhound-ce for an authorized cybersecurity task."
+policy:
+  allow_implicit_invocation: false

@@ -1,0 +1,6 @@
+interface:
+  display_name: "Performing User Behavior Analytics"
+  short_description: "Performs User and Entity Behavior Analytics (UEBA) to detect..."
+  default_prompt: "Use $performing-user-behavior-analytics for an authorized cybersecurity task."
+policy:
+  allow_implicit_invocation: false

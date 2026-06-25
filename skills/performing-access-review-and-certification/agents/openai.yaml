@@ -1,0 +1,6 @@
+interface:
+  display_name: "Performing Access Review And Certification"
+  short_description: "Conduct systematic access reviews and certifications to ensur..."
+  default_prompt: "Use $performing-access-review-and-certification for an authorized cybersecurity task."
+policy:
+  allow_implicit_invocation: false

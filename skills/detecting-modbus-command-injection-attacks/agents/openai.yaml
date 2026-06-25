@@ -1,0 +1,6 @@
+interface:
+  display_name: "Detecting Modbus Command Injection Attacks"
+  short_description: "Detect command injection attacks against Modbus TCP/RTU proto..."
+  default_prompt: "Use $detecting-modbus-command-injection-attacks for an authorized cybersecurity task."
+policy:
+  allow_implicit_invocation: false

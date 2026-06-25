@@ -1,0 +1,6 @@
+interface:
+  display_name: "Implementing Passwordless Authentication With Fido2"
+  short_description: "Deploy FIDO2/WebAuthn passwordless authentication using secur..."
+  default_prompt: "Use $implementing-passwordless-authentication-with-fido2 for an authorized cybersecurity task."
+policy:
+  allow_implicit_invocation: false

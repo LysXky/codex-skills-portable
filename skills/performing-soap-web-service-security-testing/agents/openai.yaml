@@ -1,0 +1,6 @@
+interface:
+  display_name: "Performing Soap Web Service Security Testing"
+  short_description: "Perform security testing of SOAP web services by analyzing WS..."
+  default_prompt: "Use $performing-soap-web-service-security-testing for an authorized cybersecurity task."
+policy:
+  allow_implicit_invocation: false

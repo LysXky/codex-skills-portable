@@ -1,0 +1,6 @@
+interface:
+  display_name: "Executing Active Directory Attack Simulation"
+  short_description: "Executes authorized attack simulations against Active Directo..."
+  default_prompt: "Use $executing-active-directory-attack-simulation for an authorized cybersecurity task."
+policy:
+  allow_implicit_invocation: false

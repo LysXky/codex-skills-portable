@@ -1,0 +1,6 @@
+interface:
+  display_name: "Performing AI Driven OSINT Correlation"
+  short_description: "Use AI and LLM-based reasoning to correlate findings across m..."
+  default_prompt: "Use $performing-ai-driven-osint-correlation for an authorized cybersecurity task."
+policy:
+  allow_implicit_invocation: false

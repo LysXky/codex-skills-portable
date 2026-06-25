@@ -1,0 +1,6 @@
+interface:
+  display_name: "Performing Security Headers Audit"
+  short_description: "Auditing HTTP security headers including CSP, HSTS, X-Frame-O..."
+  default_prompt: "Use $performing-security-headers-audit for an authorized cybersecurity task."
+policy:
+  allow_implicit_invocation: false

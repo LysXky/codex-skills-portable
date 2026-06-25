@@ -1,0 +1,6 @@
+interface:
+  display_name: "Investigating Insider Threat Indicators"
+  short_description: "Investigates insider threat indicators including data exfiltr..."
+  default_prompt: "Use $investigating-insider-threat-indicators for an authorized cybersecurity task."
+policy:
+  allow_implicit_invocation: false

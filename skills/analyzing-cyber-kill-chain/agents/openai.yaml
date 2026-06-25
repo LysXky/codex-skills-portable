@@ -1,0 +1,6 @@
+interface:
+  display_name: "Analyzing Cyber Kill Chain"
+  short_description: "Analyzes intrusion activity against the Lockheed Martin Cyber..."
+  default_prompt: "Use $analyzing-cyber-kill-chain for an authorized cybersecurity task."
+policy:
+  allow_implicit_invocation: false

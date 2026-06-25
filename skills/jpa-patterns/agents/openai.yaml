@@ -1,0 +1,6 @@
+interface:
+  display_name: "Jpa Patterns"
+  short_description: "JPA/Hibernate patterns for entity design, relationships, quer..."
+  default_prompt: "Use $jpa-patterns to help with this task."
+policy:
+  allow_implicit_invocation: true

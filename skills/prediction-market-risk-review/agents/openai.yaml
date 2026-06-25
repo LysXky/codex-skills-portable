@@ -1,0 +1,6 @@
+interface:
+  display_name: "Prediction Market Risk Review"
+  short_description: "Review prediction-market, basket, oracle, and trading-agent w..."
+  default_prompt: "Use $prediction-market-risk-review to help with this task."
+policy:
+  allow_implicit_invocation: true

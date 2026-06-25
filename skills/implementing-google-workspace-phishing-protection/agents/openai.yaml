@@ -1,0 +1,6 @@
+interface:
+  display_name: "Implementing Google Workspace Phishing Protection"
+  short_description: "Configure Google Workspace advanced phishing and malware prot..."
+  default_prompt: "Use $implementing-google-workspace-phishing-protection for an authorized cybersecurity task."
+policy:
+  allow_implicit_invocation: false

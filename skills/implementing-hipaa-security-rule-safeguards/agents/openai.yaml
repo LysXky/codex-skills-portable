@@ -1,0 +1,6 @@
+interface:
+  display_name: "Implementing Hipaa Security Rule Safeguards"
+  short_description: "Implement the HIPAA Security Rule (45 CFR Part 164 Subpart C)..."
+  default_prompt: "Use $implementing-hipaa-security-rule-safeguards for an authorized cybersecurity task."
+policy:
+  allow_implicit_invocation: false

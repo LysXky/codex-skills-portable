@@ -1,0 +1,6 @@
+interface:
+  display_name: "Securing Helm Chart Deployments"
+  short_description: "Secure Helm chart deployments by validating chart integrity..."
+  default_prompt: "Use $securing-helm-chart-deployments for an authorized cybersecurity task."
+policy:
+  allow_implicit_invocation: false

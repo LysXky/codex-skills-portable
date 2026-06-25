@@ -1,0 +1,6 @@
+interface:
+  display_name: "Detecting Azure Storage Account Misconfigurations"
+  short_description: "Audit Azure Blob and ADLS storage accounts for public access..."
+  default_prompt: "Use $detecting-azure-storage-account-misconfigurations for an authorized cybersecurity task."
+policy:
+  allow_implicit_invocation: false

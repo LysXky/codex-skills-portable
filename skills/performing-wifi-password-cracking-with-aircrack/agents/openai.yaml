@@ -1,0 +1,6 @@
+interface:
+  display_name: "Performing Wifi Password Cracking With Aircrack"
+  short_description: "Captures WPA/WPA2 handshakes and performs offline password cr..."
+  default_prompt: "Use $performing-wifi-password-cracking-with-aircrack for an authorized cybersecurity task."
+policy:
+  allow_implicit_invocation: false

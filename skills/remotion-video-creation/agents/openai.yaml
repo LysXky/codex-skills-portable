@@ -1,0 +1,6 @@
+interface:
+  display_name: "Remotion Video Creation"
+  short_description: "Best practices for Remotion - Video creation in React. 29 dom..."
+  default_prompt: "Use $remotion-video-creation to help with this task."
+policy:
+  allow_implicit_invocation: true

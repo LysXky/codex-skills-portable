@@ -1,0 +1,22 @@
+# Original source metadata preserved during Codex adaptation.
+name: orchestrating-llm-attacks-with-pyrit
+description: Build multi-turn, Crescendo, and Tree-of-Attacks-with-Pruning (TAP) automated attack chains against conversational LLM agents using Microsoft PyRIT, with adversarial chat and scorer feedback loops.
+domain: cybersecurity
+subdomain: ai-security
+tags:
+- ai-security
+- llm-red-teaming
+- pyrit
+- multi-turn-attacks
+- crescendo
+- jailbreak
+- prompt-injection
+- mitre-atlas
+version: '1.0'
+author: mahipal
+license: Apache-2.0
+nist_csf:
+- MEASURE-2.7
+mitre_attack:
+- AML.T0051
+- AML.T0054

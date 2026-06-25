@@ -1,0 +1,6 @@
+interface:
+  display_name: "Architecture Decision Records"
+  short_description: "Capture architectural decisions made during Claude Code sessi..."
+  default_prompt: "Use $architecture-decision-records to help with this task."
+policy:
+  allow_implicit_invocation: true

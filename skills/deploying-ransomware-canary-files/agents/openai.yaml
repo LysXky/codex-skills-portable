@@ -1,0 +1,6 @@
+interface:
+  display_name: "Deploying Ransomware Canary Files"
+  short_description: "Deploys and monitors ransomware canary files across critical..."
+  default_prompt: "Use $deploying-ransomware-canary-files for an authorized cybersecurity task."
+policy:
+  allow_implicit_invocation: false

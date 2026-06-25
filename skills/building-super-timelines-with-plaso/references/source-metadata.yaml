@@ -1,0 +1,21 @@
+# Original source metadata preserved during Codex adaptation.
+name: building-super-timelines-with-plaso
+description: Generate log2timeline and Plaso super-timelines and triage them in Timesketch.
+domain: cybersecurity
+subdomain: digital-forensics
+tags:
+- digital-forensics
+- plaso
+- log2timeline
+- super-timeline
+- timesketch
+- dfir
+- timeline-analysis
+- incident-response
+version: '1.0'
+author: mahipal
+license: Apache-2.0
+nist_csf:
+- RS.AN-03
+mitre_attack:
+- T1070

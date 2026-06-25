@@ -1,0 +1,6 @@
+interface:
+  display_name: "Implementing Aes Encryption For Data At Rest"
+  short_description: "AES (Advanced Encryption Standard) is a symmetric block ciphe..."
+  default_prompt: "Use $implementing-aes-encryption-for-data-at-rest for an authorized cybersecurity task."
+policy:
+  allow_implicit_invocation: false

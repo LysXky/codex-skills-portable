@@ -1,0 +1,6 @@
+interface:
+  display_name: "Operating Sliver C2"
+  short_description: "Stand up a Sliver C2 server and listeners, generate cross-pla..."
+  default_prompt: "Use $operating-sliver-c2 for an authorized cybersecurity task."
+policy:
+  allow_implicit_invocation: false

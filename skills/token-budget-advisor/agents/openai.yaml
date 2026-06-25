@@ -1,0 +1,6 @@
+interface:
+  display_name: "Token Budget Advisor"
+  short_description: "Guidance for Token Budget Advisor workflows"
+  default_prompt: "Use $token-budget-advisor to help with this task."
+policy:
+  allow_implicit_invocation: true

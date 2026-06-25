@@ -1,0 +1,6 @@
+interface:
+  display_name: "Configuring Tls 1 3 For Secure Communications"
+  short_description: "TLS 1.3 (RFC 8446) is the latest version of the Transport Lay..."
+  default_prompt: "Use $configuring-tls-1-3-for-secure-communications for an authorized cybersecurity task."
+policy:
+  allow_implicit_invocation: false

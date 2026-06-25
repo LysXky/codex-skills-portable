@@ -1,0 +1,6 @@
+interface:
+  display_name: "Hunting For Unusual Network Connections"
+  short_description: "Hunt for unusual network connections by analyzing outbound tr..."
+  default_prompt: "Use $hunting-for-unusual-network-connections for an authorized cybersecurity task."
+policy:
+  allow_implicit_invocation: false

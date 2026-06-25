@@ -1,0 +1,6 @@
+interface:
+  display_name: "Conducting Social Engineering Penetration Test"
+  short_description: "Design and execute a social engineering penetration test incl..."
+  default_prompt: "Use $conducting-social-engineering-penetration-test for an authorized cybersecurity task."
+policy:
+  allow_implicit_invocation: false

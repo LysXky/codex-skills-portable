@@ -1,0 +1,6 @@
+interface:
+  display_name: "Gget"
+  short_description: "gget CLI and Python workflow for quick genomic database queri..."
+  default_prompt: "Use $gget to help with this task."
+policy:
+  allow_implicit_invocation: true

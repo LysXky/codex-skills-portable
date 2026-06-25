@@ -1,0 +1,6 @@
+interface:
+  display_name: "Implementing Mimecast Targeted Attack Protection"
+  short_description: "Deploy Mimecast Targeted Threat Protection including URL Prot..."
+  default_prompt: "Use $implementing-mimecast-targeted-attack-protection for an authorized cybersecurity task."
+policy:
+  allow_implicit_invocation: false

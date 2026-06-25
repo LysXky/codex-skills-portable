@@ -1,0 +1,6 @@
+interface:
+  display_name: "Deploying Software Defined Perimeter"
+  short_description: "Deploy a Software-Defined Perimeter using the CSA v2.0 specif..."
+  default_prompt: "Use $deploying-software-defined-perimeter for an authorized cybersecurity task."
+policy:
+  allow_implicit_invocation: false

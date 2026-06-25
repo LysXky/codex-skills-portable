@@ -1,0 +1,6 @@
+interface:
+  display_name: "Hunting For Persistence Via Wmi Subscriptions"
+  short_description: "Hunt for adversary persistence through Windows Management Ins..."
+  default_prompt: "Use $hunting-for-persistence-via-wmi-subscriptions for an authorized cybersecurity task."
+policy:
+  allow_implicit_invocation: false

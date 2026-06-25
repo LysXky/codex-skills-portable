@@ -1,0 +1,6 @@
+interface:
+  display_name: "Attacking Entra Id With Roadtools"
+  short_description: "Enumerate Entra ID with ROADrecon and acquire and exchange to..."
+  default_prompt: "Use $attacking-entra-id-with-roadtools for an authorized cybersecurity task."
+policy:
+  allow_implicit_invocation: false

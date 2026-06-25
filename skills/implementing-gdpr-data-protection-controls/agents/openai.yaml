@@ -1,0 +1,6 @@
+interface:
+  display_name: "Implementing Gdpr Data Protection Controls"
+  short_description: "The General Data Protection Regulation (EU) 2016/679 (GDPR) i..."
+  default_prompt: "Use $implementing-gdpr-data-protection-controls for an authorized cybersecurity task."
+policy:
+  allow_implicit_invocation: false

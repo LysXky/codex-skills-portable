@@ -1,0 +1,66 @@
+# Original source metadata preserved during Codex adaptation.
+name: conducting-spearphishing-simulation-campaign
+description: Spearphishing simulation is a targeted social engineering attack vector
+  used by red teams to gain initial access. Unlike broad phishing campaigns, spearphishing
+  uses OSINT-derived intelligence to craf
+domain: cybersecurity
+subdomain: red-teaming
+tags:
+- red-team
+- adversary-simulation
+- mitre-attack
+- exploitation
+- post-exploitation
+- spearphishing
+- social-engineering
+version: '1.0'
+author: mahipal
+license: Apache-2.0
+d3fend_techniques:
+- File Metadata Consistency Validation
+- Application Protocol Command Analysis
+- Identifier Analysis
+- Content Format Conversion
+- Message Analysis
+nist_csf:
+- ID.RA-01
+- GV.OV-02
+- DE.AE-07
+mitre_attack:
+- T1566.001
+- T1566.002
+- T1598.003
+- T1598.002
+- T1204.002
+- T1204.001
+mitre_f3:
+  version: '1.1'
+  tactics:
+  - reconnaissance
+  - resource-development
+  - initial-access
+  techniques:
+  - id: T1598
+    name: Phishing for Information
+    tactic: reconnaissance
+    source: attack
+  - id: T1660
+    name: Phishing
+    tactic: initial-access
+    source: attack
+  - id: T1583.001
+    name: 'Acquire Infrastructure: Domains'
+    tactic: resource-development
+    source: attack
+  - id: F1020.002
+    name: 'Create Fake Materials: Fake Website'
+    tactic: resource-development
+    source: f3
+  - id: T1585
+    name: Establish Accounts
+    tactic: resource-development
+    source: attack
+  - id: F1006.002
+    name: 'Account Takeover: Exposed Login Credential'
+    tactic: initial-access
+    source: f3

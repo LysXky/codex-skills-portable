@@ -1,0 +1,6 @@
+interface:
+  display_name: "Implementing Dmarc Dkim Spf Email Security"
+  short_description: "SPF, DKIM, and DMARC form the three pillars of email authenti..."
+  default_prompt: "Use $implementing-dmarc-dkim-spf-email-security for an authorized cybersecurity task."
+policy:
+  allow_implicit_invocation: false

@@ -1,0 +1,21 @@
+# Original source metadata preserved during Codex adaptation.
+name: modeling-threats-with-opencti
+description: Model threat actors, intrusion sets, campaigns, and TTPs as a STIX 2.1 knowledge graph in OpenCTI (Filigran) using the pycti Python client, connectors, and import workers for structured cyber threat intelligence.
+domain: cybersecurity
+subdomain: threat-intelligence
+tags:
+- opencti
+- threat-intelligence
+- stix2
+- pycti
+- knowledge-graph
+- threat-modeling
+- mitre-attack
+- cti
+version: '1.0'
+author: mahipal
+license: Apache-2.0
+nist_csf:
+- ID.RA-03
+mitre_attack:
+- T1589

@@ -1,0 +1,6 @@
+interface:
+  display_name: "Ck"
+  short_description: "Persistent per-project memory for Claude Code. Auto-loads pro..."
+  default_prompt: "Use $ck to help with this task."
+policy:
+  allow_implicit_invocation: true

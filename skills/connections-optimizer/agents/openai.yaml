@@ -1,0 +1,6 @@
+interface:
+  display_name: "Connections Optimizer"
+  short_description: "Reorganize the user's X and LinkedIn network with review-firs..."
+  default_prompt: "Use $connections-optimizer to help with this task."
+policy:
+  allow_implicit_invocation: true

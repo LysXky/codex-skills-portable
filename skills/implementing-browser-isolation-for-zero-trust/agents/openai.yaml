@@ -1,0 +1,6 @@
+interface:
+  display_name: "Implementing Browser Isolation For Zero Trust"
+  short_description: "Deploys remote browser isolation (RBI) as a core component of..."
+  default_prompt: "Use $implementing-browser-isolation-for-zero-trust for an authorized cybersecurity task."
+policy:
+  allow_implicit_invocation: false

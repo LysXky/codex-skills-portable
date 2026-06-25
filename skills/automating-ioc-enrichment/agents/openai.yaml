@@ -1,0 +1,6 @@
+interface:
+  display_name: "Automating IOC Enrichment"
+  short_description: "Automates the enrichment of raw indicators of compromise with..."
+  default_prompt: "Use $automating-ioc-enrichment for an authorized cybersecurity task."
+policy:
+  allow_implicit_invocation: false

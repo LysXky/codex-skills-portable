@@ -1,0 +1,6 @@
+interface:
+  display_name: "Kotlin Ktor Patterns"
+  short_description: "Ktor server patterns including routing DSL, plugins, authenti..."
+  default_prompt: "Use $kotlin-ktor-patterns to help with this task."
+policy:
+  allow_implicit_invocation: true

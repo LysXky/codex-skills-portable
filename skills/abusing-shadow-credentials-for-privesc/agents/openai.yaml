@@ -1,0 +1,6 @@
+interface:
+  display_name: "Abusing Shadow Credentials For Privesc"
+  short_description: "Take over Active Directory user and computer accounts by writ..."
+  default_prompt: "Use $abusing-shadow-credentials-for-privesc for an authorized cybersecurity task."
+policy:
+  allow_implicit_invocation: false

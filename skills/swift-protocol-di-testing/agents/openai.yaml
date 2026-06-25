@@ -1,0 +1,6 @@
+interface:
+  display_name: "Swift Protocol Di Testing"
+  short_description: "Protocol-based dependency injection for testable Swift code —..."
+  default_prompt: "Use $swift-protocol-di-testing to help with this task."
+policy:
+  allow_implicit_invocation: true

@@ -1,0 +1,6 @@
+interface:
+  display_name: "Generating Forensic Timelines With Hayabusa"
+  short_description: "Produce Sigma-based EVTX timelines and summaries with Hayabusa."
+  default_prompt: "Use $generating-forensic-timelines-with-hayabusa for an authorized cybersecurity task."
+policy:
+  allow_implicit_invocation: false

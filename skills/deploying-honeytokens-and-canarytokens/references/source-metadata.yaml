@@ -1,0 +1,21 @@
+# Original source metadata preserved during Codex adaptation.
+name: deploying-honeytokens-and-canarytokens
+description: Plant canarytokens and honey credentials and alert on breach.
+domain: cybersecurity
+subdomain: deception-technology
+tags:
+- deception-technology
+- canarytokens
+- honeytokens
+- breach-detection
+- threat-detection
+- d3fend
+- decoy-credentials
+- intrusion-detection
+version: '1.0'
+author: mahipal
+license: Apache-2.0
+nist_csf:
+- DE.CM-01
+mitre_attack:
+- T1556

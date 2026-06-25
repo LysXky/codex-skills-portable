@@ -1,0 +1,6 @@
+interface:
+  display_name: "Quarkus Patterns"
+  short_description: "Quarkus 3.x LTS architecture patterns with Camel for messagin..."
+  default_prompt: "Use $quarkus-patterns to help with this task."
+policy:
+  allow_implicit_invocation: true

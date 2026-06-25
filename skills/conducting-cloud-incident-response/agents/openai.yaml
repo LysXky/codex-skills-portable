@@ -1,0 +1,6 @@
+interface:
+  display_name: "Conducting Cloud Incident Response"
+  short_description: "Responds to security incidents in cloud environments (AWS, Az..."
+  default_prompt: "Use $conducting-cloud-incident-response for an authorized cybersecurity task."
+policy:
+  allow_implicit_invocation: false

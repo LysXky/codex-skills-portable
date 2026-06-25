@@ -1,0 +1,6 @@
+interface:
+  display_name: "Executing NIST Rmf Authorization To Operate"
+  short_description: "Drive a federal system through the NIST Risk Management Frame..."
+  default_prompt: "Use $executing-nist-rmf-authorization-to-operate for an authorized cybersecurity task."
+policy:
+  allow_implicit_invocation: false

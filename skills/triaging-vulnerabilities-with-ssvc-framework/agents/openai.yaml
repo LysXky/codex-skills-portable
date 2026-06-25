@@ -1,0 +1,6 @@
+interface:
+  display_name: "Triaging Vulnerabilities With Ssvc Framework"
+  short_description: "Triage and prioritize vulnerabilities using CISA's Stakeholde..."
+  default_prompt: "Use $triaging-vulnerabilities-with-ssvc-framework for an authorized cybersecurity task."
+policy:
+  allow_implicit_invocation: false

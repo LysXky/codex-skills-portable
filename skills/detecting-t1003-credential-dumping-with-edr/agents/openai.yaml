@@ -1,0 +1,6 @@
+interface:
+  display_name: "Detecting T1003 Credential Dumping With EDR"
+  short_description: "Detect OS credential dumping techniques targeting LSASS memor..."
+  default_prompt: "Use $detecting-t1003-credential-dumping-with-edr for an authorized cybersecurity task."
+policy:
+  allow_implicit_invocation: false

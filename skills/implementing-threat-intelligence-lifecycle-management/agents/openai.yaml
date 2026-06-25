@@ -1,0 +1,6 @@
+interface:
+  display_name: "Implementing Threat Intelligence Lifecycle Management"
+  short_description: "Implement a structured threat intelligence lifecycle encompas..."
+  default_prompt: "Use $implementing-threat-intelligence-lifecycle-management for an authorized cybersecurity task."
+policy:
+  allow_implicit_invocation: false

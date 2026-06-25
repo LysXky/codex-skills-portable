@@ -1,0 +1,6 @@
+interface:
+  display_name: "Performing Mobile App Certificate Pinning Bypass"
+  short_description: "Bypasses SSL/TLS certificate pinning implementations in Andro..."
+  default_prompt: "Use $performing-mobile-app-certificate-pinning-bypass for an authorized cybersecurity task."
+policy:
+  allow_implicit_invocation: false

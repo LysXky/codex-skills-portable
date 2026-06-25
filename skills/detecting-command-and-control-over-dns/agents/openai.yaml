@@ -1,0 +1,6 @@
+interface:
+  display_name: "Detecting Command And Control Over DNS"
+  short_description: "Detects command-and-control (C2) communications tunneled thro..."
+  default_prompt: "Use $detecting-command-and-control-over-dns for an authorized cybersecurity task."
+policy:
+  allow_implicit_invocation: false

@@ -1,0 +1,6 @@
+interface:
+  display_name: "Ito Data Atlas Agent"
+  short_description: "Design background Data Atlas style agents for Itô basket rese..."
+  default_prompt: "Use $ito-data-atlas-agent to help with this task."
+policy:
+  allow_implicit_invocation: true

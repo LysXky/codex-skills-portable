@@ -1,0 +1,6 @@
+interface:
+  display_name: "Investigating Phishing Email Incident"
+  short_description: "Investigates phishing email incidents from initial user repor..."
+  default_prompt: "Use $investigating-phishing-email-incident for an authorized cybersecurity task."
+policy:
+  allow_implicit_invocation: false

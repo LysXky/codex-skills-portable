@@ -1,0 +1,6 @@
+interface:
+  display_name: "Kotlin Coroutines Flows"
+  short_description: "Kotlin Coroutines and Flow patterns for Android and KMP — str..."
+  default_prompt: "Use $kotlin-coroutines-flows to help with this task."
+policy:
+  allow_implicit_invocation: true

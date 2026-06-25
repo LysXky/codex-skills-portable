@@ -1,0 +1,6 @@
+interface:
+  display_name: "Implementing Network Segmentation With Firewall Zones"
+  short_description: "Design and implement network segmentation using firewall secu..."
+  default_prompt: "Use $implementing-network-segmentation-with-firewall-zones for an authorized cybersecurity task."
+policy:
+  allow_implicit_invocation: false

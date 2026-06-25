@@ -1,0 +1,6 @@
+interface:
+  display_name: "Building IOC Enrichment Pipeline With Opencti"
+  short_description: "OpenCTI is an open-source platform for managing cyber threat..."
+  default_prompt: "Use $building-ioc-enrichment-pipeline-with-opencti for an authorized cybersecurity task."
+policy:
+  allow_implicit_invocation: false

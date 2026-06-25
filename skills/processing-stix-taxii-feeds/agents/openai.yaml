@@ -1,0 +1,6 @@
+interface:
+  display_name: "Processing Stix Taxii Feeds"
+  short_description: "Processes STIX 2.1 threat intelligence bundles delivered via..."
+  default_prompt: "Use $processing-stix-taxii-feeds for an authorized cybersecurity task."
+policy:
+  allow_implicit_invocation: false

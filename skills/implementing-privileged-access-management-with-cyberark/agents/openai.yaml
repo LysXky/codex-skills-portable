@@ -1,0 +1,6 @@
+interface:
+  display_name: "Implementing Privileged Access Management With Cyberark"
+  short_description: "Deploy CyberArk Privileged Access Management to discover, vau..."
+  default_prompt: "Use $implementing-privileged-access-management-with-cyberark for an authorized cybersecurity task."
+policy:
+  allow_implicit_invocation: false

@@ -1,0 +1,6 @@
+interface:
+  display_name: "Code Tour"
+  short_description: "Create CodeTour `.tour` files — persona-targeted, step-by-ste..."
+  default_prompt: "Use $code-tour to help with this task."
+policy:
+  allow_implicit_invocation: true

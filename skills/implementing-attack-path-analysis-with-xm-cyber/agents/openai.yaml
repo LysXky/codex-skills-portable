@@ -1,0 +1,6 @@
+interface:
+  display_name: "Implementing Attack Path Analysis With Xm Cyber"
+  short_description: "Deploy XM Cyber's continuous exposure management platform to..."
+  default_prompt: "Use $implementing-attack-path-analysis-with-xm-cyber for an authorized cybersecurity task."
+policy:
+  allow_implicit_invocation: false

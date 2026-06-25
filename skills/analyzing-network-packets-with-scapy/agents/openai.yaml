@@ -1,0 +1,6 @@
+interface:
+  display_name: "Analyzing Network Packets With Scapy"
+  short_description: "Craft, send, sniff, and dissect network packets using Scapy f..."
+  default_prompt: "Use $analyzing-network-packets-with-scapy for an authorized cybersecurity task."
+policy:
+  allow_implicit_invocation: false

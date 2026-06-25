@@ -1,0 +1,21 @@
+# Original source metadata preserved during Codex adaptation.
+name: attacking-entra-id-with-roadtools
+description: Enumerate Entra ID with ROADrecon and acquire and exchange tokens with roadtx.
+domain: cybersecurity
+subdomain: identity-access-management
+tags:
+- red-team
+- entra-id
+- azure-ad
+- roadtools
+- token-manipulation
+- cloud-enumeration
+- primary-refresh-token
+- identity-attack
+version: '1.0'
+author: mahipal
+license: Apache-2.0
+nist_csf:
+- ID.AM-03
+mitre_attack:
+- T1087.004

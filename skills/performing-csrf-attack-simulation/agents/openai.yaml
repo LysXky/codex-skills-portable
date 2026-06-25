@@ -1,0 +1,6 @@
+interface:
+  display_name: "Performing Csrf Attack Simulation"
+  short_description: "Testing web applications for Cross-Site Request Forgery vulne..."
+  default_prompt: "Use $performing-csrf-attack-simulation for an authorized cybersecurity task."
+policy:
+  allow_implicit_invocation: false

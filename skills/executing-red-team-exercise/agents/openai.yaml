@@ -1,0 +1,6 @@
+interface:
+  display_name: "Executing Red Team Exercise"
+  short_description: "Executes comprehensive red team exercises that simulate real..."
+  default_prompt: "Use $executing-red-team-exercise for an authorized cybersecurity task."
+policy:
+  allow_implicit_invocation: false

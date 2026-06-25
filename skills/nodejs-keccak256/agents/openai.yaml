@@ -1,0 +1,6 @@
+interface:
+  display_name: "Nodejs Keccak256"
+  short_description: "Prevent Ethereum hashing bugs in JavaScript and TypeScript. N..."
+  default_prompt: "Use $nodejs-keccak256 to help with this task."
+policy:
+  allow_implicit_invocation: true

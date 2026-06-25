@@ -1,0 +1,6 @@
+interface:
+  display_name: "Scholar Evaluation"
+  short_description: "Structured scholarly-work evaluation for papers, proposals, l..."
+  default_prompt: "Use $scholar-evaluation to help with this task."
+policy:
+  allow_implicit_invocation: true

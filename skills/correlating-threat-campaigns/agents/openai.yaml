@@ -1,0 +1,6 @@
+interface:
+  display_name: "Correlating Threat Campaigns"
+  short_description: "Correlates disparate security incidents, IOCs, and adversary..."
+  default_prompt: "Use $correlating-threat-campaigns for an authorized cybersecurity task."
+policy:
+  allow_implicit_invocation: false

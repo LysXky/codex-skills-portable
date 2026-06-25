@@ -1,0 +1,6 @@
+interface:
+  display_name: "Analyzing Ransomware Network Indicators"
+  short_description: "Identify ransomware network indicators including C2 beaconing..."
+  default_prompt: "Use $analyzing-ransomware-network-indicators for an authorized cybersecurity task."
+policy:
+  allow_implicit_invocation: false

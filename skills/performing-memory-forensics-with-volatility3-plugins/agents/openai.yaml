@@ -1,0 +1,6 @@
+interface:
+  display_name: "Performing Memory Forensics With Volatility3 Plugins"
+  short_description: "Analyze memory dumps using Volatility3 plugins to detect inje..."
+  default_prompt: "Use $performing-memory-forensics-with-volatility3-plugins for an authorized cybersecurity task."
+policy:
+  allow_implicit_invocation: false

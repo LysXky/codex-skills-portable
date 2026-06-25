@@ -1,0 +1,6 @@
+interface:
+  display_name: "Implementing Identity Verification For Zero Trust"
+  short_description: "Implement continuous identity verification for zero trust usi..."
+  default_prompt: "Use $implementing-identity-verification-for-zero-trust for an authorized cybersecurity task."
+policy:
+  allow_implicit_invocation: false

@@ -1,0 +1,6 @@
+interface:
+  display_name: "Implementing Log Integrity With Blockchain"
+  short_description: "Build an append-only log integrity chain using SHA-256 hash c..."
+  default_prompt: "Use $implementing-log-integrity-with-blockchain for an authorized cybersecurity task."
+policy:
+  allow_implicit_invocation: false

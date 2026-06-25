@@ -1,0 +1,6 @@
+interface:
+  display_name: "Analyzing Tls Certificate Transparency Logs"
+  short_description: "Queries Certificate Transparency logs via crt.sh and pycrtsh..."
+  default_prompt: "Use $analyzing-tls-certificate-transparency-logs for an authorized cybersecurity task."
+policy:
+  allow_implicit_invocation: false

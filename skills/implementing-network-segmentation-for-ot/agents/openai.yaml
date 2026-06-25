@@ -1,0 +1,6 @@
+interface:
+  display_name: "Implementing Network Segmentation For Ot"
+  short_description: "This skill covers implementing network segmentation in Operat..."
+  default_prompt: "Use $implementing-network-segmentation-for-ot for an authorized cybersecurity task."
+policy:
+  allow_implicit_invocation: false

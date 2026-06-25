@@ -1,0 +1,6 @@
+interface:
+  display_name: "Implementing Azure AD Privileged Identity Management"
+  short_description: "Configure Microsoft Entra Privileged Identity Management to e..."
+  default_prompt: "Use $implementing-azure-ad-privileged-identity-management for an authorized cybersecurity task."
+policy:
+  allow_implicit_invocation: false

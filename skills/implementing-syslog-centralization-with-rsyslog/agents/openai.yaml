@@ -1,0 +1,6 @@
+interface:
+  display_name: "Implementing Syslog Centralization With Rsyslog"
+  short_description: "Configure rsyslog for centralized log collection with TLS enc..."
+  default_prompt: "Use $implementing-syslog-centralization-with-rsyslog for an authorized cybersecurity task."
+policy:
+  allow_implicit_invocation: false

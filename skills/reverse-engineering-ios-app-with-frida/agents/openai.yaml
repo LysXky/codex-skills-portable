@@ -1,0 +1,6 @@
+interface:
+  display_name: "Reverse Engineering Ios App With Frida"
+  short_description: "Reverse engineers iOS applications using Frida dynamic instru..."
+  default_prompt: "Use $reverse-engineering-ios-app-with-frida for an authorized cybersecurity task."
+policy:
+  allow_implicit_invocation: false

@@ -1,0 +1,6 @@
+interface:
+  display_name: "Performing Cloud Penetration Testing With Pacu"
+  short_description: "Performing authorized AWS penetration testing using Pacu, the..."
+  default_prompt: "Use $performing-cloud-penetration-testing-with-pacu for an authorized cybersecurity task."
+policy:
+  allow_implicit_invocation: false

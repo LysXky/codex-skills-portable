@@ -1,0 +1,6 @@
+interface:
+  display_name: "Analyzing Ransomware Encryption Mechanisms"
+  short_description: "Analyzes encryption algorithms, key management, and file encr..."
+  default_prompt: "Use $analyzing-ransomware-encryption-mechanisms for an authorized cybersecurity task."
+policy:
+  allow_implicit_invocation: false

@@ -1,0 +1,6 @@
+interface:
+  display_name: "Performing Access Recertification With Saviynt"
+  short_description: "Configure and execute access recertification campaigns in Sav..."
+  default_prompt: "Use $performing-access-recertification-with-saviynt for an authorized cybersecurity task."
+policy:
+  allow_implicit_invocation: false

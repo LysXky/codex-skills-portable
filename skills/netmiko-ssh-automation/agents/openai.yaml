@@ -1,0 +1,6 @@
+interface:
+  display_name: "Netmiko Ssh Automation"
+  short_description: "Safe Python Netmiko patterns for read-only collection, bounde..."
+  default_prompt: "Use $netmiko-ssh-automation to help with this task."
+policy:
+  allow_implicit_invocation: true

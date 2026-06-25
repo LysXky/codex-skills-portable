@@ -1,0 +1,6 @@
+interface:
+  display_name: "Auditing GCP IAM Permissions"
+  short_description: "Auditing Google Cloud Platform IAM permissions to identify ov..."
+  default_prompt: "Use $auditing-gcp-iam-permissions for an authorized cybersecurity task."
+policy:
+  allow_implicit_invocation: false

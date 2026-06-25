@@ -1,0 +1,6 @@
+interface:
+  display_name: "Implementing API Abuse Detection With Rate Limiting"
+  short_description: "Implement API abuse detection using token bucket, sliding win..."
+  default_prompt: "Use $implementing-api-abuse-detection-with-rate-limiting for an authorized cybersecurity task."
+policy:
+  allow_implicit_invocation: false

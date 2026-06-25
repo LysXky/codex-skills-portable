@@ -1,0 +1,6 @@
+interface:
+  display_name: "Scanning Kubernetes Manifests With Kubesec"
+  short_description: "Perform security risk analysis on Kubernetes resource manifes..."
+  default_prompt: "Use $scanning-kubernetes-manifests-with-kubesec for an authorized cybersecurity task."
+policy:
+  allow_implicit_invocation: false

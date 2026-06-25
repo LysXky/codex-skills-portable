@@ -1,0 +1,6 @@
+interface:
+  display_name: "Performing Arp Spoofing Attack Simulation"
+  short_description: "Simulates ARP spoofing attacks in authorized lab or pentest e..."
+  default_prompt: "Use $performing-arp-spoofing-attack-simulation for an authorized cybersecurity task."
+policy:
+  allow_implicit_invocation: false

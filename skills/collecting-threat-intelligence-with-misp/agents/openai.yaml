@@ -1,0 +1,6 @@
+interface:
+  display_name: "Collecting Threat Intelligence With Misp"
+  short_description: "MISP (Malware Information Sharing Platform) is an open-source..."
+  default_prompt: "Use $collecting-threat-intelligence-with-misp for an authorized cybersecurity task."
+policy:
+  allow_implicit_invocation: false

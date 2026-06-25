@@ -1,0 +1,6 @@
+interface:
+  display_name: "Gateguard"
+  short_description: "Fact-forcing gate that blocks Edit/Write/Bash (including Mult..."
+  default_prompt: "Use $gateguard to help with this task."
+policy:
+  allow_implicit_invocation: true

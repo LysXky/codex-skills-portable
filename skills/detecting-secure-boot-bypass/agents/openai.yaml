@@ -1,0 +1,6 @@
+interface:
+  display_name: "Detecting Secure Boot Bypass"
+  short_description: "Detect bootkits such as BlackLotus and Bootkitty and Secure B..."
+  default_prompt: "Use $detecting-secure-boot-bypass for an authorized cybersecurity task."
+policy:
+  allow_implicit_invocation: false

@@ -1,0 +1,6 @@
+interface:
+  display_name: "Detecting Malicious Scheduled Tasks With Sysmon"
+  short_description: "Detect malicious scheduled task creation and modification usi..."
+  default_prompt: "Use $detecting-malicious-scheduled-tasks-with-sysmon for an authorized cybersecurity task."
+policy:
+  allow_implicit_invocation: false

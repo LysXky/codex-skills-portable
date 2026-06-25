@@ -1,0 +1,22 @@
+# Original source metadata preserved during Codex adaptation.
+name: moving-laterally-with-netexec
+description: Use NetExec for SMB, WinRM, LDAP, and MSSQL enumeration, password spraying,
+  and execution.
+domain: cybersecurity
+subdomain: penetration-testing
+tags:
+- netexec
+- lateral-movement
+- smb
+- password-spraying
+- credential-access
+- active-directory
+- winrm
+- post-exploitation
+version: '1.0'
+author: mahipal
+license: Apache-2.0
+nist_csf:
+- DE.CM-01
+mitre_attack:
+- T1021.002

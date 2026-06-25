@@ -1,0 +1,6 @@
+interface:
+  display_name: "Implementing AWS Security Hub"
+  short_description: "This skill covers deploying AWS Security Hub as a centralized..."
+  default_prompt: "Use $implementing-aws-security-hub for an authorized cybersecurity task."
+policy:
+  allow_implicit_invocation: false

@@ -1,0 +1,6 @@
+interface:
+  display_name: "Testing For Json Web Token Vulnerabilities"
+  short_description: "Test JWT implementations for critical vulnerabilities includi..."
+  default_prompt: "Use $testing-for-json-web-token-vulnerabilities for an authorized cybersecurity task."
+policy:
+  allow_implicit_invocation: false

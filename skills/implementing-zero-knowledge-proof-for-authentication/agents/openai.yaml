@@ -1,0 +1,6 @@
+interface:
+  display_name: "Implementing Zero Knowledge Proof For Authentication"
+  short_description: "Zero-Knowledge Proofs (ZKPs) allow a prover to demonstrate kn..."
+  default_prompt: "Use $implementing-zero-knowledge-proof-for-authentication for an authorized cybersecurity task."
+policy:
+  allow_implicit_invocation: false

@@ -1,0 +1,6 @@
+interface:
+  display_name: "Detecting Evasion Techniques In Endpoint Logs"
+  short_description: "Detects defense evasion techniques used by adversaries in end..."
+  default_prompt: "Use $detecting-evasion-techniques-in-endpoint-logs for an authorized cybersecurity task."
+policy:
+  allow_implicit_invocation: false

@@ -1,0 +1,6 @@
+interface:
+  display_name: "Accessibility"
+  short_description: "Design, implement, and audit inclusive digital products using..."
+  default_prompt: "Use $accessibility to help with this task."
+policy:
+  allow_implicit_invocation: true

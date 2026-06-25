@@ -1,0 +1,6 @@
+interface:
+  display_name: "Analyzing Cobalt Strike Beacon Configuration"
+  short_description: "Extract and analyze Cobalt Strike beacon configuration from P..."
+  default_prompt: "Use $analyzing-cobalt-strike-beacon-configuration for an authorized cybersecurity task."
+policy:
+  allow_implicit_invocation: false

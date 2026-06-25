@@ -1,0 +1,6 @@
+interface:
+  display_name: "Implementing RBAC Hardening For Kubernetes"
+  short_description: "Harden Kubernetes Role-Based Access Control by implementing l..."
+  default_prompt: "Use $implementing-rbac-hardening-for-kubernetes for an authorized cybersecurity task."
+policy:
+  allow_implicit_invocation: false

@@ -1,0 +1,6 @@
+interface:
+  display_name: "Implementing End To End Encryption For Messaging"
+  short_description: "End-to-end encryption (E2EE) ensures that only the communicat..."
+  default_prompt: "Use $implementing-end-to-end-encryption-for-messaging for an authorized cybersecurity task."
+policy:
+  allow_implicit_invocation: false

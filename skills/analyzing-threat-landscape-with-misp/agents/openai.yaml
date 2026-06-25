@@ -1,0 +1,6 @@
+interface:
+  display_name: "Analyzing Threat Landscape With Misp"
+  short_description: "Analyze the threat landscape using MISP (Malware Information..."
+  default_prompt: "Use $analyzing-threat-landscape-with-misp for an authorized cybersecurity task."
+policy:
+  allow_implicit_invocation: false

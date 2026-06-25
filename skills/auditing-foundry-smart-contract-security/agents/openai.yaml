@@ -1,0 +1,6 @@
+interface:
+  display_name: "Auditing Foundry Smart Contract Security"
+  short_description: "Pre-deployment security audit of Solidity smart contracts in..."
+  default_prompt: "Use $auditing-foundry-smart-contract-security for an authorized cybersecurity task."
+policy:
+  allow_implicit_invocation: false

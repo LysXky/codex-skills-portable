@@ -1,0 +1,6 @@
+interface:
+  display_name: "Implementing Network Access Control With Cisco Ise"
+  short_description: "Deploy Cisco Identity Services Engine for 802.1X wired and wi..."
+  default_prompt: "Use $implementing-network-access-control-with-cisco-ise for an authorized cybersecurity task."
+policy:
+  allow_implicit_invocation: false

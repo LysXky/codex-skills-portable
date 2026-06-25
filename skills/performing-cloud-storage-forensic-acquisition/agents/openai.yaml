@@ -1,0 +1,6 @@
+interface:
+  display_name: "Performing Cloud Storage Forensic Acquisition"
+  short_description: "Perform forensic acquisition and analysis of cloud storage se..."
+  default_prompt: "Use $performing-cloud-storage-forensic-acquisition for an authorized cybersecurity task."
+policy:
+  allow_implicit_invocation: false

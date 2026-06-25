@@ -1,0 +1,6 @@
+interface:
+  display_name: "Hipaa Compliance"
+  short_description: "HIPAA-specific entrypoint for healthcare privacy and security..."
+  default_prompt: "Use $hipaa-compliance to help with this task."
+policy:
+  allow_implicit_invocation: true

@@ -1,0 +1,6 @@
+interface:
+  display_name: "Implementing Azure Defender For Cloud"
+  short_description: "Implementing Microsoft Defender for Cloud to enable cloud sec..."
+  default_prompt: "Use $implementing-azure-defender-for-cloud for an authorized cybersecurity task."
+policy:
+  allow_implicit_invocation: false

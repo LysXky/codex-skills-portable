@@ -1,0 +1,6 @@
+interface:
+  display_name: "Performing DNS Enumeration And Zone Transfer"
+  short_description: "Enumerates DNS records, attempts zone transfers, brute-forces..."
+  default_prompt: "Use $performing-dns-enumeration-and-zone-transfer for an authorized cybersecurity task."
+policy:
+  allow_implicit_invocation: false

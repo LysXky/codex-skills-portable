@@ -1,0 +1,6 @@
+interface:
+  display_name: "Scanning Iac And Images With Trivy"
+  short_description: "Scan container images, IaC, and SBOMs for vulnerabilities and..."
+  default_prompt: "Use $scanning-iac-and-images-with-trivy for an authorized cybersecurity task."
+policy:
+  allow_implicit_invocation: false

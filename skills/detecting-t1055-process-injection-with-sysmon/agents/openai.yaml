@@ -1,0 +1,6 @@
+interface:
+  display_name: "Detecting T1055 Process Injection With Sysmon"
+  short_description: "Detect process injection techniques (T1055) including classic..."
+  default_prompt: "Use $detecting-t1055-process-injection-with-sysmon for an authorized cybersecurity task."
+policy:
+  allow_implicit_invocation: false

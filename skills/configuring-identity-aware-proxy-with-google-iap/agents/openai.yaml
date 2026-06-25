@@ -1,0 +1,6 @@
+interface:
+  display_name: "Configuring Identity Aware Proxy With Google Iap"
+  short_description: "Configuring Google Cloud Identity-Aware Proxy (IAP) to enforc..."
+  default_prompt: "Use $configuring-identity-aware-proxy-with-google-iap for an authorized cybersecurity task."
+policy:
+  allow_implicit_invocation: false

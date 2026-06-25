@@ -1,0 +1,6 @@
+interface:
+  display_name: "Compose Multiplatform Patterns"
+  short_description: "Compose Multiplatform and Jetpack Compose patterns for KMP pr..."
+  default_prompt: "Use $compose-multiplatform-patterns to help with this task."
+policy:
+  allow_implicit_invocation: true

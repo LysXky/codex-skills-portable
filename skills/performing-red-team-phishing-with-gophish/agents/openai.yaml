@@ -1,0 +1,6 @@
+interface:
+  display_name: "Performing Red Team Phishing With Gophish"
+  short_description: "Automate GoPhish phishing simulation campaigns using the Pyth..."
+  default_prompt: "Use $performing-red-team-phishing-with-gophish for an authorized cybersecurity task."
+policy:
+  allow_implicit_invocation: false

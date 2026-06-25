@@ -1,0 +1,6 @@
+interface:
+  display_name: "Implementing Mobile Application Management"
+  short_description: "Implements Mobile Application Management (MAM) policies to pr..."
+  default_prompt: "Use $implementing-mobile-application-management for an authorized cybersecurity task."
+policy:
+  allow_implicit_invocation: false

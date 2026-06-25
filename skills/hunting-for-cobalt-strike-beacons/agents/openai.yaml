@@ -1,0 +1,6 @@
+interface:
+  display_name: "Hunting For Cobalt Strike Beacons"
+  short_description: "Detect Cobalt Strike beacon network activity using default TL..."
+  default_prompt: "Use $hunting-for-cobalt-strike-beacons for an authorized cybersecurity task."
+policy:
+  allow_implicit_invocation: false

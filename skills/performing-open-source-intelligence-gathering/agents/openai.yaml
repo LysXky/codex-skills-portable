@@ -1,0 +1,6 @@
+interface:
+  display_name: "Performing Open Source Intelligence Gathering"
+  short_description: "Open Source Intelligence (OSINT) gathering is the first activ..."
+  default_prompt: "Use $performing-open-source-intelligence-gathering for an authorized cybersecurity task."
+policy:
+  allow_implicit_invocation: false

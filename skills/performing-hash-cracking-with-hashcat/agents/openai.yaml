@@ -1,0 +1,6 @@
+interface:
+  display_name: "Performing Hash Cracking With Hashcat"
+  short_description: "Hash cracking is an essential skill for penetration testers a..."
+  default_prompt: "Use $performing-hash-cracking-with-hashcat for an authorized cybersecurity task."
+policy:
+  allow_implicit_invocation: false

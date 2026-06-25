@@ -1,0 +1,6 @@
+interface:
+  display_name: "Hunting For Living Off The Cloud Techniques"
+  short_description: "Hunt for adversary abuse of legitimate cloud services for C2..."
+  default_prompt: "Use $hunting-for-living-off-the-cloud-techniques for an authorized cybersecurity task."
+policy:
+  allow_implicit_invocation: false

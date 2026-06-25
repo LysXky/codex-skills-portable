@@ -1,0 +1,6 @@
+interface:
+  display_name: "Fsharp Testing"
+  short_description: "F# testing patterns with xUnit, FsUnit, Unquote, FsCheck prop..."
+  default_prompt: "Use $fsharp-testing to help with this task."
+policy:
+  allow_implicit_invocation: true

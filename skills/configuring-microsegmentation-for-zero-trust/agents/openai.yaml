@@ -1,0 +1,6 @@
+interface:
+  display_name: "Configuring Microsegmentation For Zero Trust"
+  short_description: "Configure microsegmentation policies to enforce least-privile..."
+  default_prompt: "Use $configuring-microsegmentation-for-zero-trust for an authorized cybersecurity task."
+policy:
+  allow_implicit_invocation: false

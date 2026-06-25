@@ -1,0 +1,6 @@
+interface:
+  display_name: "UI Demo"
+  short_description: "Record polished UI demo videos using Playwright. Use when the..."
+  default_prompt: "Use $ui-demo to help with this task."
+policy:
+  allow_implicit_invocation: true

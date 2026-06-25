@@ -1,0 +1,6 @@
+interface:
+  display_name: "Continuous Learning"
+  short_description: "[DEPRECATED - use continuous-learning-v2] Legacy v1 stop-hook..."
+  default_prompt: "Use $continuous-learning to help with this task."
+policy:
+  allow_implicit_invocation: true

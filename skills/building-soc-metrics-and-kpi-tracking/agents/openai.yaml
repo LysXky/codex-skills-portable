@@ -1,0 +1,6 @@
+interface:
+  display_name: "Building SOC Metrics And KPI Tracking"
+  short_description: "Builds SOC performance metrics and KPI tracking dashboards me..."
+  default_prompt: "Use $building-soc-metrics-and-kpi-tracking for an authorized cybersecurity task."
+policy:
+  allow_implicit_invocation: false

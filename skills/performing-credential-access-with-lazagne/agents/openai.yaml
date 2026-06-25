@@ -1,0 +1,6 @@
+interface:
+  display_name: "Performing Credential Access With Lazagne"
+  short_description: "Extract stored credentials from compromised endpoints using t..."
+  default_prompt: "Use $performing-credential-access-with-lazagne for an authorized cybersecurity task."
+policy:
+  allow_implicit_invocation: false

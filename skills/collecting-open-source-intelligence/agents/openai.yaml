@@ -1,0 +1,6 @@
+interface:
+  display_name: "Collecting Open Source Intelligence"
+  short_description: "Collects and synthesizes open-source intelligence (OSINT) abo..."
+  default_prompt: "Use $collecting-open-source-intelligence for an authorized cybersecurity task."
+policy:
+  allow_implicit_invocation: false

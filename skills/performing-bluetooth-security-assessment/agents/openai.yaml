@@ -1,0 +1,6 @@
+interface:
+  display_name: "Performing Bluetooth Security Assessment"
+  short_description: "Assess Bluetooth Low Energy device security by scanning, enum..."
+  default_prompt: "Use $performing-bluetooth-security-assessment for an authorized cybersecurity task."
+policy:
+  allow_implicit_invocation: false

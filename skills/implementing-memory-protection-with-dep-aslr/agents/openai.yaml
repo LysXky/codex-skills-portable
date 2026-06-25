@@ -1,0 +1,6 @@
+interface:
+  display_name: "Implementing Memory Protection With Dep Aslr"
+  short_description: "Implements memory protection mechanisms including DEP (Data E..."
+  default_prompt: "Use $implementing-memory-protection-with-dep-aslr for an authorized cybersecurity task."
+policy:
+  allow_implicit_invocation: false

@@ -1,0 +1,6 @@
+interface:
+  display_name: "Analyzing Prefetch Files For Execution History"
+  short_description: "Parse Windows Prefetch files to determine program execution h..."
+  default_prompt: "Use $analyzing-prefetch-files-for-execution-history for an authorized cybersecurity task."
+policy:
+  allow_implicit_invocation: false

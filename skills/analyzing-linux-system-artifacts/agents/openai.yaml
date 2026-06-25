@@ -1,0 +1,6 @@
+interface:
+  display_name: "Analyzing Linux System Artifacts"
+  short_description: "Examine Linux system artifacts including auth logs, cron jobs..."
+  default_prompt: "Use $analyzing-linux-system-artifacts for an authorized cybersecurity task."
+policy:
+  allow_implicit_invocation: false

@@ -1,0 +1,6 @@
+interface:
+  display_name: "Performing Memory Forensics With Volatility3"
+  short_description: "Analyze volatile memory dumps using Volatility 3 to extract r..."
+  default_prompt: "Use $performing-memory-forensics-with-volatility3 for an authorized cybersecurity task."
+policy:
+  allow_implicit_invocation: false

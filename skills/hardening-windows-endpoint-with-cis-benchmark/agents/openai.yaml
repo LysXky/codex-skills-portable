@@ -1,0 +1,6 @@
+interface:
+  display_name: "Hardening Windows Endpoint With Cis Benchmark"
+  short_description: "Hardens Windows endpoints using CIS (Center for Internet Secu..."
+  default_prompt: "Use $hardening-windows-endpoint-with-cis-benchmark for an authorized cybersecurity task."
+policy:
+  allow_implicit_invocation: false

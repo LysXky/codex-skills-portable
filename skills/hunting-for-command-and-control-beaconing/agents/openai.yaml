@@ -1,0 +1,6 @@
+interface:
+  display_name: "Hunting For Command And Control Beaconing"
+  short_description: "Detect C2 beaconing patterns in network traffic using frequen..."
+  default_prompt: "Use $hunting-for-command-and-control-beaconing for an authorized cybersecurity task."
+policy:
+  allow_implicit_invocation: false

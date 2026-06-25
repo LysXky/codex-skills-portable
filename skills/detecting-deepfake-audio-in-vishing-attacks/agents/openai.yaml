@@ -1,0 +1,6 @@
+interface:
+  display_name: "Detecting Deepfake Audio In Vishing Attacks"
+  short_description: "Detects AI-generated deepfake audio used in voice phishing (v..."
+  default_prompt: "Use $detecting-deepfake-audio-in-vishing-attacks for an authorized cybersecurity task."
+policy:
+  allow_implicit_invocation: false

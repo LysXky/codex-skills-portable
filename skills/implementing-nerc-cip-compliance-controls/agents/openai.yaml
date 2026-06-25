@@ -1,0 +1,6 @@
+interface:
+  display_name: "Implementing Nerc Cip Compliance Controls"
+  short_description: "This skill covers implementing North American Electric Reliab..."
+  default_prompt: "Use $implementing-nerc-cip-compliance-controls for an authorized cybersecurity task."
+policy:
+  allow_implicit_invocation: false

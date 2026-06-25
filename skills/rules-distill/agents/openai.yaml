@@ -1,0 +1,6 @@
+interface:
+  display_name: "Rules Distill"
+  short_description: "Scan skills to extract cross-cutting principles and distill t..."
+  default_prompt: "Use $rules-distill to help with this task."
+policy:
+  allow_implicit_invocation: true

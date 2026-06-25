@@ -1,0 +1,6 @@
+interface:
+  display_name: "Performing File Carving With Foremost"
+  short_description: "Recover files from disk images and unallocated space using Fo..."
+  default_prompt: "Use $performing-file-carving-with-foremost for an authorized cybersecurity task."
+policy:
+  allow_implicit_invocation: false

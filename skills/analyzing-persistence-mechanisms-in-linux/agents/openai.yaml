@@ -1,0 +1,6 @@
+interface:
+  display_name: "Analyzing Persistence Mechanisms In Linux"
+  short_description: "Detect and analyze Linux persistence mechanisms including cro..."
+  default_prompt: "Use $analyzing-persistence-mechanisms-in-linux for an authorized cybersecurity task."
+policy:
+  allow_implicit_invocation: false

@@ -1,0 +1,6 @@
+interface:
+  display_name: "Performing Cloud Asset Inventory With Cartography"
+  short_description: "Perform comprehensive cloud asset inventory and relationship..."
+  default_prompt: "Use $performing-cloud-asset-inventory-with-cartography for an authorized cybersecurity task."
+policy:
+  allow_implicit_invocation: false

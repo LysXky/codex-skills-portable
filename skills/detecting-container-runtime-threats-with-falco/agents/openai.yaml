@@ -1,0 +1,6 @@
+interface:
+  display_name: "Detecting Container Runtime Threats With Falco"
+  short_description: "Write and deploy Falco rules with the modern eBPF driver to d..."
+  default_prompt: "Use $detecting-container-runtime-threats-with-falco for an authorized cybersecurity task."
+policy:
+  allow_implicit_invocation: false

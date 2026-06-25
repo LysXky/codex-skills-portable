@@ -1,0 +1,6 @@
+interface:
+  display_name: "Detecting Service Account Abuse"
+  short_description: "Detect abuse of service accounts through anomalous interactiv..."
+  default_prompt: "Use $detecting-service-account-abuse for an authorized cybersecurity task."
+policy:
+  allow_implicit_invocation: false
