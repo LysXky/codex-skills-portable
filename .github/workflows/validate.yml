@@ -1,0 +1,48 @@
+name: Validate portable skills
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+
+permissions:
+  contents: read
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Check shell scripts
+        run: bash -n scripts/*.sh projects/pdf-to-markdown/install.sh
+
+      - name: Validate manifest and skill count
+        run: |
+          python - <<'PY'
+          import json
+          from pathlib import Path
+
+          manifest = json.loads(Path("manifest.json").read_text(encoding="utf-8"))
+          skills = [path for path in Path("skills").iterdir() if path.is_dir()]
+          assert manifest["skill_count"] == 1091
+          assert len(skills) == manifest["skill_count"]
+          for skill in skills:
+              assert (skill / "SKILL.md").is_file(), skill
+          PY
+
+      - name: Test Linux installation
+        run: |
+          export CODEX_HOME="$RUNNER_TEMP/codex"
+          ./scripts/install.sh
+          test "$(find "$CODEX_HOME/skills" -mindepth 1 -maxdepth 1 -type d | wc -l)" -eq 1091
+          test -f "$CODEX_HOME/skills/pdf-to-markdown/SKILL.md"
+          test ! -d "$CODEX_HOME/skills/pdf-to-markdown/.runtime"
+
+      - name: Test PDF converter code
+        working-directory: projects/pdf-to-markdown
+        run: python -m unittest discover -s tests -v
