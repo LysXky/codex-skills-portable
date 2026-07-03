@@ -23,6 +23,27 @@ This repository aggregates and adapts material from multiple open-source project
 - License copy: `licenses/awesome-cyber-skills-MIT.txt`
 - Modifications: the source catalog was transformed into the `$cyber-training-lab-finder` skill.
 
+## graphify
+
+- Source: https://github.com/safishamsi/graphify
+- License: MIT
+- License copy: `licenses/graphify-MIT.txt`
+- Modifications: adapted the Codex-oriented graph workflow skill and references for local portable distribution.
+
+## ui-ux-pro-max-skill
+
+- Source: https://github.com/nextlevelbuilder/ui-ux-pro-max-skill
+- License: MIT
+- License copy: `licenses/ui-ux-pro-max-skill-MIT.txt`
+- Modifications: selected and adapted the `ui-ux-pro-max`, `ui-styling`, and `banner-design` skills for Codex compatibility and portable distribution.
+
+## superpowers
+
+- Source: https://github.com/obra/superpowers
+- License: MIT
+- License copy: `licenses/superpowers-MIT.txt`
+- Modifications: adapted the Superpowers workflow skills for Codex compatibility, including a less invasive `using-superpowers` trigger description for general Codex use.
+
 ## Microsoft MarkItDown
 
 - Source: https://github.com/microsoft/markitdown

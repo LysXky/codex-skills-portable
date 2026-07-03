@@ -1,7 +1,7 @@
 ---
 estado: publicado
 github: https://github.com/LysXky/codex-skills-portable
-skills: 1091
+skills: 1110
 tags:
   - codex
   - github
@@ -14,11 +14,12 @@ tags:
 Repositorio público para transportar las skills locales de Codex a Linux y VSCodium.
 
 - GitHub: [LysXky/codex-skills-portable](https://github.com/LysXky/codex-skills-portable)
-- Skills exportadas: **1.091**
+- Skills exportadas: **1.110**
 - Instaladores: Linux y Windows
 - Catálogo: `docs/CATALOG.md`
 - Manifiesto: `manifest.json`
 - Proyecto manual PDF → Markdown: `projects/pdf-to-markdown`
+- Nuevas fuentes agregadas: `graphify`, `ui-ux-pro-max-skill`, `superpowers`
 
 ## Instalación rápida en Linux
 
@@ -39,3 +40,4 @@ Reiniciar Codex o VSCodium después de instalar.
 - La colección contiene licencias mixtas y conserva atribución.
 - Los ejemplos con apariencia de credencial fueron redactados en la copia pública.
 - Las skills ofensivas requieren autorización explícita y revisión de scripts antes de ejecutarlos.
+- El exportador del repo maneja mejor directorios de solo lectura en Windows para regenerar `skills/` sin fallar.

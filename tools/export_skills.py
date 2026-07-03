@@ -5,8 +5,10 @@ from __future__ import annotations
 
 import argparse
 import json
+import os
 import re
 import shutil
+import stat
 from collections import Counter
 from pathlib import Path
 
@@ -68,8 +70,14 @@ def classify(name: str, description: str) -> str:
 
 def copy_skill(source: Path, destination: Path) -> None:
     if destination.exists():
-        shutil.rmtree(destination)
+        shutil.rmtree(destination, onexc=_on_rm_error)
     shutil.copytree(source, destination, ignore=ignore)
+
+
+def _on_rm_error(func, path, exc_info) -> None:
+    """Clear read-only bits so Windows can remove exported skill trees."""
+    os.chmod(path, stat.S_IWRITE)
+    func(path)
 
 
 def main() -> None:

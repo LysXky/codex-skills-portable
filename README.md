@@ -1,12 +1,15 @@
 # Codex Skills Portable
 
-Portable collection of **1,091 Codex skills** prepared for Windows, Linux and VSCodium.
+Portable collection of **1,110 Codex skills** prepared for Windows, Linux and VSCodium.
 
 ## What is included
 
 - Engineering, testing, architecture, research and content skills from ECC.
 - 817 cybersecurity skills adapted for explicit invocation and authorized use.
 - A legal cybersecurity training-lab finder with 111 cataloged resources.
+- Graph-based codebase exploration with `graphify`.
+- UI and design workflow skills including `ui-ux-pro-max`, `ui-styling`, and `banner-design`.
+- Superpowers development-process skills for brainstorming, planning, TDD, debugging, review, and branch completion.
 - `$pdf-to-markdown`, a local zero-token PDF-to-Markdown converter based on Microsoft MarkItDown.
 - Linux and Windows installers.
 - A generated catalog and machine-readable manifest.
