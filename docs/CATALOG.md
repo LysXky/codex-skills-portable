@@ -1,13 +1,13 @@
 # Skill Catalog
 
-Total: **1110 skills**.
+Total: **1111 skills**.
 
 ## Categories
 
 | Category | Count |
 |---|---:|
 | cybersecurity | 455 |
-| general | 197 |
+| general | 198 |
 | testing-quality | 132 |
 | devops-platform | 103 |
 | frontend-design | 88 |
@@ -541,6 +541,7 @@ Total: **1110 skills**.
 | [`$hunting-for-unusual-service-installations`](../skills/hunting-for-unusual-service-installations/SKILL.md) | cybersecurity | Detect suspicious Windows service installations (MITRE ATT&CK T1543.003) |
 | [`$hunting-for-webshell-activity`](../skills/hunting-for-webshell-activity/SKILL.md) | devops-platform | Hunt for web shell deployments on internet-facing servers by analyzing |
 | [`$hunting-saas-sso-token-abuse`](../skills/hunting-saas-sso-token-abuse/SKILL.md) | general | Detect SSO and OAuth token replay and SaaS lateral movement. |
+| [`$ian-xiaohei-illustrations`](../skills/ian-xiaohei-illustrations/SKILL.md) | general | 生成 Ian 风格的中文正文配图。用于用户要求为中文文章、帖子、博客、Notion 文档、工作流文档、方法论、流程、结构、状态、隐喻或观点生成“怪诞”“小黑”“手绘”“正文配图”“文章插图”“配图建议”“shot list”“去标题/改图”等任务；默认使用小黑 IP、纯白手绘、少量红橙蓝批注、简洁清爽但天马行空的视觉风格。 |
 | [`$implementing-aes-encryption-for-data-at-rest`](../skills/implementing-aes-encryption-for-data-at-rest/SKILL.md) | devops-platform | AES (Advanced Encryption Standard) is a symmetric block cipher standardized |
 | [`$implementing-alert-fatigue-reduction`](../skills/implementing-alert-fatigue-reduction/SKILL.md) | cybersecurity | Implements strategies to reduce SOC alert fatigue by tuning detection rules, consolidating duplicate alerts, implementing risk-based alerting, and measuring alert quality metrics to maintain analyst effectiveness and prevent critical alert dismissal. Use when SOC teams face overwhelming alert volumes, high false positive rates, or declining analyst performance. |
 | [`$implementing-anti-phishing-training-program`](../skills/implementing-anti-phishing-training-program/SKILL.md) | cybersecurity | Security awareness training is the human layer of phishing defense. An |

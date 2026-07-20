@@ -1,6 +1,6 @@
 # Codex Skills Portable
 
-Portable collection of **1,110 Codex skills** prepared for Windows, Linux and VSCodium.
+Portable collection of **1,111 Codex skills** prepared for Windows, Linux and VSCodium.
 
 ## What is included
 
@@ -9,6 +9,7 @@ Portable collection of **1,110 Codex skills** prepared for Windows, Linux and VS
 - A legal cybersecurity training-lab finder with 111 cataloged resources.
 - Graph-based codebase exploration with `graphify`.
 - UI and design workflow skills including `ui-ux-pro-max`, `ui-styling`, and `banner-design`.
+- Ian Xiaohei illustration planning/generation workflow for Chinese article images.
 - Superpowers development-process skills for brainstorming, planning, TDD, debugging, review, and branch completion.
 - `$pdf-to-markdown`, a local zero-token PDF-to-Markdown converter based on Microsoft MarkItDown.
 - Linux and Windows installers.

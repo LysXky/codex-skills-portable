@@ -44,6 +44,13 @@ This repository aggregates and adapts material from multiple open-source project
 - License copy: `licenses/superpowers-MIT.txt`
 - Modifications: adapted the Superpowers workflow skills for Codex compatibility, including a less invasive `using-superpowers` trigger description for general Codex use.
 
+## ian-xiaohei-illustrations
+
+- Source: https://github.com/helloianneo/ian-xiaohei-illustrations
+- License: MIT
+- License copy: `licenses/ian-xiaohei-illustrations-MIT.txt`
+- Modifications: imported the Codex-ready illustration skill, references, examples, and OpenAI metadata into the portable distribution.
+
 ## Microsoft MarkItDown
 
 - Source: https://github.com/microsoft/markitdown
